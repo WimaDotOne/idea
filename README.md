@@ -73,3 +73,8 @@ const nextConfig = {
 
 export default nextConfig  // use export default intead of module.exports =
 ```
+
+```
+Procfile
+web: node Server.js
+```
