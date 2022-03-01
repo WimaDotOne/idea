@@ -1,0 +1,36 @@
+@use "../../../CSS/color.module";
+@use "../../../CSS/dimension.module";
+
+.div0 {
+  padding: 8px 0;
+  position: relative;
+}
+
+.area {
+  margin: 0;
+  appearance: none;
+  border: none;
+  outline: none;
+  width: 100%;
+  box-sizing: border-box;
+  font-size: dimension.$fontSize14;
+  line-height: 20px;
+  padding: 0 2px;
+  box-shadow: 0 3px 0 -2px color.$underscoreLightGray;
+  transition: box-shadow 0.2s;
+  resize: none;
+}
+
+.area:focus {
+  box-shadow: 0 3px 0 -1px color.$formTheme;
+}
+
+.count {
+  position: absolute;
+  right: 5px;
+  font-size: 10px;
+  line-height: 12px;
+  text-align: right;
+  padding-top: 1px;
+  color: gray;
+}

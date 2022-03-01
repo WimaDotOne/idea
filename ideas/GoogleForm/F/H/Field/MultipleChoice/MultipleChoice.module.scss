@@ -1,0 +1,21 @@
+@use "../../../CSS/dimension.module";
+
+.optionDiv {
+  padding: 8px 8px 8px 0;
+  display: grid;
+  grid-template-columns: 20px auto;
+  column-gap: 12px;
+  align-items: center;
+}
+
+.input {
+  padding: 0;
+  margin: 0;
+  width: 20px;
+  height: 20px;
+}
+
+.label {
+  font-size: dimension.$fontSize14;
+  line-height: 17px;
+}

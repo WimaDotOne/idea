@@ -1,0 +1,42 @@
+@use "../../CSS/color.module";
+@use "../../CSS/dimension.module";
+
+.cardDiv {
+  position: relative;
+  box-sizing: border-box;
+  border: dimension.$cardBorderSize solid color.$cardBorderGray;
+  border-radius: dimension.$cardBorderRadius;
+  padding: 24px;
+  color: color.$cardTextBlack;
+  background-color: white;
+  overflow: hidden;
+  margin-bottom: 12px;
+}
+
+.cardDiv.error {
+  border-color: color.$errorRed;
+}
+
+.question {
+  font-size: 16px;
+  margin-bottom: 16px;
+}
+.description {
+  font-size: 12px;
+  margin-top: 4px;
+}
+
+.errorDiv {
+  display: flex;
+  align-items: center;
+  margin-top: 8px;
+  padding-left: 2px;
+}
+.errorSvgDiv {
+  height: 22px;
+  margin-right: 12px;
+}
+.errorMessage {
+  color: color.$errorRed;
+  font-size: 12px;
+}

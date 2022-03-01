@@ -1,0 +1,61 @@
+@use "../../../CSS/color.module";
+@use "../../../CSS/dimension.module";
+
+.div0 {
+  padding: 8px 0;
+}
+@media screen and (min-width: 660px) {
+  .div0 {
+    width: 50%;
+  }
+}
+
+.div1 {
+  position: relative;
+  background-color: white;
+  border-radius: 5px;
+}
+.ghost {
+  position: absolute;
+  box-sizing: border-box;
+  z-index: 1;
+  width: 100%;
+  color: gray;
+  font-size: dimension.$fontSize14;
+  display: flex;
+  align-items: center;
+  height: 100%;
+  width: calc(100% - 48px);
+  padding: 8px 0 8px 16px;
+  z-index: 0;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.select {
+  margin: 0;
+  border: none;
+  appearance: none;
+  border-radius: 5px;
+  outline: none;
+  width: 100%;
+  box-sizing: border-box;
+  font-size: dimension.$fontSize14;
+  height: 48px;
+  padding: 8px 48px 8px 16px;
+  box-shadow: 0 0 0 1px color.$underscoreLightGray;
+  transition: box-shadow 0.2s;
+  position: relative;
+  z-index: 2;
+  background-color: transparent;
+}
+
+.select:focus {
+  box-shadow: 0 0 0 2px color.$formTheme;
+}
+
+.arrow {
+  position: absolute;
+  top: 15px;
+  right: 10px;
+  z-index: 1;
+}

@@ -1,0 +1,32 @@
+@use "../../../CSS/color.module";
+@use "../../../CSS/dimension.module";
+
+.cardDiv {
+  position: relative;
+  box-sizing: border-box;
+  border: dimension.$cardBorderSize solid color.$cardBorderGray;
+  border-radius: dimension.$cardBorderRadius;
+  padding: 22px 24px 16px;
+  color: color.$cardTextBlack;
+  background-color: white;
+  overflow: hidden;
+  margin-bottom: 12px;
+}
+
+.themeStripe {
+  background-color: color.$formTheme;
+  height: 10px;
+  position: absolute;
+  top: calc(-1 * dimension.$cardBorderSize);
+  left: calc(-1 * dimension.$cardBorderSize);
+  right: calc(-1 * dimension.$cardBorderSize);
+}
+
+.title {
+  font-size: 32px;
+}
+
+.discription {
+  font-size: dimension.$fontSize14;
+  margin-top: 12px;
+}
