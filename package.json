@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "nodemon Server.js",
     "next": "next dev",
-    "build": "next build",
+    "build": "next build && next export",
     "start": "node Server.js",
     "heroku-postbuild": "npm run build"
   },
