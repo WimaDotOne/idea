@@ -20,7 +20,7 @@ server.use(bConfig.bRoute1+"/login", LoginRouter)
 server.use(bConfig.bRoute1+"/analytics", AnalyticsRouter)
 // server.use(bConfig.bRoute1+"/rosettastone", RosettaStoneRouter)
 
-server.use(express.static(FilePath(import.meta.url, "../out")))
+server.use(express.static(FilePath(import.meta.url, "./out")))
 
 server.use("/", (_, res)=>{
   return res.sendFile(FilePath(import.meta.url, "./ideas/Core/404.html"))
