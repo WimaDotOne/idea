@@ -5,7 +5,7 @@ async function iLoadLogin(req, res) {
     const login = await Login.findById(req.login._id)
 
     if(!login) {
-      return res.json({ok: false, error: "Cannont find login info"})
+      return res.json({ok: false, error: "Cannot find login info"})
     }
 
     const loginInfo = { name: "", email: "", title: ""}
