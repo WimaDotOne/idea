@@ -1,4 +1,4 @@
-import { SvgIcon } from "../../../../../SVG/SvgIcon"
+import { SvgIcon } from "../../../../../Svg/SvgIcon"
 import cl from "./Title.module.scss"
 
 interface ITitleProp {

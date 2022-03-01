@@ -1,5 +1,5 @@
 
-import { SvgIcon } from "../../../../../SVG/SvgIcon"
+import { SvgIcon } from "../../../../../Svg/SvgIcon"
 import { Options } from "../../../Model/Options"
 import cl from "./SelectField.module.scss"
 

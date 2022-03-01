@@ -1,7 +1,7 @@
 import { SelectField } from "../../../H/Field/SelectField/SelectField"
-import { Options } from "../../../../../Brand/GoogleForm/Model/Options"
 import { SelectFieldError } from "../../../Model/SelectFieldError"
 import { QuestionCardDiv } from "../../../H/QuestionCardDiv/QuestionCardDiv"
+import { Options } from "../../../Model/Options"
 
 interface ISelectFieldCardProp {
   question: string
