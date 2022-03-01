@@ -6,7 +6,7 @@ const Home: NextPage = () => {
     <Head>
       <title>Ideas</title>
       <meta name="description" content="Web app ideas" />
-      <link rel="icon" href="/img/favicon.ico" />
+      <link rel="icon" href="/favicon.ico" />
     </Head>
     Home
   </>)

@@ -9,13 +9,13 @@ export function StripeLoginDemo() {
   const router = useRouter()
 
   function goToContact() {
-    router.push("/My/Contact")
+    router.push("/StripeLogin/Contact")
   }
   function goToPrivacy() {
-    router.push("/Brand/StripeTerms/privacy")
+    router.push("/StripeLogin/Privacy")
   }
   function goToTerms() {
-    router.push("/Brand/StripeTerms/terms")
+    router.push("/StripeLogin/Terms")
   }
  
   return(<>
