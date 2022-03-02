@@ -14,3 +14,25 @@ a {
 * {
   box-sizing: border-box;
 }
+
+/* scroll bar css here won't work for firefox */
+/* width */
+::-webkit-scrollbar {
+  max-width:7px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #aaa; 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #666;
+}

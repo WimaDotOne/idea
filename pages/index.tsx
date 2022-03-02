@@ -21,6 +21,7 @@ const Home: NextPage = () => {
       <Link href="/StripeLogin/Privacy"><a>Privacy</a></Link> &nbsp;&nbsp;
       <Link href="/StripeLogin/Terms"><a>Terms</a></Link> &nbsp;&nbsp;
       <Link href="/StripeLogin/Contact"><a>Contact</a></Link> &nbsp;&nbsp;
+      <Link href="/Fancy"><a>Fancy</a></Link> &nbsp;&nbsp;
       </div>
       <Div height={20} />
       <h3>Ideas</h3>

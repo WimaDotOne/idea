@@ -1,0 +1,20 @@
+@use "../../../CSS/color.module";
+
+.audioDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background-color: color.$speakerGreen;
+}
+.audioDiv.disable {
+  background-color: #ccc;
+}
+.audioDiv.disable:hover {
+  cursor: default;
+}
+.audioDiv:hover {
+  cursor: pointer;
+}
