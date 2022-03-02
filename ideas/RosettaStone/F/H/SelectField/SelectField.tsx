@@ -33,7 +33,7 @@ export function SelectField({
 
   return(<>
     <div className={cl.selectField}>
-      <div className={ClassNames([cl.input, clDrop])} onClick={onClickInput}>
+      <div className={ClassNames([cl.inputDiv, clDrop])} onClick={onClickInput}>
         <Image hasImage={options.hasImage} imageUrl={option?.imgUrl}/>
         <Text text={option?.text || ""}/>
         <div className={cl.arrow}>

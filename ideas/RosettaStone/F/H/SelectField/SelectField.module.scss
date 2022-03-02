@@ -1,19 +1,26 @@
 .selectField {
   width: 100%;
+  position: relative;
 }
-.input {
+.inputDiv {
   border: 2px solid #aed1ec;
   border-radius: 5px;
   padding: 0 10px;
+  background-color: white;
 }
-.input .text {
+.inputDiv .text {
   font-weight: 500;
 }
-.input.drop {
+.inputDiv.drop {
   border-radius: 5px 5px 0 0;
   border-bottom: 2px solid #aed1ec;
 }
 .options {
+  position: absolute;
+  left: 0;
+  right: 0;
+  z-index: 2;
+  background-color: white;
   border: 2px solid #aed1ec;
   border-top: none;
   border-radius: 0 0 5px 5px;
@@ -26,7 +33,7 @@
 .option {
   padding-left: 10px;
 }
-.input, .option {
+.inputDiv, .option {
   display: flex;
   height: 40px;
 }
