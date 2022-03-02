@@ -1,6 +1,6 @@
-import { SvgIcon } from "../../../../../SVG/SvgIcon"
-import { ClassNames } from "../../../../../Tool/ClassName"
-import { Speaker } from "../../../Model/Speaker"
+import { ClassNames } from "../../../../../../Core/fCore"
+import { SvgIcon } from "../../../../../../Svg/SvgIcon"
+import { Speaker } from "../../../../Model/Speaker"
 import cl from "./SpeakButton.module.scss"
 
 interface ISpeakButtonProp {

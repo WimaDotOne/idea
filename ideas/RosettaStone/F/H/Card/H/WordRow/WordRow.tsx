@@ -1,6 +1,6 @@
-import { ClassNames } from "../../../../../Tool/ClassName"
-import { SpeakButton } from "../../../H/Card/SpeakButton/SpeakButton"
-import { Speaker } from "../../../Model/Speaker"
+import { ClassNames } from "../../../../../../Core/fCore"
+import { Speaker } from "../../../../Model/Speaker"
+import { SpeakButton } from "../SpeakButton/SpeakButton"
 import cl from "./WordRow.module.scss"
 
 interface IWordRowProp {

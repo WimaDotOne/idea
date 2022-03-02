@@ -1,5 +1,4 @@
 import { useEffect, useRef, useState } from "react"
-import { SvgIcon } from "../../../../../SVG/SvgIcon"
 import cl from "./CheckMark.module.scss"
 
 interface CheckMarkProp {

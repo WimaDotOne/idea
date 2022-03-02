@@ -1,9 +1,9 @@
 import { useState, useRef } from "react"
-import { SvgIcon } from "../../../../../SVG/SvgIcon"
-import { ClassNames } from "../../../../../Tool/ClassName"
-import { color } from "../../../CSS/Color"
-import { IsMatch } from "../../../Model/Match"
-import { Recog } from "../../../Model/Recog"
+import { ClassNames } from "../../../../../../Core/fCore"
+import { SvgIcon } from "../../../../../../Svg/SvgIcon"
+import { color } from "../../../../CSS/Color"
+import { IsMatch } from "../../../../Model/Match"
+import { Recog } from "../../../../Model/Recog"
 import cl from "./VoiceField.module.scss"
 
 interface IVoiceFieldProp {
