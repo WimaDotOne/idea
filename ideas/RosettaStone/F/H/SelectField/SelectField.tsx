@@ -6,31 +6,39 @@ import { IOption } from "../../Model/Options"
 import cl from "./SelectField.module.scss"
 
 interface ISelectFieldProp {
+  value: string
+  setValue: (value: string)=>void
   options: Options
 }
 export function SelectField({
+  value,
+  setValue,
   options
 }:ISelectFieldProp) {
-
-  const [option, setOption] = useState<IOption | null>(()=>{
-    if(options && options.array) return options.array[0]
+  if(!options || !options.array) {
     return null
-  })
+  }
+  
   const [drop, setDrop] = useState<boolean>(false)
+
+  function getOption() {
+    for(const opt of options.array) {
+      if(opt.value === value) {
+        return opt
+      }
+    }
+    return null
+  }
 
   function onClickInput() {
     setDrop((prev)=>!prev)
   }
   function onClickOption(opt: IOption) {
-    setOption(opt)
+    setValue(opt.value)
     setDrop(false)
   }
   const clDrop = drop ? cl.drop : ""
-
-  if(!options || !options.array) {
-    return null
-  }
-
+  const option = getOption()
   return(<>
     <div className={cl.selectField}>
       <div className={ClassNames([cl.inputDiv, clDrop])} onClick={onClickInput}>

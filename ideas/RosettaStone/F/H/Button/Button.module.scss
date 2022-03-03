@@ -1,0 +1,19 @@
+.button {
+  display: inline-flex;
+  height: 35px;
+  font-size: 20px;
+  font-weight: 500;
+  align-items: center;
+  color: white;
+  background-color: #02b1ff;
+  cursor: pointer;
+  padding: 0 15px;
+  border-radius: 7px;
+}
+.text {
+  position: relative;
+  top: -1px;
+}
+.button:hover {
+  opacity: 0.9;
+}

@@ -1,6 +1,6 @@
 import Head from "next/head"
-import { Div } from "../../Core/fCore"
-import { HLine, LimitWidth, LogoBar, Paragraph, SectionHeader, TermHeader } from "../fLogin"
+import { Div, HLine, LimitWidth } from "../../Core/fCore"
+import { LogoBar, Paragraph, SectionHeader, TermHeader } from "../fLogin"
 
 interface IPrivacyProp {
   onClickLogo?: ()=>void

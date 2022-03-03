@@ -6,12 +6,16 @@ import { ClassNames } from "./F/Tool/ClassName";
 import { Post, Post2, Get } from "./F/Tool/Fetch";
 import { Alert, AlertSysError } from "./F/Tool/Alert";
 import { IsEmail } from "./B/Email/IsEmail"
+import { LimitWidth } from "./F/View/LimitWidth/LimitWidth"
+import { HLine } from "./F/View/HLine/HLine"
 
 export {
   Collapsible,
   Scrollable,
   Div,
   useShield,
+  LimitWidth,
+  HLine,
 
   ClassNames,
   Post, Post2, Get,

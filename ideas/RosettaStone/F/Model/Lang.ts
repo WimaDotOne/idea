@@ -2,7 +2,8 @@ const Lang = {
   English: "en-US",
   Chinese: "zh-CN",
   German: "de-DE",
-  French: "fr-FR"
+  French: "fr-FR",
+  Ukrainian: "uk-UA"
 }
 export { Lang }
 

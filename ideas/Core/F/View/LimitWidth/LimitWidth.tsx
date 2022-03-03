@@ -1,16 +1,18 @@
 import { CSSProperties, ReactNode } from "react"
-import { ClassNames } from "../../../../../Core/fCore"
+import { ClassNames } from "../../Tool/ClassName"
 import cl from "./LimitWidth.module.scss"
 
 interface ILimitWidth {
   children: ReactNode
   gray?: boolean
+  yellow?: boolean
   maxWidth?: number
 }
 
 export function LimitWidth({
   children, 
   gray,
+  yellow,
   maxWidth
 }: ILimitWidth) {
 
@@ -19,8 +21,9 @@ export function LimitWidth({
     style.maxWidth = maxWidth + "px"
   }
   const clGray = gray ? cl.gray : ""
+  const clYellow = yellow ? cl.yellow: ""
   return(<>
-    <div className={ClassNames([cl.limitWidth, clGray])}>
+    <div className={ClassNames([cl.limitWidth, clGray, clYellow])}>
       <div className={cl.limitWidthInner} style={style}>
         {children}
       </div>
