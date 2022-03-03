@@ -1,10 +1,7 @@
 import Head from 'next/head'
 import { useState } from 'react'
 import { Landing } from '../../H/Landing/Landing'
-import { NavBar } from '../../H/NavBar/NavBar'
 import { Lang } from '../../Model/Lang'
-import { IOption } from '../../Model/Options'
-import { LanguageOptions, UnitOptions } from '../../Model/Settings'
 
 export default function LearnLanguage() {
 
