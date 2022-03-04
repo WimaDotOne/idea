@@ -1,4 +1,4 @@
-import { Lang, LangName } from "./Lang"
+import { Lang } from "./Lang"
 
 declare global {
   interface Window {
@@ -62,7 +62,7 @@ export class Recog {
     const grammars = new SpeechGrammarList()
     grammars.addFromString(grammar, 1)
     this.recognition.grammars = grammars
-
+console.log(word)
     try {
       this.recognition.start()
     } catch(err) {

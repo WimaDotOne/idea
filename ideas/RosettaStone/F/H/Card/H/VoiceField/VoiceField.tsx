@@ -1,4 +1,4 @@
-import { useState, useRef } from "react"
+import { useState, useRef, useEffect } from "react"
 import { ClassNames } from "../../../../../../Core/fCore"
 import { SvgIcon } from "../../../../../../Svg/SvgIcon"
 import { color } from "../../../../CSS/Color"
@@ -7,20 +7,30 @@ import { Recog } from "../../../../Model/Recog"
 import cl from "./VoiceField.module.scss"
 
 interface IVoiceFieldProp {
-  word: string,
-  recog?: Recog
+  word: string
+  lang: string
   setMatch: (match: boolean)=>void
 }
 export function VoiceField({
   word,
-  recog,
+  lang,
   setMatch
 }: IVoiceFieldProp) {
 
+  const [refresh, setRefresh] = useState<number>(1)
   const [text, setText] = useState<string>("")
   const [isRecording, setIsRecording] = useState<boolean>(false)
   const inputRef = useRef<HTMLInputElement>(null)
-
+  const recogRef = useRef<Recog>()
+  
+  useEffect(()=>{
+    console.log("Recof field")
+    const recog = recogRef.current
+    if(!recog) {
+      recogRef.current = new Recog(window, lang)
+      setRefresh((refresh+1)%100)
+    }
+  }, [])
 
   function onInputChange(newValue: string) {
     setText(newValue)
@@ -62,6 +72,7 @@ export function VoiceField({
     }
   }
 
+  const recog = recogRef.current
   const noRecog = !recog || !recog.canRecognize
   
   const micColor = noRecog ? "#ccc" : color.speakerGreen

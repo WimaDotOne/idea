@@ -1,15 +1,16 @@
 import { ClassNames } from "../../../../../../Core/fCore"
-import { Speaker } from "../../../../Model/Speaker"
 import { SpeakButton } from "../SpeakButton/SpeakButton"
 import cl from "./WordRow.module.scss"
 
 interface IWordRowProp {
   word: string
-  speaker?: Speaker
+  lang?: string
+  speaker?: boolean
 }
 export function WordRow({
   word,
-  speaker
+  speaker,
+  lang
 }:IWordRowProp) {
   
   const wordStyle = WordStyle(word)
@@ -21,9 +22,9 @@ export function WordRow({
         {word}
       </div>
       {
-        speaker?
+        speaker && lang?
         <div className={cl.speakerDiv}>
-          <SpeakButton text={word} speaker={speaker}/>
+          <SpeakButton text={word} lang={lang}/>
         </div>:null
       }
     </div>

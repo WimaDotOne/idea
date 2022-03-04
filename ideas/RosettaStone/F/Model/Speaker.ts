@@ -18,7 +18,7 @@ export class Speaker {
       return
     }
 
-    //assume public/js/speech.js is run
+    //assume public/.../speech.js is run
     const voices = window.SpeechVoices
 
     if(!voices || voices.length < 1) {

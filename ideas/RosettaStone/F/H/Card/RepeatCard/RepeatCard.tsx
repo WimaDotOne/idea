@@ -11,15 +11,13 @@ import { CheckMark } from "../H/CheckMark/CheckMark"
 interface IRepeatCardProp {
   word: string
   translate: string
-  recog?: Recog
-  speaker?: Speaker
+  lang: string
   imageUrl?: string
 }
 export function RepeatCard({
   word,
   translate,
-  recog,
-  speaker,
+  lang,
   imageUrl
 }:IRepeatCardProp) {
 
@@ -31,8 +29,8 @@ export function RepeatCard({
 
   return(<>
     <CardDiv>
-      <WordRow word={word} speaker={speaker}/>
-      <VoiceField recog={recog}
+      <WordRow word={word} speaker lang={lang}/>
+      <VoiceField lang={lang}
         word={word} setMatch={setMatch}/>
       <Div height={10} />
       <Illustration imageUrl={imageUrl} translate={translate} />

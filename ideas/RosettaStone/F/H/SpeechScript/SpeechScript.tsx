@@ -14,7 +14,9 @@ export function SpeechScript() {
   return(<>
     <Script 
       strategy="beforeInteractive"
-      src="/js/speech.js"
+
+      /** Don't forget to update src when needed */
+      src="/RosettaStone/js/speech.js"
     />
   </>)
 }

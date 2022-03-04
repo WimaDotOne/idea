@@ -19,7 +19,6 @@ export function Book({
   
   const shield = useShield()
 
-
   async function LoadWords() {
     Post2(shield, "/rosettastone/LoadWords", {
       lang, 
@@ -51,7 +50,8 @@ export function Book({
             url = `/RosettaStone/img/Illustration/Unit${unit}/${word.illustration}`
           }
           return(<>
-          <RepeatCard key={i}
+          <RepeatCard key={i+word.word}
+            lang={lang}
             word={word.word} 
             translate={word.translate}
             imageUrl={url}
