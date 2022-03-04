@@ -2,6 +2,7 @@ import { Div, LimitWidth } from "../../../../Core/fCore"
 import { Wave } from "../../../../Fancy/fFancy"
 import { IntroText1, IntroText2 } from "../../../../Landing/fLanding"
 import { LanguageOptions, UnitOptions } from "../../Model/Settings"
+import { AppTurn } from "../../View/LearnLanguage/LearnLanguage"
 import { Button } from "../Button/Button"
 import { SelectField } from "../SelectField/SelectField"
 import cl from "./Landing.module.scss"
@@ -11,10 +12,12 @@ interface ILandingProp {
   setLang: (lang:string)=>void
   unit: string
   setUnit: (unit:string)=>void
+  setAppTurn: (appTurn: string)=>void
 }
 export function Landing({
   lang, setLang,
-  unit, setUnit
+  unit, setUnit,
+  setAppTurn
 }: ILandingProp) {
 
   const langOptions = LanguageOptions()
@@ -28,7 +31,7 @@ export function Landing({
   }
 
   function onClickGo() {
-
+    setAppTurn(AppTurn.Book)
   }
 
   return(<>
@@ -50,7 +53,7 @@ export function Landing({
       </div>
     </div>
     <div className={cl.goDiv}>
-      <Button onClick={onClickGo} text="Go ➽"/>
+      <Button onClick={onClickGo} text="Start Learning ➽"/>
     </div>
     <Div height={40} />
     <LimitWidth gray>

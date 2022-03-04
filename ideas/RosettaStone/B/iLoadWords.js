@@ -4,8 +4,8 @@ import { ParseUnitText } from "./H/ParseUnitText.js"
 
 async function iLoadWords(req, res) {
   try {
-    const unit = req.body.unit || 1
-    const lang = req.body.lang || "de-DE"
+    const unit = req.body.unit
+    const lang = req.body.lang
 
     let language = ""
     switch(lang) {
@@ -18,14 +18,18 @@ async function iLoadWords(req, res) {
       default:
     }
 
+    if(!language || !unit) {
+      return res.json({ ok:false, error: "Invalid language or unit"})
+    }
     const path = FilePath(import.meta.url, `./DB/${language}/Unit${unit}.txt`)
     const data = await fsPromises.readFile(
       path, { encoding: "utf8" }
     )
-    const words = ParseUnitText(data)
+
+    const pages = ParseUnitText(data)
     return res.json({
       ok: true,
-      words
+      pages
     })
 
   } catch(err) {

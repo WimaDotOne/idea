@@ -3,6 +3,7 @@ import { SvgFacebook } from "./Brand/Facebook/SvgFacebook"
 import { SvgGoogle } from "./Brand/Google/SvgGoogle"
 import { SvgArrow } from "./Common/Arrow/SvgArrow"
 import { SvgChevron } from "./Common/Arrow/SvgChevron"
+import { SvgFatArrow } from "./Common/Arrow/SvgFatArrow"
 import { SvgCheckMark } from "./Common/CheckMark/SvgCheckMark"
 import { SvgDoorBatwing } from "./Common/Door/SvgDoorBatwing"
 import { SvgEmail } from "./Common/Email/SvgEmail"
@@ -41,6 +42,17 @@ export function SvgIcon({
     case "arrow.down": return <SvgArrow down width={width} stroke={color} strokeWidth={strokeWidth} />
     case "arrow.left": return <SvgArrow left width={width} stroke={color} strokeWidth={strokeWidth} />
     case "arrow.right": return <SvgArrow right width={width} stroke={color} strokeWidth={strokeWidth} />
+
+    case "fatarrow.up": return <SvgFatArrow up width={width} stroke={color} strokeWidth={strokeWidth} />
+    case "fatarrow.down": return <SvgFatArrow down width={width} stroke={color} strokeWidth={strokeWidth} />
+    case "fatarrow.left": return <SvgFatArrow left width={width} stroke={color} strokeWidth={strokeWidth} />
+    case "fatarrow.right": return <SvgFatArrow right width={width} stroke={color} strokeWidth={strokeWidth} />
+
+    case "fatarrow.up.fill": return <SvgFatArrow up width={width} fill={color} stroke={color} strokeWidth={strokeWidth} />
+    case "fatarrow.down.fill": return <SvgFatArrow down width={width}  fill={color} stroke={color} strokeWidth={strokeWidth} />
+    case "fatarrow.left.fill": return <SvgFatArrow left width={width}  fill={color} stroke={color} strokeWidth={strokeWidth} />
+    case "fatarrow.right.fill": return <SvgFatArrow right width={width}  fill={color} stroke={color} strokeWidth={strokeWidth} />
+
 
     case "exclamation.circle": return <SvgExclamationCircle width={width} stroke={color} strokeWidth={strokeWidth}/>
     case "exclamation.triangle.fill": return <SvgExclamationTriangleFill width={width} fill={color} />

@@ -20,13 +20,13 @@ export function CheckMark({
       audio.play()
     }
   }, [])
-  const checkStyle = { backgroundImage: "url(/img/checkmark.green.svg)"}
+  const checkStyle = { backgroundImage: "url(/RosettaStone/img/checkmark.green.svg)"}
   return (<>
     <div ref={checkDivRef} className={cl.checkDiv}>
       <div className={cl.check} style={checkStyle}>
 
       </div>
     </div>
-    <audio ref={audioRef} src="/mp3/correct.mp3" />
+    <audio ref={audioRef} src="/RosettaStone/mp3/correct.mp3" />
   </>)
 }

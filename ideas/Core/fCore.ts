@@ -8,6 +8,7 @@ import { Alert, AlertSysError } from "./F/Tool/Alert";
 import { IsEmail } from "./B/Email/IsEmail"
 import { LimitWidth } from "./F/View/LimitWidth/LimitWidth"
 import { HLine } from "./F/View/HLine/HLine"
+import { Pagination } from "./F/View/Pagination/Pagination";
 
 export {
   Collapsible,
@@ -16,6 +17,7 @@ export {
   useShield,
   LimitWidth,
   HLine,
+  Pagination,
 
   ClassNames,
   Post, Post2, Get,
