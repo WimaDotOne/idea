@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react"
-import { LimitWidth, Pagination, Post2, useShield } from "../../../../Core/fCore"
+import { Div, LimitWidth, Pagination, Post2, useShield } from "../../../../Core/fCore"
 import { IPage } from "../../Model/IPage"
 import { RepeatCard } from "../Card/RepeatCard/RepeatCard"
 import cl from "./Book.module.scss"
@@ -49,17 +49,17 @@ export function Book({
           if(word.illustration) {
             url = `/RosettaStone/img/Illustration/Unit${unit}/${word.illustration}`
           }
-          return(<>
-          <RepeatCard key={i+word.word}
+          return(
+          <RepeatCard key={i}
             lang={lang}
             word={word.word} 
             translate={word.translate}
             imageUrl={url}
-          />
-          </>)
+          />)
         })
       }
     </div>
+    <Div height={20} />
   </div>
   </>)
 }

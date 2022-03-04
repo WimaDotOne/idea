@@ -24,7 +24,6 @@ export function VoiceField({
   const recogRef = useRef<Recog>()
   
   useEffect(()=>{
-    console.log("Recof field")
     const recog = recogRef.current
     if(!recog) {
       recogRef.current = new Recog(window, lang)
