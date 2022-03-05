@@ -27,7 +27,8 @@ function App() {
 
   switch(appTurn) {
     case AppTurn.Book: return(
-      <Book lang={lang} unit={unit}/>
+      <Book lang={lang} unit={unit}
+        setAppTurn={setAppTurn}/>
     )
     default: return(
       <Landing lang={lang} setLang={setLang}

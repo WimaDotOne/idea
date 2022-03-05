@@ -1,7 +1,9 @@
+Guten Tag | Good day | hello1.jpg
+Guten Tag | Good day | hello2.jpg
 Guten Tag | Good day |
-Das Mädchen | Girl
-Der Jungen ajdf asdf sdjf jf asfj safj sdjf sa sdfjasdf  fsd | Boy
-Der Mann | Man
-===
-Guten Morgan | Good morning
-Die Frau | Woman
+Guten Tag | Good day | hello3.jpg
+=====
+der Mann | the man | man1.jpg
+die Frau | the woman | woman1.jpg
+die Frau | the woman |
+der Mann | the man | man2.jpg

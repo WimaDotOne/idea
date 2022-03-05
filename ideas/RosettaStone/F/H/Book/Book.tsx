@@ -1,16 +1,21 @@
 import { useEffect, useState } from "react"
-import { Div, LimitWidth, Pagination, Post2, useShield } from "../../../../Core/fCore"
+import { Div, HLine, LimitWidth, Pagination, Post2, useShield } from "../../../../Core/fCore"
+import { SvgIcon } from "../../../../Svg/SvgIcon"
 import { IPage } from "../../Model/IPage"
+import { AppTurn } from "../../View/LearnLanguage/LearnLanguage"
 import { RepeatCard } from "../Card/RepeatCard/RepeatCard"
+import { Keyboard } from "../Keyboard/Keyboard"
 import cl from "./Book.module.scss"
 
 interface IBookProp {
   lang: string
   unit: string | number
+  setAppTurn: (appTurn: string)=>void
 }
 export function Book({
   lang,
-  unit
+  unit,
+  setAppTurn
 }: IBookProp) {
 
   const [page, setPage] = useState< number| string>(1)
@@ -38,10 +43,15 @@ export function Book({
   const words = pages[+page-1] || []
   return(<>
   <div className={cl.book}>
+    <div className={cl.homeDiv} onClick={()=>{setAppTurn(AppTurn.Landing)}}>
+      <SvgIcon name="home" width={24} color="#f7f7f7" />
+    </div>
     <div className={cl.paginationDiv}>
       <Pagination page={page} setPage={setPage} totalPage={totalPage}/>
     </div>
-
+    <div className={cl.keyboardDiv}>
+      <Keyboard lang={lang} />
+    </div>
     <div className={cl.words}>
       {
         words.map((word, i)=>{
@@ -50,7 +60,7 @@ export function Book({
             url = `/RosettaStone/img/Illustration/Unit${unit}/${word.illustration}`
           }
           return(
-          <RepeatCard key={i}
+          <RepeatCard key={page+"-"+i}
             lang={lang}
             word={word.word} 
             translate={word.translate}

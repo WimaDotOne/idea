@@ -10,6 +10,7 @@ import { SvgEmail } from "./Common/Email/SvgEmail"
 import { SvgExclamationCircle } from "./Common/Exclamation/SvgExclamationCircle"
 import { SvgExclamationTriangleFill } from "./Common/Exclamation/SvgExclamationTriangleFill"
 import { SvgHamburger } from "./Common/Hamburger/SvgHamburger"
+import { SvgHome } from "./Common/Home/SvgHome"
 import { SvgMagnifyingGlass } from "./Common/MagnifyingGlass/SvgMagnifyingGlass"
 import { SvgAudio } from "./Common/Sound/SvgAudio"
 import { SvgMic } from "./Common/Sound/SvgMic"
@@ -61,6 +62,7 @@ export function SvgIcon({
     case "magnifyingglass": return <SvgMagnifyingGlass width={width} stroke={color} strokeWidth={strokeWidth} />
     case "email": return <SvgEmail width={width} fill={color}/>
 
+    case "home": return <SvgHome width={width} fill={color} />
     case "door.batwing": return <SvgDoorBatwing width={width} />
 
     case "audio": return <SvgAudio width={width} fill={color} />

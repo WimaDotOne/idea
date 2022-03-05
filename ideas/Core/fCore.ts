@@ -9,6 +9,8 @@ import { IsEmail } from "./B/Email/IsEmail"
 import { LimitWidth } from "./F/View/LimitWidth/LimitWidth"
 import { HLine } from "./F/View/HLine/HLine"
 import { Pagination } from "./F/View/Pagination/Pagination";
+import { Tooltip } from "./F/View/Tooltip/Tooltip"
+
 
 export {
   Collapsible,
@@ -18,6 +20,7 @@ export {
   LimitWidth,
   HLine,
   Pagination,
+  Tooltip,
 
   ClassNames,
   Post, Post2, Get,

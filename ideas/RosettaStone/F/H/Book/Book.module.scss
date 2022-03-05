@@ -1,5 +1,13 @@
+@use "../../CSS/color.module";
+
+.homeDiv {
+  position: absolute;
+  top: 5px;
+  left: 10px;
+  cursor: pointer;
+}
 .book {
-  background: #ddd;
+  background: color.$pageGray;
 }
 
 .paginationDiv {
@@ -7,6 +15,16 @@
   justify-content: center;
   padding-top: 10px;
   padding-bottom: 10px;
+}
+
+.keyboardDiv {
+  display: flex;
+  justify-content: center;
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  padding: 5px 0;
+  background-color: color.$pageGray;
 }
 
 .words {

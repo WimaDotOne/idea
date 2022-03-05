@@ -63,5 +63,20 @@ export function Landing({
         text2="If the browser does not support voice recognition, you can still type in the phrase as a spelling practice." />
       <Div height={30} />
     </LimitWidth>
+    <Div height={20} />
+    <LimitWidth>
+      <div className={cl.attributes}>
+        <span>Photos by</span>  &nbsp; &nbsp;
+        <a className={cl.vecteezy} target="_blank"
+          href="https://www.vecteezy.com/free-photos" >
+          Vecteezy
+        </a> &nbsp; &nbsp;
+        <a className={cl.freepik} target="_blank"
+          href="https://www.freepik.com/" >
+          Freepik
+        </a> &nbsp; &nbsp;
+      </div>
+
+    </LimitWidth>
   </>)
 }
