@@ -75,6 +75,10 @@ export function Landing({
           href="https://www.freepik.com/" >
           Freepik
         </a> &nbsp; &nbsp;
+        <a className={cl.istock} target="_blank"
+          href="https://www.istockphoto.com/photos-free" >
+          iStock
+        </a> &nbsp; &nbsp;
       </div>
 
     </LimitWidth>
