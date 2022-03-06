@@ -60,7 +60,7 @@ export function Landing({
       <Div height={30} />
       <IntroText2 header="Browser support"
         text1="Please use Chrome or Edge in a desktop to get the full speaking and reading functionality."
-        text2="If the browser does not support voice recognition, you can still type in the phrase as a spelling practice." />
+        text2="If the browser does not support voice recognition, you can still type in the phrase as a spelling practice. Our voice recognition is quite bad anyway." />
       <Div height={30} />
     </LimitWidth>
     <Div height={20} />
@@ -78,6 +78,10 @@ export function Landing({
         <a className={cl.istock} target="_blank"
           href="https://www.istockphoto.com/photos-free" >
           iStock
+        </a> &nbsp; &nbsp;
+        <a className={cl.shutterstock} target="_blank"
+          href="https://www.shutterstock.com" >
+          shutterstock
         </a> &nbsp; &nbsp;
       </div>
 
