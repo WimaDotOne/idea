@@ -1,0 +1,105 @@
+weiß || white1.jpg
+weiß | white |
+schwarz || black1.jpg
+rot || red1.jpg
+===
+blau || blue1.jpg
+blau || blue2.jpg
+grün || green1.jpg
+grün || green2.jpg
+gelb || yellow1.jpg
+===
+Der Reis ist weiß || whiteRice1.jpg
+Das Auto ist grün || greenCar1.jpg
+Das Fahrrad ist grün || greenBike1.jpg
+Der Apfel ist grün || greenApple1.jpg
+Die Milch ist weiß || whiteMilk1.jpg
+Das Auto ist weiß |The car is white|
+===
+Die Autos sind weiß || whiteCars1.jpg
+Die Äpfel sind grün || greenApples1.jpg
+Die Eier sind rot || redEggs1.jpg
+Die Fahrräder sind rot | The bikes are red|
+Die Fahrräder sind weiß || whiteBikes1.jpg
+Die Stifte sind grün || greenPens1.jpg
+===
+Das Ei ist blau || blueEgg1.jpg
+Die Eier sind blau || blueEggs1.jpg
+Das Fahrrad ist gelb || yellowBike1.jpg
+Die Fahrräder sind gelb || yellowBikes1.jpg
+Das Auto ist schwarz || blackCar1.jpg
+Die Autos sind schwarz || blackCars1.jpg
+===
+Der Ball ist rot || redBall1.jpg
+Die Bälle sind rot | The balls are red|
+Die Katze ist schwarz || blackCat1.jpg
+Die Katzen sind schwarz || blackCats1.jpg
+===
+Der Fisch ist rot || redFish1.jpg
+Die Fische sind rot || redFishs1.jpg
+Das Fahrrad ist gelb || yellowBike1.jpg
+Die Fahrräder sind gelb || yellowBikes1.jpg
+===
+Sie ist rot || redFlower1.jpg
+Sie ist weiß || whiteCat1.jpg
+Es ist schwarz || blackCar1.jpg
+===
+Es ist rot || redEgg1.jpg
+Sie sind weiß || whiteBears1.jpg
+Er ist gelb || yellowBall1.jpg
+Sie sind grün || greenApples1.jpg
+===
+Er ist blau und grün || globe1.jpg
+Er ist schwarz und weiß || panda1.jpg
+Sie sind blau || blueBalls1.jpg
+Sie sind weiß || whiteGoose1.jpg
+===
+Der Mond ist weiß || whiteMoon1.jpg
+Der Himmel ist blau || blueSky1.jpg
+Die Sonne ist gelb || yellowSun1.jpg
+Die Blume ist rot || redFlower1.jpg
+Das Gras ist grün || greenGrass1.jpg
+===
+Das Ei ist klein || smallEgg1.jpg
+Die Eier sind klein | The eggs are small |
+Die Blumen sind klein|| smallFlowers1.jpg
+Die Blume ist klein || smallFlower1.jpg
+===
+Die Blumen sind groß || bigFlowers1.jpg
+Die Bücher sind groß |The books are big|
+Der Fisch ist groß || bigFish1.jpg
+Das Ei ist groß || bigEgg1.jpg
+===
+Er ist Lehrer || manTeacher1.jpg
+Sie sind Polizisten || policemen1.jpg
+Sie ist Ärztin || womanDoctor1.jpg
+===
+Sie ist eine Schülerin||girlStudent1.jpg
+Er ist ein Schüler|He is a student|
+Sie sind Schüler||students1.jpg
+===
+Er ist Polizist||policeman1.jpg
+Sie ist Lehrerin||womanTeacher1.jpg
+Er ist Arzt||manDoctor1.jpg
+Sie sind Schüler |They are students|
+===
+Ich bin ein Junge||iAmBoy1.jpg
+Ich bin ein Mann|I am a man|
+Ich bin eine Frau||iAmWoman1.jpg
+Ich bin ein Mädchen||iAmGirl1.jpg
+===
+Ich bin Lehrerin||iAmWomanTeacher1.jpg
+Ich bin kein Lehrer | I am not a teacher|
+Ich bin Arzt ||iAmManDoctor1.jpg
+Ich bin kein Arzt|I am not a doctor|
+Ich bin ein Schüler||iAmBoyStudent1.jpg
+Ich bin kein Schüler|I am not a student|
+===
+der rote Apfel||redApple1.jpg
+Ich habe einen roten Apfel|I have a red apple|
+die weiße Milch|| whiteMilk1.jpg
+Ich habe weiße Milch|I have white milk|
+das gelbe Ei||yellowEgg2.jpg
+Ich habe ein gelbes Ei|I have a yellow egg|
+===
+
