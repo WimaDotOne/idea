@@ -102,4 +102,62 @@ Ich habe weiße Milch|I have white milk|
 das gelbe Ei||yellowEgg2.jpg
 Ich habe ein gelbes Ei|I have a yellow egg|
 ===
-
+Ich habe ein gelbes Buch || iHaveYellowBook1.jpg
+Ich habe ein grünes Buch |I have a green book|
+Ich habe ein rotes Buch || iHaveRedBook1.jpg
+===
+Sie haben ein rotes Buch || youHaveRedBook1.jpg
+Sie haben ein grünes Buch || youHaveGreenBook1.jpg
+Sie haben ein gelbes Buch |You have a yellow book|
+===
+Sind Sie Arzt?| Are you a doctor?|
+Ja. Ich bin Arzt||iAmManDoctor1.jpg
+Nein. Ich bin kein Arzt|No. I am not a doctor|
+===
+Was trinken Sie?|What are you drinking?|
+Ich trinke Wasser||iDrinkWater1.jpg
+Was essen Sie|What are you eating?|
+Ich esse Reis||iEatRice1.jpg
+===
+Was haben Sie? | What do you have?|
+Ich habe ein belegtes Brot||iHaveSandwich1.jpg
+Ich habe einen Stift||iHavePen1.jpg
+===
+Ich bin Lehrerin||iAmWomanTeacher2.jpg
+Wir sind Lehrer | We are teachers|
+Ich bin ein Mädchen||iAmGirl2.jpg
+Wir sind Mädchen||weAreGirls1.jpg
+===
+Wir sind Junge||weAreBoys1.jpg
+Wir sind Polizisten|We are policemen|
+Wir sind Ärzte||weAreDoctors1.jpg
+===
+Ich habe ein rotes Fahrrad||iHaveRedBike1.jpg
+Wir haben grüne Fahrräder|We have green bikes|
+Ich habe rote Äpfel||iHaveRedApples1.jpg
+Wir haben grüne Äpfel||weHaveGreenApples1.jpg
+===
+Ich habe rote Blumen||iHaveRedFlowers1.jpg
+Sie haben rote Blumen||youHaveRedFlowers1.jpg
+Er hat rote Blumen||heHasRedFlowers1.jpg
+Sie hat rote Blumen||sheHasRedFlowers1.jpg
+Wir haben rote Blumen||weHaveRedFlowers1.jpg
+Sie haben rote Blumen||theyHaveRedFlowers1.jpg
+===
+Was macht der Mann?||doWhatManCook1.jpg
+Der Mann kocht||manCook1.jpg
+Was macht die Frau||doWhatWomanRead1.jpg
+Die Frau liest||womanRead1.jpg
+Was macht der Junge||doWhatBoyRun1.jpg
+Der Junge rennt||boyRun1.jpg
+===
+Was macht der Arzt||manDoctorWrite1.jpg
+Der Arzt schreibt|The doctor is writing|
+Was macht der Polizist||manPolicemanDrive1.jpg
+Der Polizist fährt|The policeman is driving|
+Was macht das Mädchen?||girlWalk1.jpg
+Das Mädchen läuft|The girl is walking|
+===
+Was machen Sie?|What are you doing?|
+Ich schreibe||iWrite1.jpg
+Ich fahre Auto||iDrive1.jpg
