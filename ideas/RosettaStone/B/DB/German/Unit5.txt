@@ -1,0 +1,72 @@
+ein Mann und ein Hund||manDog1.jpg
+eine Frau und ihr Hund||womanDog1.jpg
+ein Mädchen und ein Pferd||girlHorse1.jpg
+ein Polizist und sein Pferd||policemanHorse1.jpg
+===
+eine Frau und ihr Auto||womanCar1.jpg
+eine Frau und ihre Katze||womanCat1.jpg
+ein Mann und sein Auto||manCar1.jpg
+ein Mann und seine Katze||manCat1.jpg
+===
+Sie essen ihr belegtes Brot||theyEat1Sandwich1.jpg
+Sie essen ihre belegten Brote||theyEatSandwiches1.jpg
+Sie lesen ihre Zeitung||theyRead1Newspaper1.jpg
+Sie lesen ihre Zeitungen||theyReadNewspapers1.jpg
+Sie essen ihre Äpfel||theyEatApples1.jpg
+Sie lesen ihr Buch||theyRead1Book1.jpg
+===
+Sie lesen ihre Bücher||theyReadBooks1.jpg
+Sie liest ihr Buch||womanReadBook1.jpg
+Er liest sein Buch||manReadBook1.jpg
+Sie essen ihre Äpfel||theyEatApples1.jpg
+Sie isst ihren Apfel||womanEatApple1.jpg
+Er isst seinen Apfel||manEatApple1.jpg
+===
+eine Familie||family1.jpg
+eine Familie||family2.jpg
+eine Familie||family3.jpg
+===
+ein Mann und sein Sohn||manSon1.jpg
+eine Frau und ihre Tochter||womanDaughter1.jpg
+ein Junge und sein Vater||manSon2.jpg
+ein Mädchen und ihre Mutter||womanDaughter2.jpg
+===
+die Mutter|the mother|
+die Tochter|the daughter|
+der Vater|the father|
+der Sohn|the son|
+===
+zwei Mädchen und ihre Eltern||2GirlsParents1.jpg
+ein Mädchen und ihre Eltern||girlParents1.jpg
+eine Frau und ihr Mann|a woman and her husband|
+ein Baby||baby1.jpg
+===
+eine Frau und ihre Kinder||womanChildren1.jpg
+ein Mann und seine Frau|a man and his wife|
+ein Vater und seine Tochter||manDaughter1.jpg
+Eltern und ihre Söhne||2BoysParents1.jpg
+===
+eine Mutter und ihr Baby||womanBaby1.jpg
+ein Vater und seine Kinder||manChildren1.jpg
+ein Mann und seine Frau||manWife1.jpg
+Eltern und ihre Tochter||girlParents2.jpg
+===
+Der Vater und seine Söhne spielen|The father and his sons are playing|
+Die Mutter und ihre Töchter spielen|The mother and her daughters are playing|
+Der Junge und sein Hund spielen||boyDogPlay1.jpg
+Die Fau und ihre Katze spielen||womanCatPlay1.jpg
+===
+Die Kinder kochen nicht. Ihr Vater kocht.||childrenNotFatherCook1.jpg
+Der Sohn spielt nicht. Sein Vater spielt.||boyNotFatherPlay1.jpg
+Der Vater liest nicht. Seine Tochter liest.||fatherNotDaughterRead1.jpg
+===
+Wer spielt?|Who is playing?
+Wer isst?||whoEat1.jpg
+Wer schläft?||whoSleep1.jpg
+Wer trinkt?||whoDrink1.jpg
+===
+Das ist meine Tochter||thisIsMyDaughter1.jpg
+Das ist meine Mutter||thisIsMyMother1.jpg
+Das ist mein Sohn||thisIsMySon1.jpg
+Das ist mein Fahrrad||myBike1.jpg
+Das ist mein Bett|This is my bed|
