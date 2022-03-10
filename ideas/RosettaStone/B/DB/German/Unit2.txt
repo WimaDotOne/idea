@@ -28,7 +28,7 @@ Der Mann und die Frau essen Reis || womanManEatRice1.jpg
 Sie isst einen Apfel || womanEatApple1.jpg
 Sie essen Eier || childrenEatEgg1.jpg
 Sie essen belegte Brote || womenEatSandwich1.jpg
-Err isst Reis || manEatRice1.jpg
+Er isst Reis || manEatRice1.jpg
 ===
 der Hund || dog1.jpg
 der Hund || dog2.jpg
@@ -55,8 +55,8 @@ Die Frau fährt Auto | The woman is driving a car |
 Der Mann fährt Auto || manDriveCar1.jpg
 ===
 Sie essen Äpfel || boyGirlEatApple1.jpg
-Sie liest ein Buck ||womanReadBook1.jpg
-Sie Lesen Zeitung || boyManReadNewspaper1.jpg
+Sie liest ein Buch ||womanReadBook1.jpg
+Sie lesen Zeitung || boyManReadNewspaper1.jpg
 ===
 Er hat eine Katze | He has a cat | manHasCat1.jpg
 Sie hat einen Hund | She has a dog | girlHasDog1.jpg
@@ -70,9 +70,9 @@ Er hat Bücher | He has books |
 Sie haben Stifte | They have pens |
 Sie hat einen Fisch || girlHasFish1.jpg
 ===
-ein Buch || aBook1.jpg
-ein Stift || aPen1.jpg
-ein Fisch || aFish1.jpg
+ein Buch || book1.jpg
+ein Stift || pen1.jpg
+ein Fisch || fish1.jpg
 ===
 Sie schlafen | They are sleeping |
 Er schläft || boySleep1.jpg
