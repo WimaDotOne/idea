@@ -1,0 +1,71 @@
+die Wohnung||apartment1.jpg
+die Wohnung||apartment2.jpg
+das Haus||house1.jpg
+das Haus||house2.jpg
+die Tür |the door
+===
+der Computer||computer1.jpg
+der Laptop||labtop1.jpg
+die Computer||computers1.jpg
+===
+der Fernseher||tv1.jpg
+der Fernseher||tv2.jpg
+das Radio||radio1.jpg
+das Radio||radio2.jpg
+===
+eine Wohnung||apartment3.jpg
+eine Tür||door1.jpg
+ein Haus||house3.jpg
+ein Computer||computer2.jpg
+ein Fernseher||tv3.jpg
+ein Radio||radio3.jpg
+===
+Das Radio ist auf dem Stuhl||radioOnChair1.jpg
+Der Apfel ist auf dem Laptop||appleOnLaptop1.jpg
+Der Computer ist auf dem Tisch||computerOnTable1.jpg
+Die Katze ist auf dem Fernseher||catOnTv1.jpg
+===
+Die Schlüssel sind im Schuh||keysInShoe1.jpg
+Die Katze ist im Hut||catInHat1.jpg
+Der Computer ist im Auto||computerInCar1.jpg
+===
+Der Mann ist im Auto|The man in the car|
+Der Mann ist auf dem Auto||manOnCar1.jpg
+Die Katze ist im Haus|The cat is in the house|
+Die Katze ist auf dem Haus||catOnHouse1.jpg
+===
+das Fenster||window1.jpg
+das Fenster||window2.jpg
+die Toilette||toilet1.jpg
+die Toilette||toilet2.jpg
+das Spülbecken||sink1.jpg
+===
+das Wohnzimmer||livingRoom1.jpg
+das Wohnzimmer||livingRoom2.jpg
+die Küche||kitchen1.jpg
+die Küche||kitchen2.jpg
+das Badezimmer||bathroom1.jpg
+===
+ein Wohnzimmer||livingRoom2.jpg
+ein Badezimmer||bathroom2.jpg
+eine Küche||kitchen3.jpg
+ein Fenster||window3.jpg
+eine Toilette||toilet3.jpg
+ein Spülbecken||sink2.jpg
+===
+Die Äpfel sind in der Schüssel||applesInBowl1.jpg
+Die Schüssel ist auf dem Tisch||bowlOnTable1.jpg
+Der Tisch ist in der Küche||tableInKitchen1.jpg
+Die Küche ist im Haus|The kitchen is in the house|
+===
+Die Frau ist in der Wohnung||WomanInApartment1.jpg
+Der Junge ist im Haus|The boy is in the house|
+Das Mädchen ist in der Wohnung|The girl is in the apartment|
+Die Familie ist im Haus|The family is the house|
+===
+Diese Tür ist groß||bigDoor1.jpg
+Dieses Fenster ist klein|This window is small|
+Diese Tür ist klein|This door is small|
+Dieses Fenster ist groß||bigWindow1.jpg
+===
+
