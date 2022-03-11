@@ -58,7 +58,7 @@ Die Schüssel ist auf dem Tisch||bowlOnTable1.jpg
 Der Tisch ist in der Küche||tableInKitchen1.jpg
 Die Küche ist im Haus|The kitchen is in the house|
 ===
-Die Frau ist in der Wohnung||WomanInApartment1.jpg
+Die Frau ist in der Wohnung||womanInApartment1.jpg
 Der Junge ist im Haus|The boy is in the house|
 Das Mädchen ist in der Wohnung|The girl is in the apartment|
 Die Familie ist im Haus|The family is the house|
@@ -68,4 +68,109 @@ Dieses Fenster ist klein|This window is small|
 Diese Tür ist klein|This door is small|
 Dieses Fenster ist groß||bigWindow1.jpg
 ===
-
+Der Mann ist im Esszimmer|The man is in dining room|
+Der Laptop ist im Schlafzimmer|The laptop is in bedroom|
+Die Kaztze ist im Schlafzimmer||catInBedroom1.jpg
+Die Familie ist im Esszimmer||faimilyInDiningRoom1.jpg
+===
+Der Küche ist grün||greenKitchen1.jpg
+Das Schlafzimmer ist grün||greenBedroom1.jpg
+Das Badezimmer ist grün||greenBathroom1.jpg
+Das Wohnzimmer ist grün||greenLivingRoom1.jpg
+Das Esszimmer ist grün||greenDiningRoom1.jpg
+Das Haus ist grün||greenHouse1.jpg
+===
+Das Mädchen und ihr Großvater spielen||girlGrandpaPlay1.jpg
+Der Junge und sein Großvater sind im Badezimmer|The boy and his grandpa are in the bathroom|
+Das Mädchen und ihr Großmutter sind im Esszimmer|The girl and her grandma are in the dining room|
+Der Junge und seine Großmutter kochen||boyGrandmaCook1.jpg
+===
+Der Mann küsst seine Frau||manKissWife1.jpg
+Der Vater umarmt seinen Sohn||fatherArmSon1.jpg
+Die Schwester küsst ihren Bruder|The sister kisses her brother|
+Der Mutter umarmt ihre Tochter||motherArmDaughter1.jpg
+===
+Sie umarmt ihre Großvater||girlArmGrandma1.jpg
+Er küsst seinen Sohn||manKissSon1.jpg
+Wir umarmen unsere Mutter||weArmMother1.jpg
+Sie küsst ihren Mann|She kisses her husband
+===
+Ich liebe meinen Bruder|I love my brother|
+Ich liebe meinen Großvater|I love my grandpa|
+Ich liebe meine Schwester|I love my sister|
+Ich liebe meine Mutter|I love my mother|
+===
+Die Frau liebt ihren Mann|The woman loves her husband|
+Das Mädchen liebt ihren Hund||girlLoveDog1.jpg
+Die Eltern lieben ihre Kinder|Parents love their children|
+Der Junge liebt seinen Großvater|The boy love his grandpa|
+===
+Die Mädchen umarmen ihren Vater||girlsArmFather1.jpg
+Der Mann und die Frau küssen ihre Kinder||manWomanKissChildren1.jpg
+Ich liebe mein Baby||iLoveMyBaby1.jpg
+===
+Die Katze ist unter dem Tisch||catUnderTable1.jpg
+Die Jungen sind unter dem Bett|The boys are under the bed|
+Der Hund ist unter dem Tisch||dogUnderTable1.jpg
+===
+Ich bin auf dem Bett||womanOnBed1.jpg
+Ich bin unter dem Bett||girlUnderBed1.jpg
+Die Katze ist auf dem Tisch||catOnTable1.jpg
+===
+Der Mann ist unter dem Auto||manUnderCar1.jpg
+Der Mann ist auf dem Auto||manOnCar2.jpg
+Der Mann ist im Auto|The man is in the car|
+===
+Das kind hört zu|girlListen1.jpg
+Die Jungen sehen fern||childrenWatchTV1.jpg
+Die Eltern hören zu|The parents are listening|
+Die Katze sieht dem Fisch zu||catSeeFish1.jpg
+===
+Die Eltern sehen ihren Kindern zu||parentsSeeKids1.jpg
+Der Mann hört Radio||manListenRadio1.jpg
+Der Junge und das Mädchen sehen dem Fisch zu||boyGirlSeeFish1.jpg
+Das Mädchen hört Radio||girlListenRadio1.jpg
+===
+Der Mann steht||manStand1.jpg
+Das Mädchen sitzt||girlSit1.jpg
+Der Hund liegt||dogLie1.jpg
+Der Junge sitzt||boySit1.jpg
+Die Frau steht|The woman is standing|
+Die Katze liegt||catLie1.jpg
+===
+Die Mutter sitzt in der Küche|The mother sits in the kitchen|
+Die Tochter sitzt im Wohnzimmer|The daughter sits in the living room|
+Der Sohn steht im Wohnzimmer||boyStandLivingRoom1.jpg
+Der Vater steht in der Küche||manStandKitchen1.jpg
+Der Großvater liegt im Wohnzimmer||grandpaLieLivingRoom1.jpg
+Die Großmutter liegt im Gras||grandmaLieGrass1.jpg
+===
+Ist das Ihr Buch?|Is this your book?|
+Ja. Das ist mein Buch||myBook1.jpg
+Ist das Ihr Hut?||isItYourHat1.jpg
+Nein. Das ist nicht mein Hut.|No. It is not my hat|
+===
+Ist das deine Schwester?|Is this your (informal) sister?|
+Ja, das ist meine Schwester||mySister1.jpg
+Ist das dein Ball?|Is this your (informal) ball?
+Ja. Das ist mein Ball||myBall1.jpg
+===
+Wo sind meine Schlüssel?|Where are my keys?|
+Ihre Schlüssel sindim Auto||keysInCar1.jpg
+Wo ist mein Mantel?|Where is my coat?
+Ihr Mantel ist auf dem Stuhl||coatOnChair1.jpg
+===
+Wo sind meine Bücher?|Where are my books?|
+Deine Bücher liegen auf dem Stuhl||booksOnChair1.jpg
+Wo ist meine Tasse?|Where is my cup?|
+Deine Tasse ist im Spülbecken||cupInSink1.jpg
+===
+Is das dein Bruder?|Is this your (informal) brother?|
+Ja. Das ist mein Bruder||myBrother1.jpg
+Wo sind die Schuhe?|Where are the shoes?|
+Die Schuhe stehen unter dem Bett||shoesUnderBed1.jpg
+===
+Wo ist meine Zeitung?|Where is my newspaper?
+Ihre Zeitung ist auf dem Tisch||newspaperOnTable1.jpg
+Wo ist die Zeitung?|Where is the newspaper?
+Die Zeitung liegt auf dem Bett||newspaperOnBed1.jpg
