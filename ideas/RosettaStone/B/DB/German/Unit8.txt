@@ -1,6 +1,6 @@
 der Pullover||pullover1.jpg
 die Jeans||jeans1.jpg
-der Gütel||belt1.jpg
+der Gürtel||belt1.jpg
 ===
 der Anzug||suit1.jpg
 der Anzug||suit2.jpg
@@ -11,7 +11,7 @@ ein Pullover||pullover1.jpg
 eine Krawatte||tie2.jpg
 ein Anzug||suit1.jpg
 die Socken||socks2.jpg
-ein Gütel||belt2.jpg
+ein Gürtel||belt2.jpg
 eine Jeans|a pair of jeans|
 ===
 Seine Socken sind lila||hisSocksPurple1.jpg
@@ -31,7 +31,7 @@ Die kleine Frau trägt einen grauen Anzug|The short woman wears gray suit|
 ===
 Mein Kleid ist rosa||myDressPink1.jpg
 Meine Schuhe sind braun||myShoesBrown1.jpg
-Mein Gütel ist rosa||myBeltPink1.jpg
+Mein Gürtel ist rosa||myBeltPink1.jpg
 Meine Krawatte ist braun||myTieBrown1.jpg
 ===
 Ihr Kleid ist orange||herDressOrange1.jpg
@@ -102,4 +102,35 @@ Haben Sie Hunger?|Are you hungry?|
 Nein. Ich habe keinen Hunger||boyNotHungry1.jpg
 Ist euch warm?|Are you hot?|
 Ja. Uns ist warm||weHot1.jpg
+===
+Ist dir kalt?|Are you cold?|
+Ja. Mir ist kalt||womanCold1.jpg
+Haben Sie Durst|Are you thirsty?|
+Nein. Wir haben keinen Durst|No. We are not thirsty|
+Ist dir warm?|Are you hot?|
+Nein. Mir ist nicht warm|No. I am not hot.|
+Habt ihr Hunger?|Are you hungry?|
+Ja. Wir haben Hunger||weHungry1.jpg
+===
+Der Junge ist müde||boyTired1.jpg
+Die Frau ist müde||womanTired1.jpg
+Das Mädchen ist krank||girlSick1.jpg
+Der Mann ist krank||manSick1.jpg
+===
+Ich bin krank|I am sick|
+Ich bin müde||iTired1.jpg
+Mir ist kalt||iCold1.jpg
+Ich habe Hunger||iHungry1.jpg
+===
+Bist du krank?|Are you sick?|
+Nein. Mir geht es gut|No. I am good.|
+Bist du müde?|Are you tired?|
+Nein. Mir geht es gut||iGood1.jpg
+===
+Wie geht es Ihnen?|How are you?|
+Ich bin krank||iSick1.jpg
+Wie geht es Ihnen?||howAreYou1.jpg
+Mir geht es gut||iGood1.jpg
+Wie geht es dir?|How are you?|
+Mir geht es gut||iGood2.jpg
 ===
