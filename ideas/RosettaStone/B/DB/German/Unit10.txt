@@ -32,7 +32,7 @@ Heute ist Dienstag. Ich kaufe Fische||iBuyFish1.jpg
 Montag|Monday|
 Dienstag|Tuesday|
 Mittwoch|Wednesday|
-Donnerstag|Thirsday|
+Donnerstag|Thursday|
 Freitag|Friday|
 Samstag|Saturday|
 Sonntag|Sunday|
@@ -83,5 +83,33 @@ Willkommen in unserem Restaurant!||welcomeRestaurant1.jpg
 Herzlich willkommen in unserem Haus|Welcom to our house|
 Vielen Dank|Thank you|
 ===
-
-
+Sie probieren das Brot||theyTasteBread1.jpg
+Die Frau probiert den Reis||womanTasteRice1.jpg
+Die Frau riecht am Kaffee||womanSmellCoffee1.jpg
+Der Mann riecht an der Blume||manSmellFlower1.jpg
+===
+Die Blumen riechen gut||flowersSmellGood1.jpg
+Die Socken riechen schlecht|The socks smell bad|
+Das Brot schmeckt gut||breadTasteGood1.jpg
+Die Milch schmeckt schlecht||milkTasteBad1.jpg
+===
+Das riecht schlecht||itSmellBad1.jpg
+Das riecht gut||itSmellGood1.jpg
+Das schmeckt gut||itTasteGood1.jpg
+Das schmeckt schlecht||itTasteBad1.jpg
+===
+vier Finger|4 fingers|
+zehn Zehen|10 toes|
+drei Hände|3 hands|
+ein Fuß||foot1.jpg
+eine Hand||hand1.jpg
+===
+ein Park im Frühling||parkSpring1.jpg
+eine Stadt im Sommer|a city in summer
+ein Baum im Herbst||treeAutumn1.jpg
+ein Haus im Winter||houseWinter1.jpg
+===
+der Frühling||spring1.jpg
+der Sommer||summer1.jpg
+der Herbst||autumn1.jpg
+der Winter||winter1.jpg
