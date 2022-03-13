@@ -1,0 +1,21 @@
+Er spricht||manSpeak1.jpg
+Sie spricht|She is speaking|
+===
+Das Mädchen schreibt Deutsch||girlWriteGerman1.jpg
+Die Frau liest English||womanReadEnglish1.jpg
+Der Junge schreibt Arabisch||boyWriteArabic1.jpg
+Der Mann liest Chinesisch||manReadChinese1.jpg
+===
+Er schreibt Arabisch||heWriteArabic1.jpg
+Sie schreibt Chinesisch||sheWriteChinese1.jpg
+Er spricht Arabisch||heSpeakArabic1.jpg
+===
+Die Frau spricht Deutsch||womanSpeakGerman1.jpg
+Der Mann spricht English||manSpeakEnglish1.jpg
+Das Mädchen spricht English||girlSpeakEnglish1.jpg
+===
+Dieses Mädchen ist aus Japan||girlFromJapan1.jpg
+Dieser Junge ist aus Deutschland||boyFromGermany1.jpg
+Diese Frau ist aus Russland||womanFromRussia1.jpg
+Dieser Mann ist aus Australien||manFromAustralia1.jpg
+===
