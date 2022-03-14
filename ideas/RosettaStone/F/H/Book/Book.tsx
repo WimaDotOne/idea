@@ -3,6 +3,7 @@ import { Div, HLine, LimitWidth, Pagination, Post2, useShield } from "../../../.
 import { SvgIcon } from "../../../../Svg/SvgIcon"
 import { IPage } from "../../Model/IPage"
 import { AppTurn } from "../../View/LearnLanguage/LearnLanguage"
+import { Button } from "../Button/Button"
 import { RepeatCard } from "../Card/RepeatCard/RepeatCard"
 import { Keyboard } from "../Keyboard/Keyboard"
 import cl from "./Book.module.scss"
@@ -36,11 +37,18 @@ export function Book({
     })
   }
 
+  function next() {
+    if(page < totalPage) {
+      setPage(+page+1)
+    }
+  }
+
   useEffect(()=>{
     LoadWords()
   },[])
 
   const words = pages[+page-1] || []
+
   return(<>
   <div className={cl.book}>
     <div className={cl.homeDiv} onClick={()=>{setAppTurn(AppTurn.Landing)}}>
@@ -61,12 +69,21 @@ export function Book({
           }
           return(
           <RepeatCard key={page+"-"+i}
+            autoFocus={i===0}
             lang={lang}
             word={word.word} 
             translate={word.translate}
             imageUrl={url}
           />)
         })
+      }
+    </div>
+    <Div height={20} />
+    <div className={cl.buttonDiv}>
+      {
+        page < totalPage ?
+        <Button text=">" onClick={next}/>
+        :null
       }
     </div>
     <Div height={20} />

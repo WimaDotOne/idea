@@ -10,11 +10,13 @@ interface IVoiceFieldProp {
   word: string
   lang: string
   setMatch: (match: boolean)=>void
+  autoFocus?: boolean
 }
 export function VoiceField({
   word,
   lang,
-  setMatch
+  setMatch,
+  autoFocus
 }: IVoiceFieldProp) {
 
   const [refresh, setRefresh] = useState<number>(1)
@@ -83,6 +85,7 @@ export function VoiceField({
       <input ref={inputRef}
         className={cl.input}
         value={text} 
+        autoFocus={autoFocus}
         onChange={(e)=>{onInputChange(e.target.value)}}
       />
       <div className={ClassNames([cl.micDiv, clNoRecog])}

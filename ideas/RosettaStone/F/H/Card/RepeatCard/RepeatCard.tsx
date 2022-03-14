@@ -13,12 +13,14 @@ interface IRepeatCardProp {
   translate: string
   lang: string
   imageUrl?: string
+  autoFocus?: boolean
 }
 export function RepeatCard({
   word,
   translate,
   lang,
-  imageUrl
+  imageUrl,
+  autoFocus
 }:IRepeatCardProp) {
 
   const [match, setMatch] = useState<boolean>(false)
@@ -30,7 +32,7 @@ export function RepeatCard({
   return(<>
     <CardDiv>
       <WordRow word={word} speaker lang={lang}/>
-      <VoiceField lang={lang}
+      <VoiceField lang={lang} autoFocus={autoFocus}
         word={word} setMatch={setMatch}/>
       <Div height={10} />
       <Illustration imageUrl={imageUrl} translate={translate} />
