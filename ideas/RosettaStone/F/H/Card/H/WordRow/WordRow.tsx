@@ -34,7 +34,7 @@ export function WordRow({
 function WordStyle(word: string) {
   if(!word) return {}
   const len = word.length
-  if(len < 20) return { fontSize: "24px"}
-  if(len < 28) return { fontSize: "18px"}
+  if(len < 22) return { fontSize: "24px"}
+  if(len < 38) return { fontSize: "18px"}
   return { fontSize: "16px"}
 }

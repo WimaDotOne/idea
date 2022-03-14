@@ -84,13 +84,13 @@ das Handtuch||handTowel1.jpg
 ===
 Der Mann putzt sich die Zähne||manBrushTeeth1.jpg
 Die Frau bürstet sich die Haare||womanBrushHair1.jpg
-Die Jungen putzen sich die Zähne||boysBrushTeetch1.jpg
+Die Jungen putzen sich die Zähne||boysBrushTeeth1.jpg
 Die Mädchen bürsten sich die Haare||girlsBrushHair1.jpg
 ===
 Ich putze mir die Zähne||iBrushTeeth1.jpg
 Sie bürstet sich die Haare||sheBrushHair1.jpg
 Sie waschen sich die Hände||theyWashHands1.jpg
-Er putzt sich die Zähne||heBrushTeetch1.jpg
+Er putzt sich die Zähne||heBrushTeeth1.jpg
 ===
 Sie bürstet das Pferd mit einer Bürste||sheBrushHorse1.jpg
 Sie waschen sich die Hände mit Seife||theyWashHandSoap1.jpg
