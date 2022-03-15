@@ -1,0 +1,5 @@
+Sie trägt eine Sonnenbrille||sheWearSunglasses1.jpg
+Die Frauen haben Regenschirme||wowenHaveUmbrellas1.jpg
+Er hat eine Eintrittskarte||heHasTicket1.jpg
+Die Männer haben eine Leiter||menHaveLadder1.jpg
+===

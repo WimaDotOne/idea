@@ -5,7 +5,7 @@ export function UnitOptions(lang: string) {
 
   let n = 0
   switch(lang) {
-    case Lang.German: n = 12; break
+    case Lang.German: n = 13; break
     case Lang.French: n = 1; break
     default: n = 0
   }
