@@ -64,3 +64,12 @@ Sie verkauft Gemüse||womanSellVegetable1.jpg
 Er verkauft Autos||manSellCar1.jpg
 Er verkauft Obst||manSellFruit1.jpg
 ===
+Sie verkauft einen altern Hut|She is selling an old hat|
+Sie verkauft ein altes Auto||womanSellOldCar1.jpg
+Ich verkaufe einen neuen Regenschirm|I am selling a new umbrella|
+Ich verkaufe ein neues Auto||iSellNewCar1.jpg
+===
+Dieses Geschäft verkauft alten Schmuck|This shop sells old jewelry|
+Dieses Geschäft verkauft neuen Schmuck||shopNewJewelry1.jpg
+Dieses Geschäft verkauft alte Bücher||shopOldBook1.jpg
+Dieses Geschäft verkauft neue Bücher||shopNewBook1.jpg
