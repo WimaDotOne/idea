@@ -3,3 +3,64 @@ Die Frauen haben Regenschirme||wowenHaveUmbrellas1.jpg
 Er hat eine Eintrittskarte||heHasTicket1.jpg
 Die Männer haben eine Leiter||menHaveLadder1.jpg
 ===
+der Regenschirm||umbrella1.jpg
+die Eintrittskarte||ticket1.jpg
+die Sonnenbrille||sunglasses1.jpg
+die Leiter||ladder1.jpg
+===
+Er braucht Seife||heNeedSoap1.jpg
+Sie braucht eine Leiter||sheNeedLadder1.jpg
+Er braucht ein handtuch|He needs a towel|
+Sie braucht eine Sonnenbrille||sheNeedSunglasses1.jpg
+===
+Er braucht Geld||heNeedMoney1.jpg
+Er hat Geld||heHasMoney1.jpg
+Das Geld ist auf dem Tisch||moneyOnTable1.jpg
+===
+Sie hat einen Regenschirm||womanHasUmbrella1.jpg
+Sie hat Geld||sheHasMoney1.jpg
+Er braucht einen Regenschirm||heNeedUmbrella1.jpg
+===
+Ich habe eine Sonnenbrille||iHaveSunglasses1.jpg
+Ich brauche eine Sonnenbrille||iNeedSunglasses1.jpg
+Brauchen Sie eine Eintrittskarte?||sellTicket1.jpg
+===
+Brauchst du die Schlüssel?||doYouNeedKeys1.jpg
+Ja. Ich brache die Schlüssel|Yes. I need the keys|
+Brauchst du Geld?||doYouNeedMoney1.jpg
+Ja. Ich brache Geld||yesMoney1.jpg
+===
+der Schmuck||jewelry1.jpg
+der Schmuck||jewelry2.jpg
+die Kleidung||clothes1.jpg
+die Kleidung||clothes2.jpg
+das Spielzeug||toy1.jpg
+das Spielzeug||toy2.jpg
+===
+das Obst||fruit1.jpg
+das Obst||fruit2.jpg
+das Gemüse||vegetable1.jpg
+das Gemüse||vegetable2.jpg
+das Fleisch||meat1.jpg
+das Fleisch||meat2.jpg
+===
+Er kauft Kleidung||manBuyClothes1.jpg
+Sie kauft Spielzeug||womanBuyToys1.jpg
+Sie kaufen Fleisch||theyBuyMeat1.jpg
+Sie kaufen Gemüse||theyBuyVegetables1.jpg
+===
+Das grüne Auto ist neu||newGreenCar1.jpg
+Das weiße Haus ist alt||oldWhiteHouse1.jpg
+Das rote Haus ist neu||newRedHouse1.jpg
+Das Blaue Auto ist alt||oldBlueCar1.jpg
+===
+ein neuer Fernseher||newTv1.jpg
+ein alter Fernseher||oldTv1.jpg
+ein neues Telefon||newPhone1.jpg
+ein altes Telefon||oldPhone1.jpg
+===
+Sie verkauft Blumen||womanSellFlower1.jpg
+Sie verkauft Gemüse||womanSellVegetable1.jpg
+Er verkauft Autos||manSellCar1.jpg
+Er verkauft Obst||manSellFruit1.jpg
+===
