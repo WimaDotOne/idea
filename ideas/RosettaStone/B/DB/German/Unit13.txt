@@ -160,5 +160,5 @@ Wo ist der Baumarkt?|Where is the hardware store?
 Der Baumarkt ist nahe bei der Buchhandlung|The hardware store is near the book store|
 Was brauchst du?|What do you need?|
 Ich brache eine neue Leiter||iNeedLadder1.jpg
-Warum brauchst du eine neue Leiter?|Why do you need a new ladder1.jpg
+Warum brauchst du eine neue Leiter?|Why do you need a new ladder?
 Weil meine alter Leiter kaputt ist||brokenLadder1.jpg
