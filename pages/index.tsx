@@ -29,6 +29,7 @@ const Home: NextPage = () => {
       <h3>Ideas</h3>
       <div className={cl.links}>
       <Link href="/RosettaStone"><a>Rosetta Stone</a></Link> &nbsp;&nbsp;
+      <Link href="/Movic"><a>Movic</a></Link> &nbsp;&nbsp;
       </div>
    </Div>
   </>)

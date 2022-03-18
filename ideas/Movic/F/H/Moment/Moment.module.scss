@@ -1,0 +1,29 @@
+.card {
+  padding: 10px;
+  max-width: 450px;
+  width: 100%;
+  border-radius: 10px;
+  background-color: #555;
+}
+.narrative {
+  padding: 5px;
+  color: #eee;
+}
+.image {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+}
+.lines {
+  margin-top: 10px;
+  background-color: #0008;
+  padding: 5px;
+  border-radius: 5px;
+}
+.line {
+  color: wheat;
+}
+.line.even {
+  color: white;
+}
