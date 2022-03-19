@@ -27,6 +27,7 @@ export function Moment({
   })
 
   return(<>
+    <div className={cl.cardWrap}>
     <div className={cl.card}>
       <div className={cl.narrative}>{narrative}</div>
       <div className={cl.image} 
@@ -43,6 +44,7 @@ export function Moment({
         )
       }
       </div>
+    </div>
     </div>
   </>)
 }

@@ -13,9 +13,12 @@ export function Dvd({
   }
   return(<>
     <div className={cl.dvdWrap}>
-      <div className={cl.dvd} onClick={onClick} style={dvdStyle}>
+      <div className={cl.dvdCase}>
+        <div className={cl.dvd} onClick={onClick} style={dvdStyle}>
 
+        </div>
       </div>
+
     </div>
   </>)
 }

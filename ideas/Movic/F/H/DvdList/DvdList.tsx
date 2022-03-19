@@ -26,7 +26,6 @@ export function DvdList({
     Post2(shield, "/movic/LoadDvdList", {
     }, (res)=>{
       const pages = res.pages
-      console.log(pages)
       if(!pages || !pages.length) return
       setPages(pages)
       setTotalPage(pages.length)

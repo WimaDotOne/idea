@@ -39,7 +39,7 @@ export function MovieBook({
   const moments = pages[+page-1] || []
 
   return(<>
-  <div className={cl.moviebook}>
+  <div className={cl.movieBook}>
     <div className={cl.homeDiv} onClick={()=>{setAppTurn(AppTurn.DvdList)}}>
       <SvgIcon name="home" width={24} color="#f7f7f7" />
     </div>
@@ -54,7 +54,7 @@ export function MovieBook({
             url = `/Movic/img/Illustration/Movie/${movieId}/${moment.illustration}`
           }
           return(
-            <Moment narrative={moment.narrative}
+            <Moment key={page+"-"+i} narrative={moment.narrative}
               lines={moment.lines}
               imageUrl={url}
             />)

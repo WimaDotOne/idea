@@ -1,6 +1,12 @@
 .dvdWrap {
   padding: 10px;
 }
+.dvdCase {
+  border-radius: 10px;
+  background-color: #0090ce;
+  padding-right: 4px;
+  padding-bottom: 4px;
+}
 .dvd {
   width: 150px;
   height: 180px;
@@ -8,4 +14,5 @@
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 10px;
+  cursor: pointer;
 }
