@@ -7,7 +7,7 @@ export default function MovicApp() {
 
   return (<>
     <Head>
-      <title>Learn language</title>
+      <title>Movic</title>
       <link rel="icon" href="/favicon.ico" />
       <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"></meta>
     </Head>
