@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import { useState } from 'react'
 import { MovieBook } from '../../H/MovieBook/MovieBook'
-import { MovieList } from '../../H/MovieList/MovieList'
+import { DvdList } from '../../H/DvdList/DvdList'
 
 export default function MovicApp() {
 
@@ -17,16 +17,19 @@ export default function MovicApp() {
 }
 
 function App() {
-  const [appTurn, setAppTurn] = useState<string>(AppTurn.MovieBook)
+  const [appTurn, setAppTurn] = useState<string>(AppTurn.DvdList)
+  const [movieId, setMovieId] = useState<string>("IronMan1")
 
   switch(appTurn) {
-    case AppTurn.MovieBook: return (<MovieBook />)
-    default: return (<MovieList />)
+    case AppTurn.MovieBook: return (
+      <MovieBook movieId={movieId} setAppTurn={setAppTurn} />)
+    default: return (
+      <DvdList setMovieId={setMovieId} setAppTurn={setAppTurn}/>)
   }
 }
 
 export const AppTurn = {
-  MovieList: "MovieList",
+  DvdList: "DvdList",
   MovieBook: "MovieBook"
 }
 

@@ -7,6 +7,7 @@ import { bConfig } from "./ideas/bConfig.js"
 import { AnalyticsRouter } from "./ideas/Analytics/bAnalytics.js"
 import { LoginRouter } from "./ideas/StripeLogin/bLogin.js"
 import { RosettaStoneRouter } from "./ideas/RosettaStone/bRosettaStone.js"
+import { MovicRouter } from "./ideas/Movic/bMovic.js"
 
 dotenv.config()
 ConnectDb(process.env.MONGO_DB)
@@ -20,6 +21,7 @@ DevCors(server)
 server.use(bConfig.bRoute1+"/login", LoginRouter)
 server.use(bConfig.bRoute1+"/analytics", AnalyticsRouter)
 server.use(bConfig.bRoute1+"/rosettastone", RosettaStoneRouter)
+server.use(bConfig.bRoute1+"/movic", MovicRouter)
 
 server.use(express.static(FilePath(import.meta.url, "./out")))
 

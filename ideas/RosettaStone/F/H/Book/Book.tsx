@@ -19,7 +19,7 @@ export function Book({
   setAppTurn
 }: IBookProp) {
 
-  const [page, setPage] = useState< number| string>(1)
+  const [page, setPage] = useState<number| string>(1)
   const [totalPage, setTotalPage] = useState<number|string>(1)
   const [pages, setPages] = useState<Array<IPage>>([])
   

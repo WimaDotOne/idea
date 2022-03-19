@@ -1,61 +1,62 @@
 import { useEffect, useState } from "react"
 import { Div, Pagination, Post2, useShield } from "../../../../Core/fCore"
 import { SvgIcon } from "../../../../Svg/SvgIcon"
-import { IMomentPage } from "../../Model/IPage"
+import { IDvdPage } from "../../Model/IPage"
 import { AppTurn } from "../../View/MovicApp/MovicApp"
 import { Moment } from "../Moment/Moment"
-import cl from "./MovieBook.module.scss"
+import cl from "./DvdList.module.scss"
+import { Dvd } from "./H/Dvd/Dvd"
 
-interface IMovieBookProp {
-  movieId: string
+interface IDvdListProp {
   setAppTurn: (appTurn: string)=>void
+  setMovieId: (movieId: string)=>void
 }
-export function MovieBook({
-  movieId,
-  setAppTurn
-}: IMovieBookProp) {
+export function DvdList({
+  setAppTurn,
+  setMovieId
+}: IDvdListProp) {
 
   const [page, setPage] = useState<number| string>(1)
   const [totalPage, setTotalPage] = useState<number|string>(1)
-  const [pages, setPages] = useState<Array<IMomentPage>>([])
+  const [pages, setPages] = useState<Array<IDvdPage>>([])
   
   const shield = useShield()
 
-  async function LoadMovie() {
-    Post2(shield, "/movic/LoadMovie", {
-      movieId
+  async function LoadDvdList() {
+    Post2(shield, "/movic/LoadDvdList", {
     }, (res)=>{
       const pages = res.pages
+      console.log(pages)
       if(!pages || !pages.length) return
       setPages(pages)
       setTotalPage(pages.length)
     })
   }
 
+  function selectMovie(movieId: string) {
+    setMovieId(movieId)
+    setAppTurn(AppTurn.MovieBook)
+  }
   useEffect(()=>{
-    LoadMovie()
+    LoadDvdList()
   },[])
 
-  const moments = pages[+page-1] || []
+  const dvds = pages[+page-1] || []
 
   return(<>
-  <div className={cl.moviebook}>
-    <div className={cl.homeDiv} onClick={()=>{setAppTurn(AppTurn.DvdList)}}>
-      <SvgIcon name="home" width={24} color="#f7f7f7" />
-    </div>
+  <div className={cl.dvdList}>
     <div className={cl.paginationDiv}>
       <Pagination page={page} setPage={setPage} totalPage={totalPage}/>
     </div>
-    <div className={cl.moments}>
+    <div className={cl.dvds}>
       {
-        moments.map((moment, i)=>{
+        dvds.map((dvd, i)=>{
           let url = ""
-          if(moment.illustration) {
-            url = `/Movic/img/Illustration/Movie/${movieId}/${moment.illustration}`
+          if(dvd.illustration) {
+            url = `/Movic/img/Illustration/Dvd/${dvd.illustration}`
           }
           return(
-            <Moment narrative={moment.narrative}
-              lines={moment.lines}
+            <Dvd key={page+"-"+i} onClick={()=>{selectMovie(dvd.movieId)}}
               imageUrl={url}
             />)
         })

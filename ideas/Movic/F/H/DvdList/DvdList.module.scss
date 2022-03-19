@@ -1,0 +1,15 @@
+.dvdList {
+  padding: 10px;
+}
+.paginationDiv {
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.dvds {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
