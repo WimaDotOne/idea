@@ -30,12 +30,14 @@ KNIVES: Am I normally not?
 SCOTT: Hey, Knives, this is Stephen Stills. He's the talent.
 STEPHEN: Hey.
 ---m5.jpg
+#Stephen shuts the door in Knives' face
 STEPHEN: Is she gonna geek out on us?
 SCOTT: She'll just sit in the corner, man.
 STEPHEN: I mean, I want her to geek out on us.
 SCOTT: She'll geek. She geeks. She has the capacity to geek.
 STEPHEN: Okay.
 ---m7.jpg
+#Knives was stunned to see a band. Scott warmly takes Kives' coat but coolly drops it on the floor. Kim does not like Knives a bit.
 KNIVES: Wow.
 SCOTT: Here, let me get your coat. Knives, that's Kim.
 KNIVES: Sorry, what was your name?
@@ -44,6 +46,7 @@ KNIVES: And you play the drums?
 KIM: Yes.
 KNIVES: That is so awesome.
 ---m8.jpg
+#Knives thought Young was a member of the band.
 SCOTT: Knives, that's Young Neil.
 YOUNG: Hi.
 KNIVES: Hi. What do you play?
@@ -54,6 +57,124 @@ STEPHEN: That's not the actual title of the...
 KIM: We are Sex Bob-Omb. One! Two! Three!  Four...
 ---m10.jpg
 #Rock music playing
+KIM: You guys are so amazing.
 ===
 ---m11.jpg
+STEPHEN: She seems nice.
+SCOTT: Yeah.
+YOUNG: Yeah, she seems awesome.
+SCOTT: Yeah.
+---m12.jpg
+KIM: Scott, if your life had a face, I would punch it.
+SCOTT: Yeah. Wait, what?
+KIM: I mean, are you really happy or are you really evil?
+SCOTT: Like, do I have ulterior motives or something? I'm offended, Kim.
+KIM: Wounded, even?
+SCOTT: Hurt, Kim.
+KIM: You? Hurt?
+---m13.jpg
+SCOTT: Neil, you were saying about "she seems awesome."
+Neil: Yeah, she seems awesome.
+SCOTT: Yeah.
+===
+---m14.jpg
+#Afterwards in Scott's apartment with his roomate
+SCOTT: Before you hear some dirty lies from someone else, yes, I'm dating a 17-year-old. So, the whole 17-year-old thing, don't tell too many people.
+---m15.jpg
+#Wallace text scott's sister
+WALLACE: Hey, you know me.
+SCOTT: I mean, don't tell my sister.
+WALLACE: You know me.
+SCOTT: Who are you texting?
+---m16.jpg
+#Phone rings. Scott's sister calls.
+STACEY: Seventeen years old? Scandal!
+SCOTT: That's not true. Who told you?
+STACEY: Wallace. Duh.
+SCOTT: That gossipy bitch.
+WALLACE: You know me.
+STACEY: Who is this mystery child you date?
+SCOTT: Her name's Kives Chau. She's Chinese.
+STACEY: A 17-year-old Chinese schoolgirl? You're ridiculous. 
+---m17.jpg
+STACEY:Scott, why are you doing this?
+SCOTT: I don't know. It's just nice, you know? It's just simple.
+STACEY: It's been over a year since you got dumped by She-Who-Will-Not-Be-Named. So... Are you legitimately moving on or is this just you being insane?
+SCOTT: Can I get back to you on that?
+===
+---m18.jpg
+#School bell rings
+WALLACE: I do not wanna be here at all.
+SCOTT: This school has boys, too.
+Wallace: I hate you. Even I would think twice about dating a 17-year-old.
+SCOTT: Well, she's only allowed out when the sun is up, so I wouldn't call it dating.
+---m19.jpg
+KNIVES: Scott!
+SCOTT: Hey, Kives! This is my cool, gay roommate, Wallace Wells.
+KNIVES: Hi.
+SCOTT: He's gay.
+KNIVES: Oh, do you wanna know who in my class is gay?
+WALLACE: Yes, does he wear glasses?
+---m20.jpg
+SCOTT: Wallace, you go now. Begone.
+WALLACE: You're too good for him. Run.
+===
+---m21.jpg
+SCOTT: Did you know that the original name for Pac-Man was Puck-Man? You'd think it was because he looks like a hockey puck, but it actually comes from the Japanese phrase "paku-paku," which means, "to flap one's mouth open and closed." They changed it because they thought that "Puck-Man" would be too easy to vandalize. You know, people could just scratch off the "P" and turn it into an "F" or whatever.
+---m22.jpg
+KNIVES: Oh, my God! Like, wow!
+SCOTT: Yeah. Wow.
+---m23.jpg
+#Game is over. Scott hints to Knives that she needs to buy more coins to continue the game.
+KNIVES: Oh, I got it.
+===
+---m24.jpg
+#At Goodwill store
+KNIVES: I don't listen to that much music. I mean, I know a lot of kids who play piano or whatever, but you guys... You guys rock.
+SCOTT: Well, I knew I personally rocked, but I never suspected that we rocked as a unit. So thank you, Knives.
+---m25.jpg
+KNIVES: I mean, you guys are gonna be huge.
+SCOTT: Well, we're already pretty big, but, yeah, I guess it'd be cool, if cool people started wearing our T-shirt or whatever.
+KNIVES: Cool.
+SCOTT: Yeah yeah.
+---m26.jpg
+KNIVES: Excuse me, do you have anything by The Clash at Demonhead?
+JULIE: Have you tried the section marked "The Clash at Demonhead"?
+SCOTT: Thank you, Julie.
+JULIE: Are you coming to my party Friday, or will you be busy babysitting?
+---m27.jpg
+SCOTT: Thank you, Julie. You don't want to listen to her.
+---m28.jpg
+SCOTT: And you definitely don't want to listen to them.
+KNIVES: Oh, I heart them so much.
+SCOTT: Yeah, I hearted them, too, until they signed to a major label, and the lead singer turned into a total bitch and ruined my life forever. But that's just me.
+KNIVES: Envy Adams is so cool. Do you read her blog?
+SCOTT: Sorry, you were saying about me?
+===
+---m29.jpg
+KNIVES: I mean, I've never gone out with anyone so talented.
+SCOTT: Go out with a lot of guys?
+KNIVES: No.
+SCOTT: Yeah, so, whatever, man.
+KNIVES: I've never even kissed a guy.
+SCOTT: Hey, me, neither.
+---m30.jpg
 
+---m31.jpg
+SCOTT: Here you go. 
+KNIVES: So this is your secret lair? 
+SCOTT: Yeah, yeah.
+KNIVES: Can I come in?
+SCOTT: My secret lair is one of those "No girls allowed"-type deals.
+KNIVES: Okay.
+SCOTT: But do you wanna see the house where I grew up?
+KNIVES: Sure!
+SCOTT: Come on.
+---m32.jpg
+#Scott turns around and points the other side of the street.
+SCOTT: There you go.
+KNIVES: Wow.
+SCOTT: Yeah.
+===
+---m33.jpg
+#Scott is sleeping and having a dream
