@@ -18,7 +18,7 @@ export function ParseMovieText(data) {
     }
 
     if(line.includes(momentStart)) {
-      moment = {}
+      moment = {lines:[]}
       const parts = line.split("-")
       const lastPart = parts[parts.length-1]
       if(lastPart) {
