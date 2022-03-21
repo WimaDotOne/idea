@@ -14,7 +14,7 @@ KIM: Well, aren't you pleased as punch.
 SCOTT: I don't know what you're talking about.
 STEPHEN: So what's her name?
 SCOTT: Knives Chau. She's Chinese.
-YOUNG: Wicked.
+NEIL: Wicked.
 STEPHEN: So, when do we get to meet her?
 KIM: Oh please, let it be soon.
 ---m3.jpg
@@ -37,7 +37,7 @@ STEPHEN: I mean, I want her to geek out on us.
 SCOTT: She'll geek. She geeks. She has the capacity to geek.
 STEPHEN: Okay.
 ---m7.jpg
-#Knives was stunned to see a band. Scott warmly takes Kives' coat but coolly drops it on the floor. Kim does not like Knives a bit.
+#Knives was stunned to see a band. Scott warmly takes Knives' coat but coolly drops it on the floor. Kim does not like Knives a bit.
 KNIVES: Wow.
 SCOTT: Here, let me get your coat. Knives, that's Kim.
 KNIVES: Sorry, what was your name?
@@ -46,11 +46,11 @@ KNIVES: And you play the drums?
 KIM: Yes.
 KNIVES: That is so awesome.
 ---m8.jpg
-#Knives thought Young was a member of the band.
-SCOTT: Knives, that's Young Neil.
-YOUNG: Hi.
+#Knives thought Neil was a member of the band.
+SCOTT: Knives, that's Neil.
+NEIL: Hi.
 KNIVES: Hi. What do you play?
-YOUNG: Wow, Zelda, Tetris. That's kind of a big question.
+NEIL: Wow, Zelda, Tetris. That's kind of a big question.
 ---m9.jpg
 SCOTT: Okay, let's start with Launchpad McQuack.
 STEPHEN: That's not the actual title of the...
@@ -62,7 +62,7 @@ KIM: You guys are so amazing.
 ---m11.jpg
 STEPHEN: She seems nice.
 SCOTT: Yeah.
-YOUNG: Yeah, she seems awesome.
+NEIL: Yeah, she seems awesome.
 SCOTT: Yeah.
 ---m12.jpg
 KIM: Scott, if your life had a face, I would punch it.
@@ -94,7 +94,7 @@ STACEY: Wallace. Duh.
 SCOTT: That gossipy bitch.
 WALLACE: You know me.
 STACEY: Who is this mystery child you date?
-SCOTT: Her name's Kives Chau. She's Chinese.
+SCOTT: Her name's Knives Chau. She's Chinese.
 STACEY: A 17-year-old Chinese schoolgirl? You're ridiculous. 
 ---m17.jpg
 STACEY:Scott, why are you doing this?
@@ -110,7 +110,7 @@ Wallace: I hate you. Even I would think twice about dating a 17-year-old.
 SCOTT: Well, she's only allowed out when the sun is up, so I wouldn't call it dating.
 ---m19.jpg
 KNIVES: Scott!
-SCOTT: Hey, Kives! This is my cool, gay roommate, Wallace Wells.
+SCOTT: Hey, Knives! This is my cool, gay roommate, Wallace Wells.
 KNIVES: Hi.
 SCOTT: He's gay.
 KNIVES: Oh, do you wanna know who in my class is gay?
@@ -203,7 +203,7 @@ SCOTT: Sorry, what are we doing?
 STEPHEN: I told you, like, 50 times!
 KIM: We're going to this party, retard.
 SCOTT: Party?
-YOUNG: At Julie's.
+NEIL: At Julie's.
 SCOTT: Ah. I thought you guys split up.
 STEPHEN: We did, but there might be some label guys there, so, you know...
 SCOTT: Oh, man, this is gonna suck.
@@ -212,7 +212,7 @@ SCOTT: Oh, man.
 ---m40.jpg
 #At Julie's party
 SCOTT: This sucks!
-YOUNG: Sucks!
+NEIL: Sucks!
 ---m41.jpg
 COMEAU: Scott! Hey!
 SCOTT: Hey, Comeau.
@@ -250,11 +250,11 @@ RAMONA: Thanks.
 ---m53.jpg
 ---m54.jpg
 SCOTT: Dude!
-YOUNG: What?
+NEIL: What?
 SCOTT: She's totally real!
-YOUNG: Who?
+NEIL: Who?
 SCOTT: Ramona Flowers.
-YOUNG: What?
+NEIL: What?
 ---m55.jpg
 SCOTT: Dude! What do you know about Ramona Flowers?
 COMEAU: All I know is that she is American.
@@ -337,7 +337,7 @@ STEPHEN: Game on, everybody. Game on. I got us a show.
 ---m73.jpg
 KNIVES: Oh, my gosh, when?
 STEPHEN: Wednesday. The Rockit. And even better, it's the T.I.B.B.
-YOUNG: Whoa.
+NEIL: Whoa.
 KNIVES: The Toronto International Battle of the Bands?
 STEPHEN: That's right. This guy at work was like, "Steve, you know anybody in a band?" And I was like, "I'm in a band." And he was like, "You're in a band?" And I was like, "Yeah, I am totally in a band."
 ---m74.jpg
@@ -350,7 +350,7 @@ KNIVES: You don't know?
 STEPHEN: Indie producer of the millennium.
 SCOTT: Oh.
 ---m76.jpg
-KNIVES: If we win, it won't just be Knives wearing Sex Bob-Omb shirts. It'll be the cool kids, too.
+STEPHEN: If we win, it won't just be Knives wearing Sex Bob-Omb shirts. It'll be the cool kids, too.
 ===
 ---m77.jpg
 #Back in Scott's apartment, he orders from Amazon expecting Ramona would deliver the package to his door.
@@ -462,7 +462,7 @@ SCOTT: Come to the first round of this Battle of the Bands thing.
 RAMONA: You have a band?
 SCOTT: Yeah, we're terrible. Please, come?
 ---m100.jpg
-#Ramona signs
+#Ramona sighs
 RAMONA: Sure.
 ---m101.jpg
 #Ramona skates away
