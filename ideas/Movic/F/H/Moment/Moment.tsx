@@ -33,17 +33,21 @@ export function Moment({
       <div className={cl.image} 
         ref={imageDivRef}
       />
-      <div className={cl.lines}>
       {
-        lines.map((line,i)=>
-          <div key={i} 
-            className={ClassNames([cl.line, i%2===0?cl.even:""])}
-          >
-            {line}
-          </div>
-        )
+        lines.length > 0 ?
+        <div className={cl.lines}>
+        {
+          lines.map((line,i)=>
+            <div key={i} 
+              className={ClassNames([cl.line, i%2===0?cl.even:""])}
+            >
+              {line}
+            </div>
+          )
+        }
+        </div>:null
       }
-      </div>
+      
     </div>
     </div>
   </>)
