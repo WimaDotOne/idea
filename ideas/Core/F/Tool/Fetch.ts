@@ -3,7 +3,7 @@ import { bConfig } from "../../../bConfig"
 
 function Domain() {
   if(process.env.NODE_ENV === "development") {
-    return "http://localhost:5000"+bConfig.bRoute1
+    return "http://localhost:5001"+bConfig.bRoute1
   } else {
     //when next js is build
     return bConfig.bRoute1

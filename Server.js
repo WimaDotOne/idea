@@ -29,7 +29,7 @@ server.use("/", (_, res)=>{
   return res.sendFile(FilePath(import.meta.url, "./ideas/Core/404.html"))
 })
 
-const PORT = process.env.PORT || 5000
+const PORT = process.env.PORT || 5001
 server.listen(PORT, ()=>{
   console.log(`Server listens at port ${PORT} on ${new Date()}`)
 })
