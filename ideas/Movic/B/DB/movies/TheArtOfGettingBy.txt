@@ -58,12 +58,43 @@ PRINCIPAL: All right, go. And don't make me regret it.
 ---m17.jpg
 #George went to the rooftop
 ---m18.jpg
-#George see MM smokes
+#George see SALLY smokes
 ---m19.jpg
-#A teacher comes to the rooftop. MM throws away her cigarette and slips away as George deliberately attracts the teacher's attension by showing his cigarette.
+#A teacher comes to the rooftop. Sally throws away her cigarette and slips away as George deliberately attracts the teacher's attension by showing his cigarette.
 TEACHER: Who's smoking up here? George, what do you think you're doing?
 GEORGE: I was having a tough day. I guess the stress finally got to me, Mrs Dougherty.
 TEACHER: George, why do you do these things? Now, what do you mean by stress.
 ---m20.jpg
-#Mm mouths "Thank you" to George.
+#Sally mouths "Thank you" to George.
 ===
+---m21.jpg
+#George comes home
+---m22.jpg
+MOM: Hi
+GEORGE: Hi.
+MOM: I got an email from your school.
+GEORGE: Jesus.
+MOM: Some kind of academic probation? Can I help you? Can I you a tutor or a private college advisor? If you don't get into a decent school, then I don't know how you gonna get a job.
+GEORGE: I have it under control.
+MOM: Honey, if you don't get into a decent college...
+GEORGE: I am gonna watch TV...
+MOM: No, you will not watch TV. You will stay here till we can come up with a plan for getting you into college.
+---m23.jpg
+GEORGE: I had a hard day at school. I'm tired. I'm gonna relax now for half an hour. Then I will do my work. Okay?
+===
+---m24.jpg
+TEACHER: George, what are you doing?
+GEORGE: I'm drawing.
+TEACHER: Are you sketching your subject?
+GEORGE: Yes.
+---m25.jpg
+---m26.jpg
+GEORGE: I don't have subject, Harris.
+TEACHER: Why the heck not?
+GEORGE: I don't know.
+TEACHER: George, you're going to have to start digging around in there, so you can develop that talent of yours, to express that beautiful heart of yours. So figure out what you want to say, and say it.
+---m27.jpg
+GEORGE: Harris.
+TEACHER: Yes.
+GEORGE: I don't have anything to say.
+TEACHER: (Shouting) Find something!
