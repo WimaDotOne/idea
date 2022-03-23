@@ -1,16 +1,16 @@
-import { ClassNames } from "../../../../Core/fCore"
-import cl from "./Button.module.scss"
+import { ClassNames } from "../../../../../Core/fCore"
+import cl from "./Button1.module.scss"
 
-interface IButtonProp {
+interface IButton1Prop {
   text: string
   onClick: ()=>void
   disable?: boolean
 }
-export function Button({
+export function Button1({
   text,
   onClick,
   disable
-}: IButtonProp) {
+}: IButton1Prop) {
 
   function onClickButton() {
     if(!disable && onClick){onClick()}

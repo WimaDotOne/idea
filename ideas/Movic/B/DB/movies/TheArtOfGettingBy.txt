@@ -58,7 +58,7 @@ PRINCIPAL: All right, go. And don't make me regret it.
 ---m17.jpg
 #George went to the rooftop
 ---m18.jpg
-#George sees SALLY smokes
+#George sees Sally smoke
 ---m19.jpg
 #A teacher comes to the rooftop. Sally throws away her cigarette and slips away as George deliberately attracts the teacher's attension by showing his cigarette.
 TEACHER: Who's smoking up here? George, what do you think you're doing?
@@ -74,7 +74,7 @@ MOM: Hi
 GEORGE: Hi.
 MOM: I got an email from your school.
 GEORGE: Jesus.
-MOM: Some kind of academic probation? Can I help you? Can I you a tutor or a private college advisor? If you don't get into a decent school, then I don't know how you gonna get a job.
+MOM: Some kind of academic probation? Can I help you? Can I get you a tutor or a private college advisor? If you don't get into a decent school, then I don't know how you gonna get a job.
 GEORGE: I have it under control.
 MOM: Honey, if you don't get into a decent college...
 GEORGE: I am gonna watch TV...
@@ -89,7 +89,7 @@ TEACHER: Are you sketching your subject?
 GEORGE: Yes.
 ---m25.jpg
 ---m26.jpg
-GEORGE: I don't have subject, Harris.
+GEORGE: I don't have a subject, Harris.
 TEACHER: Why the heck not?
 GEORGE: I don't know.
 TEACHER: George, you're going to have to start digging around in there, so you can develop that talent of yours, to express that beautiful heart of yours. So figure out what you want to say, and say it.
@@ -164,7 +164,7 @@ TEACHER: About which elements of the novel pinpoint it as part of the Romantic m
 ---m45.jpg
 GEORGE: Which novel?
 TEACHER: The Mayor of Casterbrige, George, which, obviously, you didn't read.
----m46.jph
+---m46.jpg
 GEORGE: I loved it.
 TEACHER: Clearly. Anyone else?
 GEORGE: My favorite part of the book is how the town's layout is described from the perspective of a bee traveling from one side of town to the other. It's so visual. So, I guess what Hardy's doing is aligning his point of view not with an all-seeing God but with an insect, the tiniest, humblest creature in nature. Which is pretty Romantic.
@@ -184,7 +184,7 @@ GEORGE: Right. Right, it's my shtick.
 ZOE: Hi, George.
 GEORGE: Hey, Zoe.
 ---m51.jpg
-WILL: Dude, whatare you always drawing? He's like the mad artist, just hunched over his books. He never listens to a word the teacher says.
+WILL: Dude, what are you always drawing? He's like the mad artist, just hunched over his books. He never listens to a word the teacher says.
 SALLY: What, like you do?
 WILL: Can I see some of the stuff you draw?
 GEORGE: Yeah, sure.
@@ -210,6 +210,7 @@ SALLY: Rule number four, you're a dork.
 ---m56.jpg
 GEORGE: Wrong. Rule number four, noodles.
 ---m57.jpg
+SALLY: Noodles?
 ---m58.jpg
 ---m59.jpg
 ---m60.jpg
@@ -279,8 +280,9 @@ DUSTINE: I had my first art show a year ago, which was good. Got me this coat.
 ---m80.jpg
 DUSTINE: Well, let me show you some of my work here. I don't know, sometimes people look at your stuff and, you know, they think it's really interesting or they think it's bullshit, and I don't know the difference. I honestly don't. You just, you know, hope not to be fooling yourself, I guess.
 ---m81.jpg
-DUSTINE: This is the next slide, here. Anybody have any questions?
+DUSTINE: This is the next slide, here.
 ---m82.jpg
+DUSTINE: Anybody have any questions?
 ===
 ---m83.jpg
 DUSTINE: I mean, nobody asked me any questions. Did I just suck?
@@ -326,9 +328,9 @@ DUSTINE: It's not about comfort, really, you know? You... How old are you?
 SALLY: 18.
 DUSTINE: (Chuckling) No.
 ---m94.jpg
-GEORGE: Every time I think about a subject, or even try to visualize an image of what I think I should paint, I just feel like I'm full of shit, like I'm trying to be something I'm not. 
+GEORGE: Every time I think about a subject, or even try to visualize an image of what I think I should paint, I just feel like I'm full of it, like I'm trying to be something I'm not. 
 DUSTINE: George, this is who you are. This stuff is wonderful, man. It really is. It's fantastic.
-GEORGE: Really? No, they're just doodles, you know, immature crap.
+GEORGE: Really? No, they're just doodles, you know, immature stuff.
 DUSTINE: No, man. This is what you should be painting. At least until you evolve into something else, you know what I mean? But you gotta exercise the muscle, even if you're not feeling it, you know what I mean? You just... You gotta do it or else it'll never happen.
 ---m95.jpg
 DUSTINE: Well, you guys are together, right?
@@ -398,10 +400,10 @@ MOM: This all means something much more to him.
 #Feb 14th
 GEORGE: I can't believe we're participating in this consumer circle jerk.
 SALLY: The dateless need to stick together tonight. We're like survivors hunddling for warmth.
-GEORGE: You probably had so many Valentines.
-SALLY: Is that some kind of euphemism for slut?
 ---m113.jpg
 #George nods in smile.
+GEORGE: You probably had so many Valentines.
+SALLY: Is that some kind of euphemism for slut?
 ---m114.jpg
 SALLY: What were you like as a child?
 GEORGE: I was such a better person than I am now.
@@ -452,5 +454,5 @@ GEORGE: I don't know. This is wrong. It's a joke.
 ---m132.jpg
 ---m133.jpg
 ---m134.jpg
-SALLY: You think too much George.
+SALLY: You think too much, George.
 ---m135.jpg

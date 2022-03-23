@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react"
+import { Button1 } from "../../../../Control/fControl"
 import { Div, Pagination, Post2, useShield } from "../../../../Core/fCore"
 import { SvgIcon } from "../../../../Svg/SvgIcon"
 import { IMomentPage } from "../../Model/IPage"
@@ -32,9 +33,19 @@ export function MovieBook({
     })
   }
 
+  function next() {
+    if(page < totalPage) {
+      setPage(+page+1)
+    }
+  }
+
   useEffect(()=>{
     LoadMovie()
   },[])
+
+  useEffect(()=>{
+    window.scrollTo(0,0)
+  })
 
   const moments = pages[+page-1] || []
 
@@ -59,6 +70,14 @@ export function MovieBook({
               imageUrl={url}
             />)
         })
+      }
+    </div>
+    <Div height={20} />
+    <div className={cl.buttonDiv}>
+      {
+        page < totalPage ? 
+        <Button1 text=">" onClick={next}/>
+        :null
       }
     </div>
     <Div height={20} />

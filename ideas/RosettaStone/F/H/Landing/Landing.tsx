@@ -1,9 +1,9 @@
+import { Button1 } from "../../../../Control/fControl"
 import { Div, LimitWidth } from "../../../../Core/fCore"
 import { Wave } from "../../../../Fancy/fFancy"
 import { IntroText1, IntroText2 } from "../../../../Landing/fLanding"
 import { LanguageOptions, UnitOptions } from "../../Model/Settings"
 import { AppTurn } from "../../View/LearnLanguage/LearnLanguage"
-import { Button } from "../Button/Button"
 import { SelectField } from "../SelectField/SelectField"
 import cl from "./Landing.module.scss"
 
@@ -53,7 +53,7 @@ export function Landing({
       </div>
     </div>
     <div className={cl.goDiv}>
-      <Button onClick={onClickGo} text="Start Learning ➽"/>
+      <Button1 onClick={onClickGo} text="Start Learning ➽"/>
     </div>
     <Div height={40} />
     <LimitWidth gray>

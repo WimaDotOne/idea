@@ -1,9 +1,9 @@
 import { useEffect, useState } from "react"
+import { Button1 } from "../../../../Control/fControl"
 import { Div, HLine, LimitWidth, Pagination, Post2, useShield } from "../../../../Core/fCore"
 import { SvgIcon } from "../../../../Svg/SvgIcon"
 import { IPage } from "../../Model/IPage"
 import { AppTurn } from "../../View/LearnLanguage/LearnLanguage"
-import { Button } from "../Button/Button"
 import { RepeatCard } from "../Card/RepeatCard/RepeatCard"
 import { Keyboard } from "../Keyboard/Keyboard"
 import cl from "./Book.module.scss"
@@ -81,8 +81,8 @@ export function Book({
     <Div height={20} />
     <div className={cl.buttonDiv}>
       {
-        page < totalPage ?
-        <Button text=">" onClick={next}/>
+        page < totalPage ? 
+        <Button1 text=">" onClick={next}/>
         :null
       }
     </div>

@@ -24,6 +24,7 @@ const Home: NextPage = () => {
       <Link href="/Fancy"><a>Fancy</a></Link> &nbsp;&nbsp;
       <Link href="/Landing/IntroText"><a>Introtext</a></Link> &nbsp;&nbsp;
       <Link href="/Core/Tooltip"><a>Tooltip</a></Link> &nbsp;&nbsp;
+      <Link href="/Control/Button"><a>Button</a></Link> &nbsp;&nbsp;
       </div>
       <Div height={20} />
       <h3>Ideas</h3>
