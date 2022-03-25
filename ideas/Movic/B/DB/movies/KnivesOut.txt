@@ -308,3 +308,12 @@ WAGNER: I've had boots on the ground in this country for a while. People are gen
 ELLIOT: This is a pleasant family with the usual quarrels, but no possible motives for murder. Where are you going?
 ---m106.jpg
 #Marta is startled by Benoit.
+===
+---m107.jpg
+BENOIT: Harlan Thrombey's nurse. Marta...
+Marta: Cabrera.
+BENOIT: Marta Cabrera. Please.
+---m108.jpg
+BENOIT: Miss Babrera. I've been doing a little poking. You were hired on a part-time basis as a registered nurse, yes?
+MARTA: Yes, I don't work for a VNA. Harlan hired me directly.
+BENOIT: Take a seat, please.
