@@ -7,7 +7,7 @@
 #Housekeeper takes morning coffee to Mr. Thrombey's bedroom.
 FRAN: Morning, Mr Thrombey.
 ---m6.jpg
-#Mr. Trombey is not in his bed.
+#Mr. Thrombey is not in his bed.
 ---m7.jpg
 #Housekeeper goes up the attic to find Mr. Thrombey.
 ---m8.jpg
@@ -16,7 +16,7 @@ FRAN: Morning, Mr Thrombey.
 #Mr. Thrombey is dead on the sofa.
 ===
 ---m11.jpg
-#One week after Harlan Trombey's demise. At Marta's home.
+#One week after Harlan Thrombey's demise. At Marta's home.
 ---m12.jpg
 #Marta wakes up by a nightmare.
 ---m13.jpg
@@ -78,7 +78,7 @@ RICHARD: He's not coming. Ransom. Little brat. Missed the funeral.
 WAGNER: We're ready for you now. We'd like to see you one at a time.
 LINDA: All right. I'll go first. I'm assuming this will all be wrapped up before the memorial tonight.
 ---m31.jpg
-#Richard pays more attention to his phone than Marta.
+#Richard pays more attention to his phone than to Marta.
 RICHARD: So, how you doing, kiddo?
 ===
 ---m32.jpg
@@ -86,7 +86,7 @@ ELLIOTT: We're just gonna reintroduce ourselves as a formality. I'm Detective Li
 ---m33.jpg
 ELLIOTT: Now, I'm going to record this, just to make things easier. All right, we're with Linda Drysdale nee Thrombey. Harlan Thrombey's eldest daughter, and discussing the events that took place the night of his demise one week ago. November 8th.
 ---m34.jpg
-WAGNER: We're very sorry for you loss.
+WAGNER: We're very sorry for your loss.
 LINDA: Thank you. That means a lot.
 ELLIOTT: So, we understand on that nigt the family had gathered to celebrate your father's 85th birthday?
 ---m35.jpg
@@ -179,7 +179,7 @@ MEG: To see some friends at Smith.
 JONI: I think Linda was upset that Meg left the party early. But Harlan understood. (Benoit presses a key one more time) If I could pause? Who is that guy? And why are we doing all this again?
 ===
 ---m62.jpg
-ELLIOTT: These all just some follow-up question. We're attempting to be thorough, so we can figure out the manner of death.
+ELLIOTT: These are all just some follow-up questions. We're attempting to be thorough, so we can figure out the manner of death.
 WALT: So by "manner of death," you mean if someone killed him? If one of us killed him? One of his family killed him? Is that what you're suggesting, Lieutenant?
 ELLIOTT: No, Walt... Walt, no, no. No one's saying that, okay? This is all pro forma.
 RICHARD: Okay. So who is that?
@@ -247,7 +247,7 @@ BENOIT: But?
 WALT: But he's always been the black sheep of the family. And I'm not trying to... I like to keep stuff like this in the family. But with Ransom, he's never had a job. And Dad, for some unknown reason, always supported him. They have this love-hate bond. They fight. But that night, God, they had a blowout.
 BENOIT: About what?
 ---m81.jpg
-#The whole family hear through the wall 
+#The whole family hears through the wall 
 RANSOM: Are you goddamn insane?
 ---m82.jpg
 RICHARD: We couldn't make it out really, but it was huge. And it's strange they went into another room to do it. Usually they like to stoke up drama in front fo the whole family.
@@ -582,7 +582,7 @@ HARLAN: But you have to do exactly what I tell you. Will you do this, Marta? Thi
 ---m199.jpg
 MARTA: What do you want me to do?
 ===
----m210.jpg
+---m200.jpg
 HARLAN: Go downstairs as noisily as you can and then say goodbye loudly. Call attention to the time if you can.
 ---m201.jpg
 MARTA: Walt, I'm leaving. God, it's midnight already. 
@@ -611,7 +611,7 @@ HARLAN: Once you're inside, and this is the tricky part...
 MARTA: This... is the tricky part?
 HARLAN: Get my robe and cap from my bedroom and put them on.
 MARTA: This is crazy I don't think I can do that.
-HARLAN: No, we need to make this so airtight that the average cop will entirely dismiss you as a suspect. I sounds crazy, but it'll work.
+HARLAN: No, we need to make this so airtight that the average cop will entirely dismiss you as a suspect. It sounds crazy, but it'll work.
 ---m211.jpg
 HARLAN: Walt is smoking outside, and he'll see you through the glazed window.
 ---m212.jpg
@@ -661,14 +661,14 @@ FRAN: I don't think he killed himself. I don't. I really don't. There's this Hal
 FRAN: But he's doing it little by little, so she doesn't know it and she goes crazy, and she kills herself. And my cousin, who's a receptionist at the medical examiner's office, she says that stuff totally happens.
 ===
 ---m229.jpg
-#Marta leaned against wall listening to the family conversation. She saw Ransom follow Harlan to his office. 
+#Marta leaned against wall listening to the family's conversation. She saw Ransom follow Harlan to his office. 
 ---m230.jpg
 JONI: Oh, God, yeah! You don't like him because you love him.
 RICHARD: No, I don't like him. He's an asshole. But maybe an asshole is what we needed.
 JONI: Oh, my God, yeah, an asshole is what Germany needed in 1930-whatever.
 RICHARD: Come on, Joni, those two things don't even conflate.
 ---m231.jpg
-FRAN: Oh, jesus. I'm gonna disappear until the politics talk in done. You want some champers?
+FRAN: Oh, jesus. I'm gonna disappear until the politics talk is done. You want some champers?
 JONI: I can't. I'm technically working.
 ---m232.jpg
 JONI: Why don't you take off your red cap, Richard, and look around you? The streets are literally flooded with Nazis.
@@ -705,7 +705,7 @@ RICHARD: Marta, your family is from Uruguay, but you did it right. I mean, what 
 ---m243.jpg
 RICHARD: You work hard, and you'll earn your share from the ground up. Just like Dad and like all the rest of us.
 ---m244.jpg
-RICHARD: And I'll be you agree with me, right?
+RICHARD: And I'll bet you agree with me, right?
 ---m245.jpg
 LINDA: Oh, just leave the poor girl alone, Richard.
 RICHARD: It's okay! I just wanna hear what she has to say! It's okay, Marta, you can speak.
