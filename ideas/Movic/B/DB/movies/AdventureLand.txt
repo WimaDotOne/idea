@@ -206,7 +206,7 @@ JAMES: Green places and Red shows. Please come to the window to collect your win
 CUSTOMER: What window? There's a window?
 JAMES: No. No, there's not. Here you go. Congratulations, sir.
 ---m61.jpg
-#After people of the game all left, James sighs into the mic and sees Emily.
+#After people of the game all left, James sighs into the mic and sees Em.
 JAMES: I'm new.
 ===
 ---m62.jpg
@@ -236,23 +236,196 @@ MAN1: Yeah, I saw him throw it!
 MAN2: Hey, thank you, sir.
 JAMES: Guys, hey, fellas, I could lose my job.
 ---m71.jpg
-#Emily wonders what's going on.
+#Em wonders what's going on.
 MAN1: This guy's trying to rip off a kid!
 ---m72.jpg
 #The man shows his knife.
 MAN2: Why don't you give the kid a panda.
 ---m73.jpg
-EMILY: Here you go, here's your panda.
+EM: Here you go, here's your panda.
 MAN2: Yeah, thanks. Here you go, Dom. I mean, he's just a little kid.
 ---m74.jpg
 JAMES: Look, am I gonna get in trouble? No one's ever supposed to lose a giant-ass panda.
-EMILY: Is it worth getting knifed over?
+EM: Is it worth getting knifed over?
 JAMES: No. Hi. I'm James Brennan. I just started.
-EMILY: Em. Nice to meet you. Sucks you're gonna lose your job your second day, James.
+EM: Em. Nice to meet you. Sucks you're gonna lose your job your second day, James.
 JAMES: No. I need this job.
-EMILY: (Laughs) I'm kidding. You're okay. I'll tell Bobby you lost the panda at knifepoint.
+EM: (Laughs) I'm kidding. You're okay. I'll tell Bobby you lost the panda at knifepoint.
 ---m75.jpg
 #A staff shouts out, "Yo, Connell! Rock on!"
 ---m76.jpg
 JAMES: Who's that?
-EMILY: Connell. He's the maintenance guy.
+EM: Connell. He's the maintenance guy.
+===
+---m77.jpg
+JAMES: Hey, Joel, is that a pipe?
+JOEL: (Sighs) Yeah, I know. It's a revolting affectation, but it relaxes me.
+---m78.jpg
+EM: Hey, Joel. Hey.
+JAMES: Hi.
+EM: You guys want some of this? I bagged it from Paulette. Cuban rum?
+JAMES: Thanks.
+---m79.jpg
+FRIGO: Lou Reed? I like the tee, Em. You know about Connell and Lou, right?
+JAMES: No, I don't know about them.
+FRIGO: Time out, guys. Guys, he doesn't know the legend.
+MUNCH: Connell once jammed with Lou Reed.
+JAMES: Really? So Connell's like a real musician?
+FRIGO: Yeah, he's got his own band. It's frigging awesome.
+---m80.jpg
+#Car honks
+FRIGO: Looks like it's us! Let's go, James.
+JAMES: That's me. Good night, everybody.
+EM: Hey, I could give you a ride, if you want.
+JAMES: Really? Frigo, I got a ride. Really? Thank you so much.
+===
+---m81.jpg
+#Em puts music on.
+---m82.jpg
+---m83.jpg
+#James turns the music up. They listen to music, not really saying anything to each other.
+---m84.jpg
+#Car parks in front of James' house. James' mom watches from the second floor window.
+EM: Here, have some rum.
+JAMES: Thanks. My mother. She's very nosy. Yeah, she used to read my journals. I had to start writing them in Italian. I took Italian for a year. I went through an opera...
+---m85.jpg
+EM: So, Joel told me you're gonna go to Columbia for grad school.
+JAMES: Yeah.
+EM: Wow. I'm at NYU right now.
+JAMES: Oh, really? Oh, that's cool. Maybe I'll run into you on the streets of NYC.
+---m86.jpg
+EM: What are you studying?
+JAMES: Journalism. Yeah, I want to be, like, a travel essayist. But I want to report on the real state of the world. You know, like Charles Dickens, for example, wrote what you might call travel book, but he visited prisons and mental asylums.
+---m87.jpg
+EM: That's cool.
+JAMES: Yeah, is it?
+EM: Yeah.
+JAMES: Okay.
+EM: But why do you have to go to grad school for that?
+---m88.jpg
+#James is surprised that Em is really listening.
+JAMES: No, that's a valid question, but, actually, journalism is kind of like this old boys' network still. You need the right connections. It's very Ivy League, very exclusive. Stupid. I think my mother would rather I intern at some Fortune 500 company or something like that.
+---m89.jpg
+EM: F that, right?
+JAMES: Yeah.
+---m90.jpg
+EM: I got to go. I have to meet a friend.
+JAMES: Okay. Yeah, thanks for the ride.
+EM: Sure.
+---m91.jpg
+#Em drives away
+---m92.jpg
+#To a bar.
+===
+---m93.jpg
+#Another day at Adventureland.
+JAMES: Hey, I hear that you jammed with Lou Reed.
+CONNELL: Don't believe everything you hear.
+JAMES: Okay.
+---m94.jpg
+CONNELL: I'll tell you about it sometime.
+JAMES: So, where does your band play?
+CONNELL: Usual places around town. I need better musicians. I'm starting a new band out in LA.
+JAMES: Los Angeles?
+CONNELL: Yeah. It's going to be cool. Going this winter.
+---m95.jpg
+EM: Hey, guys. Party at my house tonight. My dad's out of town.
+JAMES: I'm invited?
+EM: Yep, that's why I'm telling you. Connell?
+---m96.jpg
+CONNELL: You kiddies have fun.
+---m97.jpg
+JAMES: She's cool, right?
+===
+---m98.jpg
+#Party at Em's home.
+SUE: We're having a ping-pong tournament!
+---m99.jpg
+JAMES: Hey.
+EM: Hey.
+JAMES: Nice digs. Kind of begs the question of why you're working at Adventureland?
+EM: Well, you know, my dad's a lawyer. It's been his life-long dream for his daughter to work at Adventureland.
+JAMES: High hopes.
+EM: Also gets me out of the house.
+---m100.jpg
+JAMES: Hey, I actually brought something for the party.
+EM: What is that?
+JAMES: It's a joint.
+EM: Oh.
+---m101.jpg
+---m102.jpg
+---m103.jpg
+EM: Hey, I'm gonna go for a swim. Anybody care to join me?
+---m104.jpg
+JAMES: Okay. Is anybody else coming in here, or is ti just us?
+EM: Do you have any more of that pot?
+JAMES: Yeah, at home. Why?
+EM: We should make pot cookies. That would be so fun. Have you done that?
+JAMES: I have not. I've had cookies.
+---m105.jpg
+EM: My connections have all dried up. That's why I'm asking.
+JAMES: Your connections have dried up? What, you think, I have ties to the underworld or something? I have five joints. You think I can, like, put a hit out on somebody?
+EM: I'm gonna get a drink. You want one?
+---m106.jpg
+EM: Coming?
+JAMES: Yeah, I'll meet you inside.
+===
+---m107.jpg
+#Later after the party. Phone rings at Em's home.
+EM: Hello. Hey. No, actually, the party broke up pretty early.
+---m108.jpg
+#10 minutes later
+EM: I'm in here.
+---m109.jpg
+===
+---m110.jpg
+#Another day at Adventureland.
+MUNCH: Lisa P. is back! Lisa P. is back!
+FRIGO: Lisa P.?
+---m111.jpg
+MUNCH: Lisa P. is back! Lisa P. is back!
+JAMES: Who's Lisa P?
+MUNCH: Holy cow! "Who's Lisa P?"
+---m112.jpg
+MUNCH: That's Lisa P.
+---m113.jpg
+---m114.jpg
+---m115.jpg
+---m116.jpg
+JOEL: She's coming over here. Be cool.
+JAMES: Okay, I'll try to hold it together.
+---m117.jpg
+JOEL: Hey, Lisa. Hey, Kelly.
+LISA: Hey, Joel.
+JOEL: So, I didn't expect you to be back here.
+LISA: Oh, man, I had my whole summer, like, mapped out. Laying out by the pool by day, dancing by night.
+---m118.jpg
+LISA: But my dad got injured on the job, and he's laid up, so I got to help out.
+---m119.jpg
+LISA: Well, I gotta go run the Musik-Express. I don't want Paulette bitching me out on my first day. I'm Lisa.
+JAMES: James.
+LISA: I heard you lost a giant-ass pand at knifepoint.
+JAMES: Did you? I guess my legend precedes me.
+LISA: What?
+JAMES: It was nice to meet you.
+LISA: Nice to meet you, too, James.
+JOEL: Bye Lisa. Bye Kelly.
+===
+---m120.jpg
+#In the evening
+JAMES: It's amazing how tiny my paycheck is.
+---m121.jpg
+JOEL: Well, we are doing the work of pathetic lazy morons.
+JAMES: Jesus Christ, they play this song, like, 20 times a day.
+---m122.jpg
+---m123.jpg
+#Later
+JAMES: Hey.
+EM: Hey.
+JAMES: Hey, I made you a tape. 
+---m124.jpg
+JAMES: These are my favorite bummer songs. They're truly miserable, pit-of-despair type songs. I think you'll love it.
+EM: Cool.
+JAMES: Yeah. Hey, you want to get a drink or something?
+EM: Sure.
+---m125.jpg
