@@ -95,3 +95,40 @@ WILLIAM: I'd rather you didn't.
 ---m25.jpg
 CARTER: Hey, listen up. If anybody need me, I'm gonna be working a big, big case for the FBI! Whoo!
 ---m26.jpg
+===
+---
+CARTER: You. Take care of that for me.
+FBI2: Carter.
+CARTER: Yo. I need one of those earpieces immediately, all right? 
+---
+CARTER: Hey, how you doing?
+---
+CARTER: Okay, boys, what have we got? Have we check the consul personnel records yet? I want to know who's he been talking with, who's he been dealing with. Okay, come on. Give me the story.
+---
+CARTER: Any demands? Any fingerprints? Ahave we interviewed his staff?
+FBI1: Whiteney, who is this?
+CARTER: James Carter, FBI.
+FBI2: Warren, he's here for the, uh, special assignment.
+CARTER: Oh, I'm agent Warren Russ. It's good to have you on board.
+CARTER: I've been waiting a long time for this. You guys take a long time to process an application.
+FBI1: Well, Carter. Your particular assignment is considered G-14 classified. Now, why don't you and I take a walk and I'll fill you in.
+CARTER: Okay, Warren.
+---
+FBI2: G-14 classified. That's good.
+===
+---
+CARTER: You don't understand. This is my dream. I'm very excited about working with the FBI.
+FBI1: Well, I'm glad. Listen. His name is Lee and the director considers this a top priority.
+CARTER: No disrespect sir, but he's only gonna get in my way. I'm not used to having a partner. If I'm gonna handle the situation for you, I'm gonna have to work alone.
+FBI1: Carter, he is the situation.
+CARTER: We must be... must be a misunderstanding. I was sent down here for the big case. For the kidnapping. The little girl?
+FBI1: No, forget the little girl. You assignment is Lee.
+CARTER: Who is Lee, and what kind of assignment is that?
+FBI1: Lee is a foreign detective. He's a personal friend of the consul's. Now it's your job to keep him out of sight and away from danger, you understand?
+CARTER: Yeah, I understand you want me to babysit someboyd, but I don't do that. I came down here for the big assignemnt.
+FBI1: The truth is, this is an FBI operation and I don't need any help from the LAPD or some chung-king cop. You got it?
+CARTER: What am I supposed to do, take him to the zoo?
+FBI1: I don't give a damn. I just don't wanna see him or you till this whole thing is resolved. Now his plane arrive in an hour. We wanna make a good impression, Carter. It's his first trip to America.
+CARTER: Hey! This is bullshit.
+===
+ 
