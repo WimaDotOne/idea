@@ -1,0 +1,20 @@
+.title {
+  text-align: center;
+  font-weight: 400;
+  font-size: 20px;
+  padding-top: 10px;
+}
+.drinks {
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.drinkWrap {
+  padding: 10px 20px;
+}
+.drink {
+  font-size: 18px;
+  font-weight: 500;
+  cursor: pointer;
+  padding: 0 2px;
+}

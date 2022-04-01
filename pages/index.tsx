@@ -31,6 +31,7 @@ const Home: NextPage = () => {
       <div className={cl.links}>
       <Link href="/RosettaStone"><a>Rosetta Stone</a></Link> &nbsp;&nbsp;
       <Link href="/Movic"><a>Movic</a></Link> &nbsp;&nbsp;
+      <Link href="/BarnesNoble"><a>Barnes &amp; Noble</a></Link> &nbsp;&nbsp;
       </div>
    </Div>
   </>)

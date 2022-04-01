@@ -1,9 +1,7 @@
 import { useEffect, useState } from "react"
 import { Div, Pagination, Post2, useShield } from "../../../../Core/fCore"
-import { SvgIcon } from "../../../../Svg/SvgIcon"
 import { IDvdPage } from "../../Model/IPage"
 import { AppTurn } from "../../View/MovicApp/MovicApp"
-import { Moment } from "../Moment/Moment"
 import cl from "./DvdList.module.scss"
 import { Dvd } from "./H/Dvd/Dvd"
 

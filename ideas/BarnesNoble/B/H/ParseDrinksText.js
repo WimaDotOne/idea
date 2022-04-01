@@ -9,6 +9,7 @@ export function ParseDrinksText(data) {
     const codeName = (lines[0] || "").split("|")
     const code = (codeName[0] || "").trim()
     const name = (codeName[1] || "").trim()
+    const id = i
     let steps = []
     for(let j=1; j<lines.length; j++) {
       const stepData = lines[j].split("|")
@@ -18,6 +19,7 @@ export function ParseDrinksText(data) {
       steps.push(step)
     }
     json.push({
+      id,
       code, name, steps
     })
   }
