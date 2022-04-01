@@ -1,5 +1,6 @@
 
 export interface IStep {
+  optional: boolean
   oneLine: string
   illustration: string
 }

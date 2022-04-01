@@ -1,6 +1,83 @@
-MC| Mac
-ing|dfsdf jsdf sd fsd fj fjd fjsd sdfjks fsd
-ing|dfsdfs fs fsdf sdfjks
+E | Espresso
+espresso.jpg|Only 1 or 2 shots can be served in a ceramic cup
+tallCup.jpg|3 shots or more go into a tall cup.
 ===
-MC| Mac
-ing|dfsdf 
+ECP | Espresso Con Panna
+espresso.jpg|Espresso shots
+whippedCreamDispenser.jpg|Add whipped cream.
+===
+EM | Espresso Macchiato
+espresso.jpg|Espresso shots
+milkPitcher.jpg|Pour milk below short line. Steam a lot of foam.
+===
+A | Americano
+espressoDrip.jpg|Espresso shots 234
+hotWater.jpg|Add hot water
+===
+C | Cappuccino
+syrupPump.jpg| Pump flavored syrup (Optional)
+espressoDrip.jpg| Espresso shots
+milkPitcher.jpg | Steam milk. FOAM!
+===
+M | Mocha
+chocolateSyrup.jpg | Pump chocolate syrup
+espressoDrip.jpg | Espresso shots
+milkPitcher.jpg | Steam milk
+whippedCreamDispenser.jpg | Top with whipped cream (Optional)
+===
+WCM | White Chocolate Mocha
+whiteChocolateSyrup.jpg | Pump white cholocate syrup
+espressoDrip.jpg | Espresso shots
+milkPitcher.jpg | Steam milk
+whippedCreamDispenser.jpg | Top with whipped cream (Optional)
+===
+CM | Caramel Macchiato
+vanillaSyrup.jpg|Pump vanilla syrup 234
+milkPitcher.jpg| Steam milk
+espressoDrip.jpg| Espresso shots after milk
+caramelDrizzle.jpg| Top with caramel drizzple, crosshatch, double-cirle
+===
+FW | Flat White
+espressoDrip.jpg | Ristretto shots 233
+milkPitcher.jpg| Steam WHOLE milk
+flatWhitePattern.jpg| Pour milk to create the dot foam pattern.
+===
+LM | Latte Macchiato
+tinyPitcher.jpg| Pull espresso shots into 5 oz pitcher 233
+milkPitcher.jpg| Steam WHOLE milk
+latteMacchiatoPattern.jpg| Pour espresso to create espresso dot pattern.
+===
+CBL | Caramel Brulee Latte
+caramelBruleeSyrup.jpg| Pump Caramel Brulee syrup
+espressoDrip.jpg| Espresso shots
+milkPitcher.jpg | Steam milk
+whippedCreamDispenser.jpg | Top with whipped cream
+caramelBruleeTopping.jpg | Add Caramel Brulee topping
+===
+PM | Pepermint Mocha
+peppermintSyrup.jpg| Pump peppermint syrup 345
+chocolateSyrup.jpg| Pump chocolate syrup 345
+espressoDrip.jpg| Espresso shots
+milkPitcher.jpg | Steam milk. Grande/Venti pour one line below original line
+whippedCreamDispenser.jpg | Top with whipped cream.
+chocolateCurl.jpg| Sprinkle chocolate curls
+===
+PWCM | Peppermint white chocolate mocha
+peppermintSyrup.jpg| Pump peppermint syrup 345
+whiteChocolateSyrup.jpg| Pump chocolate syrup 345
+espressoDrip.jpg| Espresso shots
+milkPitcher.jpg | Steam milk. Grande/Venti pour one line below original line
+whippedCreamDispenser.jpg | Top with whipped cream.
+chocolateCurl.jpg| Sprinkle chocolate curls
+===
+SCAL | Sugar Cookie Almondmilk Latte
+sugarCookieSyrup.jpg| Pump Sugar Cookie syrup
+espressoDrip.jpg| Espresso shots
+almondmilkPitcher.jpg | Steam Almondmilk
+redGreenSprinkle.jpg | Top with red green sprinkles.
+===
+PL | Pistachio Latte
+pistachioSyrup.jpg|Pump Pistachio syrup
+espressoDrip.jpg|Espresso shots
+milkPitcher.jpg| Steam milk
+saltedBrownButterCookieTopping.jpg| Add Salted Brown Butter Cookie Topping

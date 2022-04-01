@@ -1,11 +1,14 @@
 import { useEffect, useRef } from "react"
+import { ClassNames } from "../../../../Core/fCore"
 import cl from "./StepCard.module.scss"
 
 interface IStepCardProp {
+  optional?: boolean
   oneLine: string
   imageUrl: string
 }
 export function StepCard({
+  optional,
   oneLine,
   imageUrl
 }: IStepCardProp) {
@@ -22,10 +25,10 @@ export function StepCard({
       }
     }
   })
-
+  const clOptional = optional ? cl.optional :""
   return(<>
     <div className={cl.cardWrap}>
-    <div className={cl.card}>
+    <div className={ClassNames([cl.card, clOptional])}>
       <div className={cl.image} 
         ref={imageDivRef}
       />

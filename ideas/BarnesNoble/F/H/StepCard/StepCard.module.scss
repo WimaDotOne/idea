@@ -7,6 +7,11 @@
   padding: 10px;
   border-radius: 10px;
   background-color: wheat;
+  border: 2px solid transparent;
+}
+.card.optional {
+  background-color: whitesmoke;
+  border: 2px dashed #ccc;
 }
 .image {
   background-position: center;

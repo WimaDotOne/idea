@@ -15,7 +15,8 @@ export function ParseDrinksText(data) {
       const stepData = lines[j].split("|")
       const illustration = (stepData[0] || "").trim()
       const oneLine = (stepData[1] || "").trim()
-      const step = { illustration, oneLine }
+      const optional = oneLine.includes("Optional") 
+      const step = { illustration, oneLine, optional }
       steps.push(step)
     }
     json.push({
