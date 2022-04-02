@@ -86,3 +86,16 @@ CH | Chai Latte | hot
 chaiSyrup.jpg| Pump Chai Concentrate
 hotWater.jpg| Fill cup half full with HOT water
 milkPitcher.jpg| Pour milk to short line for Tall and Grande cup, tall line for Venti cup. Steam.
+===
+MGTL| Matcha Green Tea Latte
+matcha.jpg| Add matcha to milk pitcher 234 scoops
+milkPitcher.jpg| Steam milk and Matcha together
+whippedCreamDispenser.jpg| Top with whipped cream (Optional)
+===
+LFT| London Fog Tea
+earlGreyTea.jpg| Add tea bags into the cup. 112 bags
+vanillaSyrup.jpg| Pump Vanilla syrup
+hotWater.jpg| Fill cup half full with HOT WATER
+milkPitcher.jpg| Pour milk one line below original. Steam
+===
+

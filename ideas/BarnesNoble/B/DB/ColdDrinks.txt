@@ -131,3 +131,75 @@ CH | Iced Chai Latte
 chaiSyrup.jpg| Pump Chai Concentrate
 coldMilk.jpg| Add cold milk to top line on cup
 ice.jpg| Fill with ice
+===
+MGTL | Matcha Green Iced Tea Latte
+matcha.jpg| Add matcha into cold cup
+coldMilk.jpg| Ad cold milk to top line on cup
+barSpoon.jpg| Vigorously stir with a bar spoon for 10 seconds
+ice.jpg| Fill with ice
+whippedCreamDispenser.jpg| Top whipped cream (Optional)
+===
+GIT/BIT/PIT | Green/Black/Passion Iced Tea
+teaConcentrate.jpg| Fill shaker with tea concentrate to base line
+water.jpg| Add water to water line
+classicSyrup.jpg| Pump classic syrup 3467
+ice.jpg| Add ice to ice line
+coldCup.jpg| Shake 10 times, transfer to cold cup.
+===
+GITL/BITL/PITL| Green/Black/Passion Iced Tea Lemonade
+teaConcentrate.jpg| Fill shaker with tea concentrate to base line
+lemonade.jpg| Add lemonade to water line
+classicSyrup.jpg| Pump classic syrup 3467
+ice.jpg| Add ice to ice line
+coldCup.jpg| Shake 10 times, transfer to cold cup.
+===
+VBHR | Very Berry Hibiscus Refresher
+teaConcentrate.jpg| Fill shaker with tea concentrate to base line
+water.jpg| Add water to water line
+ice.jpg| Add ice to ice line
+driedBerry.jpg| a scoop of dried berries
+coldCup.jpg|  Shake 10 times, transfer to cold cup.
+===
+SAR | Strawberry Acai Refresher
+teaConcentrate.jpg| Fill shaker with tea concentrate to base line
+water.jpg| Add water to water line
+ice.jpg| Add ice to ice line
+driedStrawberry.jpg| a scoop of dried strawberries
+coldCup.jpg|  Shake 10 times, transfer to cold cup.
+===
+MDR | Mango Dragonfruit Refresher
+teaConcentrate.jpg| Fill shaker with tea concentrate to base line
+water.jpg| Add water to water line
+ice.jpg| Add ice to ice line
+driedDragonfruit.jpg| a scoop of dried dragonfruits
+coldCup.jpg|  Shake 10 times, transfer to cold cup.
+===
+VBHRL/SARL/MDRL | Refreshers with Lemonade
+teaConcentrate.jpg| Fill shaker with tea concentrate to base line
+lemonade.jpg| Add lemonade to water line
+ice.jpg| Add ice to ice line
+driedFruits.jpg| a scoop of dried fruits (berry for VBHRL, strawberry for SARL, dragonfruit for MDRL)
+coldCup.jpg|  Shake 10 times, transfer to cold cup.
+===
+VLT/PNK/DD | Violet/Pink/Dragon Drink (Refreshers with Coconut milk)
+teaConcentrate.jpg| Fill shaker with tea concentrate to base line
+coconutMilk.jpg| Add Coconut milk to water line
+ice.jpg| Add ice to ice line
+driedFruits.jpg| a scoop of dried fruits (berry for VLT, strawberry for PNK, dragonfruit for DD)
+coldCup.jpg|  Shake 10 times, transfer to cold cup.
+===
+BSL | Blended Strawberry Lemonade
+coldCup.jpg| Use cup to measure
+lemonade.jpg| Pour lemonade to bottom line on cup
+strawberryJuice.jpg| Add strawberry juice to middle line on cup
+ice.jpg | Fill with ice (or use volumetric ice scoop to directly add ice into blender)
+cremeFrapSyrup.jpg| Add Creme Frap Base 234 into blender
+blender.jpg| Pour contents into blender. Blend on #1
+===
+BL | Blended Lemonade
+lemonade.jpg| Pour lemonade to middle line on cup
+ice.jpg | Fill with ice (or use volumetric ice scoop to directly add ice into blender)
+cremeFrapSyrup.jpg| Add Creme Frap Base 234 into blender
+blender.jpg| Pour contents into blender. Blend on #1
+===
+
