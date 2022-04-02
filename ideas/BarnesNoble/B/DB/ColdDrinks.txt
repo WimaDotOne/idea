@@ -71,3 +71,36 @@ ice.jpg| Fill with ice
 espressoDrip.jpg| Espresso shots
 coldMilk.jpg| Add NON-FAT milk to top line on cup
 coldFoam.jpg| 150ml NON-FAT milk blend on #3. Top with foam.
+===
+CMM | Iced Coconutmilk Mocha Macchiato
+whiteChocolateSyrup.jpg| Pump white chocolate syrup 112
+coldMilk.jpg| Add COCONUTMILK to top line on cup
+ice.jpg| Fill with ice
+espressoDrip.jpg| Espresso shots
+caramelDrizzle.jpg | Add Caramel drizzle, crosshatch, double circle
+mochaDrizzle.jpg| Add Mocha drizzle, a cirlce.
+===
+CBL | Iced Caramel Brulee Latte
+caramelBruleeSyrup.jpg| Pump Caramel Brulee syrup
+coldMilk.jpg| Add cold milk to middle line
+espressoDrip.jpg| Espresso shots
+ice.jpg | Fill with ice
+whippedCreamDispenser.jpg| Top with whipped cream.
+caramelBruleeTopping.jpg| Add Caramel Brulee topping
+===
+SCAL | Iced Sugar Cookie Almondmilk Latte
+sugarCookieSyrup.jpg| Pump Sugar Cookie syrup
+coldMilk.jpg| Add cold ALMOND milk to middle line on cup
+espressoDrip.jpg| Espresso shots
+ice.jpg | Fill with ice
+redGreenSprinkle.jpg| Top with red & green sprinkles
+===
+SD | Starbucks Doubleshot on Ice
+shaker.jpg| Use shaker
+classicSyrup.jpg| Pump Classic syrup 235
+ice.jpg| fill to Ice Line
+tinyPitcher.jpg| Espresso shots into shaker 235
+|Shake, pour into Cold cup
+milkShot.jpg|Slowly pour milk shots over 112
+===
+
