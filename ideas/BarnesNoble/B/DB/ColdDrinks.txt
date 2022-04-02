@@ -100,7 +100,29 @@ shaker.jpg| Use shaker
 classicSyrup.jpg| Pump Classic syrup 235
 ice.jpg| fill to Ice Line
 tinyPitcher.jpg| Espresso shots into shaker 235
-|Shake, pour into Cold cup
+coldCup.jpg|Shake, pour into Cold cup
 milkShot.jpg|Slowly pour milk shots over 112
 ===
-
+TVOSE | Toasted Vanilla Oatmilk Shaken Espresso
+shaker.jpg| Use shaker
+toastedVanillaSyrup.jpg| Pump Toasted Vanilla syrup into shaker 123
+ice.jpg| Add ice to Ice Line on shaker
+tinyPitcher.jpg| Espresso shots into shaker 234 (better do first)
+coldCup.jpg|Shake, transfer into cold cup
+coldMilk.jpg| fill with OATMILK
+===
+PL | Pistachio Latte
+pistachioSyrup.jpg| Pump Pistachio Syrup
+coldMilk.jpg| Add cold milk to top line on cup
+espressoDrip.jpg| Espresso shots
+ice.jpg| Fill with ice
+saltedBrownButterCookieTopping.jpg| Top with Salted Brown Butter Cookie Topping
+===
+BOSE| Brown Sugar Oatmilk Shaken Espresso
+shaker.jpg| Use shaker
+brownSugarSyrup.jpg| Pump Brown Sugar syrup into shaker
+ice.jpg| Fill ice to Ice Line on shaker
+cinnamonPowder.jpg| Add 2 shakes of Cinnamon cinnamonPowder
+tinyPitcher.jpg| Espresso shots into shaker
+coldCup.jpg| Shake, transfer into cold cup
+coldMilk.jpg| Fill with OATMILK
