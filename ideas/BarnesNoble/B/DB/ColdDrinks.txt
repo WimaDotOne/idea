@@ -126,3 +126,8 @@ cinnamonPowder.jpg| Add 2 shakes of Cinnamon cinnamonPowder
 tinyPitcher.jpg| Espresso shots into shaker
 coldCup.jpg| Shake, transfer into cold cup
 coldMilk.jpg| Fill with OATMILK
+===
+CH | Iced Chai Latte
+chaiSyrup.jpg| Pump Chai Concentrate
+coldMilk.jpg| Add cold milk to top line on cup
+ice.jpg| Fill with ice

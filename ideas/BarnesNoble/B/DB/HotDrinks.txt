@@ -81,3 +81,8 @@ pistachioSyrup.jpg|Pump Pistachio syrup
 espressoDrip.jpg|Espresso shots
 milkPitcher.jpg| Steam milk
 saltedBrownButterCookieTopping.jpg| Add Salted Brown Butter Cookie Topping
+===
+CH | Chai Latte | hot
+chaiSyrup.jpg| Pump Chai Concentrate
+hotWater.jpg| Fill cup half full with HOT water
+milkPitcher.jpg| Pour milk to short line for Tall and Grande cup, tall line for Venti cup. Steam.
