@@ -1,60 +1,60 @@
-E | Espresso
+E | Espresso | hot
 espresso.jpg|Only 1 or 2 shots can be served in a ceramic cup
 tallCup.jpg|3 shots or more go into a tall cup.
 ===
-ECP | Espresso Con Panna
+ECP | Espresso Con Panna | hot
 espresso.jpg|Espresso shots
 whippedCreamDispenser.jpg|Add whipped cream.
 ===
-EM | Espresso Macchiato
+EM | Espresso Macchiato | hot
 espresso.jpg|Espresso shots
 milkPitcher.jpg|Pour milk below short line. Steam a lot of foam.
 ===
-A | Americano
+A | Americano | hot
 espressoDrip.jpg|Espresso shots 234
 hotWater.jpg|Add hot water
 ===
-C | Cappuccino
+C | Cappuccino | hot
 syrupPump.jpg| Pump flavored syrup (Optional)
 espressoDrip.jpg| Espresso shots
 milkPitcher.jpg | Steam milk. FOAM!
 ===
-M | Mocha
+M | Mocha | hot
 chocolateSyrup.jpg | Pump chocolate syrup
 espressoDrip.jpg | Espresso shots
 milkPitcher.jpg | Steam milk
 whippedCreamDispenser.jpg | Top with whipped cream (Optional)
 ===
-WCM | White Chocolate Mocha
+WCM | White Chocolate Mocha | hot
 whiteChocolateSyrup.jpg | Pump white cholocate syrup
 espressoDrip.jpg | Espresso shots
 milkPitcher.jpg | Steam milk
 whippedCreamDispenser.jpg | Top with whipped cream (Optional)
 ===
-CM | Caramel Macchiato
+CM | Caramel Macchiato | hot
 vanillaSyrup.jpg|Pump vanilla syrup 234
 milkPitcher.jpg| Steam milk
 espressoDrip.jpg| Espresso shots after milk
-caramelDrizzle.jpg| Top with caramel drizzple, crosshatch, double-cirle
+caramelDrizzle.jpg| Top with caramel drizzle, crosshatch, double-cirle
 ===
-FW | Flat White
+FW | Flat White | hot
 espressoDrip.jpg | Ristretto shots 233
 milkPitcher.jpg| Steam WHOLE milk
 flatWhitePattern.jpg| Pour milk to create the dot foam pattern.
 ===
-LM | Latte Macchiato
+LM | Latte Macchiato | hot
 tinyPitcher.jpg| Pull espresso shots into 5 oz pitcher 233
 milkPitcher.jpg| Steam WHOLE milk
 latteMacchiatoPattern.jpg| Pour espresso to create espresso dot pattern.
 ===
-CBL | Caramel Brulee Latte
+CBL | Caramel Brulee Latte | hot
 caramelBruleeSyrup.jpg| Pump Caramel Brulee syrup
 espressoDrip.jpg| Espresso shots
 milkPitcher.jpg | Steam milk
 whippedCreamDispenser.jpg | Top with whipped cream
 caramelBruleeTopping.jpg | Add Caramel Brulee topping
 ===
-PM | Pepermint Mocha
+PM | Pepermint Mocha | hot
 peppermintSyrup.jpg| Pump peppermint syrup 345
 chocolateSyrup.jpg| Pump chocolate syrup 345
 espressoDrip.jpg| Espresso shots
@@ -62,7 +62,7 @@ milkPitcher.jpg | Steam milk. Grande/Venti pour one line below original line
 whippedCreamDispenser.jpg | Top with whipped cream.
 chocolateCurl.jpg| Sprinkle chocolate curls
 ===
-PWCM | Peppermint white chocolate mocha
+PWCM | Peppermint white chocolate mocha | hot
 peppermintSyrup.jpg| Pump peppermint syrup 345
 whiteChocolateSyrup.jpg| Pump chocolate syrup 345
 espressoDrip.jpg| Espresso shots
@@ -70,13 +70,13 @@ milkPitcher.jpg | Steam milk. Grande/Venti pour one line below original line
 whippedCreamDispenser.jpg | Top with whipped cream.
 chocolateCurl.jpg| Sprinkle chocolate curls
 ===
-SCAL | Sugar Cookie Almondmilk Latte
+SCAL | Sugar Cookie Almondmilk Latte | hot
 sugarCookieSyrup.jpg| Pump Sugar Cookie syrup
 espressoDrip.jpg| Espresso shots
 almondmilkPitcher.jpg | Steam Almondmilk
 redGreenSprinkle.jpg | Top with red green sprinkles.
 ===
-PL | Pistachio Latte
+PL | Pistachio Latte | hot
 pistachioSyrup.jpg|Pump Pistachio syrup
 espressoDrip.jpg|Espresso shots
 milkPitcher.jpg| Steam milk

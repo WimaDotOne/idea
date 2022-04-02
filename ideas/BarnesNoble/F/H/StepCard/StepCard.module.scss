@@ -6,8 +6,11 @@
 .card {
   padding: 10px;
   border-radius: 10px;
-  background-color: wheat;
+  background-color: lightblue;
   border: 2px solid transparent;
+}
+.card.hot {
+  background-color: wheat;
 }
 .card.optional {
   background-color: whitesmoke;

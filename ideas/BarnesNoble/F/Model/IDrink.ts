@@ -6,8 +6,9 @@ export interface IStep {
 }
 
 export interface IDrink {
-  id: string,
-  code: string,
+  id: string
+  code: string
   name: string
+  hot: boolean
   steps: Array<IStep>
 }

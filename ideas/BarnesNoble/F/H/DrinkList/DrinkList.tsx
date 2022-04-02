@@ -14,13 +14,15 @@ export function DrinkList({
   setDrink
 }: IDrinkListProp) {
 
-  const [drinks, setDrinks] = useState<Array<IDrink>>([])
+  const [hotDrinks, setHotDrinks] = useState<Array<IDrink>>([])
+  const [coldDrinks, setColdDrinks] = useState<Array<IDrink>>([])
   const shield = useShield()
 
   function LoadDrinks() {
     Post2(shield, "/bn/LoadDrinks",{},
       (res)=>{
-        setDrinks(res.drinks)
+        setHotDrinks(res.hotDrinks)
+        setColdDrinks(res.coldDrinks)
       }
     )
   }
@@ -36,9 +38,21 @@ export function DrinkList({
 
   return(<>
     <div className={cl.title}>Barnes &amp; Noble Barista</div>
-    <div className={cl.drinks}>
+    <div className={cl.hotDrinks}>
     {
-      drinks.map((drink, i)=> 
+      hotDrinks.map((drink, i)=> 
+        <div key={drink.id} className={cl.drinkWrap} >
+        <div className={cl.drink}
+          onClick={()=>{selectDrink(drink)}}>
+          {drink.code}
+        </div>
+        </div>
+      )
+    }
+    </div>
+    <div className={cl.coldDrinks}>
+    {
+      coldDrinks.map((drink, i)=> 
         <div key={drink.id} className={cl.drinkWrap} >
         <div className={cl.drink}
           onClick={()=>{selectDrink(drink)}}>

@@ -5,15 +5,21 @@ import { ParseDrinksText } from "./H/ParseDrinksText.js"
 async function iLoadDrinks(req, res) {
   try {
 
-    const path = FilePath(import.meta.url, `./DB/Drinks.txt`)
-    const data = await fsPromises.readFile(
-      path, { encoding: "utf8" }
+    const hotPath = FilePath(import.meta.url, `./DB/HotDrinks.txt`)
+    const coldPath = FilePath(import.meta.url, `./DB/ColdDrinks.txt`)
+    const hotData = await fsPromises.readFile(
+      hotPath, { encoding: "utf8" }
+    )
+    const coldData = await fsPromises.readFile(
+      coldPath, { encoding: "utf8" }
     )
 
-    const drinks = ParseDrinksText(data)
+    const hotDrinks = ParseDrinksText(hotData)
+    const coldDrinks = ParseDrinksText(coldData)
     return res.json({
       ok: true,
-      drinks
+      hotDrinks,
+      coldDrinks
     })
 
   } catch(err) {

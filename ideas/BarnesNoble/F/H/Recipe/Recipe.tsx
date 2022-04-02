@@ -32,7 +32,7 @@ export function Recipe({
       drink.steps.map((step, i)=>{
         const url = `/BarnesNoble/Steps/${step.illustration}`
         return (
-          <StepCard key={i}
+          <StepCard key={i} hot={drink.hot}
             optional={step.optional}
             oneLine={step.oneLine}
             imageUrl={url} />)

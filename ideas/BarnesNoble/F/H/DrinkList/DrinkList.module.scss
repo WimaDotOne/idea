@@ -4,10 +4,16 @@
   font-size: 20px;
   padding-top: 10px;
 }
-.drinks {
+.hotDrinks, .coldDrinks{
   padding: 10px;
   display: flex;
   flex-wrap: wrap;
+}
+.hotDrinks {
+  background-color: wheat;
+}
+.coldDrinks {
+  background-color: lightblue;
 }
 .drinkWrap {
   padding: 10px 20px;

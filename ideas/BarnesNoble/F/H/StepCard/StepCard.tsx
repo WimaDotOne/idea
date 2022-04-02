@@ -3,11 +3,13 @@ import { ClassNames } from "../../../../Core/fCore"
 import cl from "./StepCard.module.scss"
 
 interface IStepCardProp {
+  hot?: boolean
   optional?: boolean
   oneLine: string
   imageUrl: string
 }
 export function StepCard({
+  hot,
   optional,
   oneLine,
   imageUrl
@@ -26,9 +28,10 @@ export function StepCard({
     }
   })
   const clOptional = optional ? cl.optional :""
+  const clHot = hot ? cl.hot: ""
   return(<>
     <div className={cl.cardWrap}>
-    <div className={ClassNames([cl.card, clOptional])}>
+    <div className={ClassNames([cl.card, clOptional, clHot])}>
       <div className={cl.image} 
         ref={imageDivRef}
       />

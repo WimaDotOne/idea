@@ -1,0 +1,73 @@
+A | Iced Americano
+water.jpg| Add water to middle line
+espressoDrip.jpg| Espresso shots 234
+ice.jpg| Fill with ice.
+===
+L | Iced Latte
+syrupPump.jpg| Pump flavored syrup (Optional)
+coldMilk.jpg| Add cold milk to middle line on cup
+espressoDrip.jpg| Espresso shots
+ice.jpg| Fill with ice.
+===
+M | Iced Mocha
+chocolateSyrup.jpg| Pump chocolate syrup
+espressoDrip.jpg| Add espresso shots and swirl
+coldMilk.jpg| Add cold milk to top line one cup
+ice.jpg| Fill with ice
+whippedCreamDispenser.jpg| Top with whipped cream
+===
+WCM | Iced White Chocolate Mocha
+whiteChocolateSyrup.jpg| Pump chocolate syrup
+espressoDrip.jpg| Add espresso shots and swirl
+coldMilk.jpg| Add cold milk to top line one cup
+ice.jpg| Fill with ice
+whippedCreamDispenser.jpg| Top with whipped cream
+===
+C | Iced Cappuccino
+syrupPump.jpg| Add flavored syrup (Optional)
+coldMilk.jpg| Add cold milk to bottom line on cup.
+espressoDrip.jpg| Espresso shots
+ice.jpg| 2cm to full
+milkPitcher.jpg| Pour milk to one line below original line. Steam for FOAM!
+===
+CM | Iced Caramel Macchiato
+vanillaSyrup.jpg| Pump vanillaSyrup 235
+coldMilk.jpg| Add cold milk to top line on cup
+ice.jpg| Add ice
+espressoDrip.jpg| Espresso shots
+caramelDrizzle.jpg| Top with caramel drizzle
+===
+PM | Iced Peppermint Mocha
+peppermintSyrup.jpg| Pump Peppermint syrup 346
+chocolateSyrup.jpg| Pump Chocolate syrup 346
+espressoDrip.jpg| Espresso shots
+coldMilk.jpg| Add cold milk to top line on cup
+ice.jpg| Fill with ice
+whippedCreamDispenser.jpg| Top with whipped cream (Optional)
+chocolateCurl.jpg|Sprinkle chocolate curls
+===
+SCM | Iced Salted Caramel Mocha
+toffeeNutSyrup.jpg| Pump Toffee Nut syrup 346
+chocolateSyrup.jpg| Pump Chocolate syrup 346
+espressoDrip.jpg| Espresso shots
+coldMilk.jpg| Add cold milk to top line on cup
+ice.jpg| Fill with ice
+whippedCreamDispenser.jpg| Top with whipped cream (Optional)
+caramelDrizzle.jpg | Add Caramel drizzle
+seaSalt.jpg| Sprinkle Sea Salt
+===
+FW | Iced Flat White
+coldMilk.jpg| Add WHOLE milk to middle line on cup
+espressoDrip.jpg| Ristretto shots 234
+ice.jpg| Fill with ice
+===
+LM | Iced Latte Macchiato
+coldMilk.jpg| Add WHOLE milk to middle line on cup
+ice.jpg| Add ice
+espressoDrip.jpg| Espresso shots 234
+===
+CFC | Cold Foam Cappuccino
+ice.jpg| Fill with ice
+espressoDrip.jpg| Espresso shots
+coldMilk.jpg| Add NON-FAT milk to top line on cup
+coldFoam.jpg| 150ml NON-FAT milk blend on #3. Top with foam.
