@@ -134,7 +134,7 @@ ice.jpg| Fill with ice
 ===
 MGTL | Matcha Green Iced Tea Latte
 matcha.jpg| Add matcha into cold cup
-coldMilk.jpg| Ad cold milk to top line on cup
+coldMilk.jpg| Add cold milk to top line on cup
 barSpoon.jpg| Vigorously stir with a bar spoon for 10 seconds
 ice.jpg| Fill with ice
 whippedCreamDispenser.jpg| Top whipped cream (Optional)
