@@ -1,40 +1,25 @@
-import { useEffect, useState } from "react"
-import { Div, Post2, useShield } from "../../../../Core/fCore"
 import { IDrink } from "../../Model/IDrink"
 import { AppTurn } from "../../View/DrinksApp/DrinksApp"
 import cl from "./DrinkList.module.scss"
 
 interface IDrinkListProp {
+  hotDrinks: Array<IDrink>
+  coldDrinks: Array<IDrink>
   setAppTurn: (appTurn: string)=>void
   setDrink: (drink: IDrink)=>void
 }
 
 export function DrinkList({
+  hotDrinks,
+  coldDrinks,
   setAppTurn,
   setDrink
 }: IDrinkListProp) {
-
-  const [hotDrinks, setHotDrinks] = useState<Array<IDrink>>([])
-  const [coldDrinks, setColdDrinks] = useState<Array<IDrink>>([])
-  const shield = useShield()
-
-  function LoadDrinks() {
-    Post2(shield, "/bn/LoadDrinks",{},
-      (res)=>{
-        setHotDrinks(res.hotDrinks)
-        setColdDrinks(res.coldDrinks)
-      }
-    )
-  }
 
   function selectDrink(drink: IDrink) {
     setDrink(drink)
     setAppTurn(AppTurn.Recipe)
   }
-
-  useEffect(()=>{
-    LoadDrinks()
-  },[])
 
   return(<>
     <div className={cl.title}>Barnes &amp; Noble Barista</div>
