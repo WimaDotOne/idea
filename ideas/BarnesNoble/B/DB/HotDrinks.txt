@@ -87,15 +87,45 @@ chaiSyrup.jpg| Pump Chai Concentrate
 hotWater.jpg| Fill cup half full with HOT water
 milkPitcher.jpg| Pour milk to short line for Tall and Grande cup, tall line for Venti cup. Steam.
 ===
-MGTL| Matcha Green Tea Latte
+MGTL| Matcha Green Tea Latte | hot
 matcha.jpg| Add matcha to milk pitcher 234 scoops
 milkPitcher.jpg| Steam milk and Matcha together
 whippedCreamDispenser.jpg| Top with whipped cream (Optional)
 ===
-LFT| London Fog Tea
+LFT| London Fog Tea | hot
 earlGreyTea.jpg| Add tea bags into the cup. 112 bags
 vanillaSyrup.jpg| Pump Vanilla syrup
 hotWater.jpg| Fill cup half full with HOT WATER
 milkPitcher.jpg| Pour milk one line below original. Steam
 ===
-
+CSTL| Cinnamon Spice Tea Latte | hot
+vanillaSyrup.jpg| Pump vanilla syrup
+cinnamonSpiceTea.jpg| Add tea bag into cup 122
+hotWater.jpg| Fill cup half full with HOT WATER
+milkPitcher.jpg| Pour milk one line below usual line. Steam milk
+===
+GBTL| Gingerbread Tea Latte | hot
+gingerbreadTea.jpg| Add Gingerbread tea bags into the cup 233
+vanillaSyrup.jpg| Pump Vanilla Syrup 456
+hotWater.jpg| Fill cup 1/3 full with HOT WATER
+milkPitcher.jpg| Pour milk one line below original line. Steam milk
+===
+PMTL| Peppermint Mocha Tea Latte | hot
+peppermintTea.jpg|Add tea bags into the cup 223
+chocolateSyrup.jpg|Pump chocolate syrup
+hotWater.jpg|Fill cup half full with HOT WATER
+oatMilkPitcher.jpg|Pour oat milk one line below usual line. Steam oat milk.
+===
+CTL | Cranberry Autumn Tea Latte | hot
+cranberryAutumnTea.jpg| Add tea bags into the cup 233
+vanillaSyrup.jpg| Pump vanilla syrup 234
+classicSyrup.jpg| Pump classic syrup 122
+hotWater.jpg| Fill cup half full with HOT WATER
+milkPitcher.jpg| Pour milk one line below usual line
+===
+BGTL| Blueberry Green Tea Latte | hot
+blueberryGreenTea.jpg| Add tea bags into the cup 122
+classicSyrup.jpg| Pump classic syrup
+hotWater.jpg| Fill cup half full with HOT WATER
+coconutMilkPitcher.jpg| Pour coconut milk one line below usual line.
+===

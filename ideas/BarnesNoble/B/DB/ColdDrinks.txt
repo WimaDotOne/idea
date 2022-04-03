@@ -202,4 +202,197 @@ ice.jpg | Fill with ice (or use volumetric ice scoop to directly add ice into bl
 cremeFrapSyrup.jpg| Add Creme Frap Base 234 into blender
 blender.jpg| Pour contents into blender. Blend on #1
 ===
-
+DCCF| Double Chocolate Chip Frappuccino
+coldCup.jpg| use cup to measure
+coldMilk.jpg| pour WHOLE milk to bottom line on cup
+blender.jpg| pour content into blender
+chocolateSyrup.jpg| Pump Mocha Sauce 122 into blender
+chocolateChips.jpg| Add scoops of Frappuccino Chips 234
+ice.jpg| Use volumetric ice scoop
+cremeFrapSyrup.jpg| Pump Creme Frap base 234
+coldCup.jpg| Blend on #1, and transfer to cold cup.
+whippedCreamDispenser.jpg| Top with whipped cream
+frapMochaDrizzle.jpg| Add mocha drizzle swirl
+===
+GTF | Green Tea Frappuccino
+coldCup.jpg| use cup to measure
+coldMilk.jpg| pour WHOLE milk to bottom line on cup
+blender.jpg| pour content into blender
+matcha.jpg| Add Matcha Green Tea powder 234
+ice.jpg| Use volumetric ice scoop
+cremeFrapSyrup.jpg| Pump Creme Frap base 234
+coldCup.jpg| Blend on #1, and transfer to cold cup.
+whippedCreamDispenser.jpg| Top with whipped cream.
+===
+VBF| Vanilla Bean Frappuccino
+coldCup.jpg| use cup to measure
+coldMilk.jpg| pour WHOLE milk to bottom line on cup
+blender.jpg| pour content into blender
+vanillaBeanPowder.jpg| Add vanilla bean powder 234
+ice.jpg| Use volumetric ice scoop
+cremeFrapSyrup.jpg| Pump Creme Frap base 234
+coldCup.jpg| Blend on #1, and transfer to cold cup.
+whippedCreamDispenser.jpg| Top with whipped cream.
+===
+CHF| Chai Frappuccino
+coldCup.jpg| use cup to measure
+coldMilk.jpg| pour WHOLE milk to bottom line on cup
+blender.jpg| pour content into blender
+chaiSyrup.jpg| Pump Chai Concentrate 122
+ice.jpg| Use volumetric ice scoop
+cremeFrapSyrup.jpg| Pump Creme Frap base 234
+coldCup.jpg| Blend on #1, and transfer to cold cup.
+whippedCreamDispenser.jpg| Top with whipped cream
+cinnamonPowder.jpg| Sprinkle Cinnamon on top
+===
+CF| Coffee Frappuccino
+coldCup.jpg| use cup to measure
+frapRoast.jpg| Pump Frap Roast into cup 234
+coldMilk.jpg| pour WHOLE milk to bottom line on cup
+blender.jpg| pour content into blender
+ice.jpg| Use volumetric ice scoop
+coffeeFrapSyrup.jpg| Pump Coffee Frap Base 234
+coldCup.jpg| Blend on #1, and transfer to cold cup
+whippedCreamDispenser.jpg| Top with whipped cream
+===
+CVF| Cafe Vanilla Frappuccino
+coldCup.jpg| use cup to measure
+frapRoast.jpg| Pump Frap Roast into cup 234
+coldMilk.jpg| pour WHOLE milk to bottom line on cup
+blender.jpg| pour content into blender
+vanillaBeanPowder.jpg| Add Vanilla Bean powder 234
+ice.jpg| Use volumetric ice scoop
+coffeeFrapSyrup.jpg| Pump Coffee Frap Base 234
+coldCup.jpg| Blend on #1, and transfer to cold cup
+whippedCreamDispenser.jpg| Top with whipped cream
+===
+JCF| Java Chip Frappuccino
+coldCup.jpg| use cup to measure
+frapRoast.jpg| Pump Frap Roast into cup 234
+coldMilk.jpg| pour WHOLE milk to bottom line on cup
+blender.jpg| pour content into blender
+chocolateSyrup.jpg| Pump Mocha Sauce 122
+chocolateChips.jpg| Add Frappuccino Chips 234
+ice.jpg| Use volumetric ice scoop
+coffeeFrapSyrup.jpg| Pump Coffee Frap Base 234
+coldCup.jpg| Blend on #1, and transfer to cold cup
+whippedCreamDispenser.jpg| Top with whipped cream
+frapMochaDrizzle.jpg| Add mocha drizzle swirl
+===
+MF | Mocha Frappuccino
+coldCup.jpg| use cup to measure
+frapRoast.jpg| Pump Frap Roast into cup 234
+coldMilk.jpg| pour WHOLE milk to bottom line on cup
+blender.jpg| pour content into blender
+chocolateSyrup.jpg| Pump Mocha Sauce 122
+ice.jpg| Use volumetric ice scoop
+coffeeFrapSyrup.jpg| Pump Coffee Frap Base 234
+coldCup.jpg| Blend on #1, and transfer to cold cup
+whippedCreamDispenser.jpg| Top with whipped cream
+===
+WCMF | White Chocolate Mocha Frappuccino
+coldCup.jpg| use cup to measure
+frapRoast.jpg| Pump Frap Roast into cup 234
+coldMilk.jpg| pour WHOLE milk to bottom line on cup
+blender.jpg| pour content into blender
+whiteChocolateSyrup.jpg| Pump White Mocha Sauce 122
+ice.jpg| Use volumetric ice scoop
+coffeeFrapSyrup.jpg| Pump Coffee Frap Base 234
+coldCup.jpg| Blend on #1, and transfer to cold cup
+whippedCreamDispenser.jpg| Top with whipped cream
+===
+CrF| Caramel Frappuccino
+coldCup.jpg| use cup to measure
+frapRoast.jpg| Pump Frap Roast into cup 234
+coldMilk.jpg| pour WHOLE milk to bottom line on cup
+blender.jpg| pour content into blender
+caramelSyrup.jpg| Add Caramel Syrup 122
+ice.jpg| Use volumetric ice scoop
+coffeeFrapSyrup.jpg| Pump Coffee Frap Base 234
+coldCup.jpg| Blend on #1, and transfer to cold cup
+whippedCreamDispenser.jpg| Top with whipped cream
+frapCaramelDrizzle.jpg|  Top with cramel drizzle swirl
+===
+PMF | Peppermint Mocha Frappuccino
+coldCup.jpg| use cup to measure
+frapRoast.jpg| Pump Frap Roast into cup 234
+coldMilk.jpg| pour WHOLE milk to bottom line on cup
+blender.jpg| pour content into blender
+chocolateSyrup.jpg| Pump Mocha Sauce 122
+peppermintSyrup.jpg| Pump Peppermint Syrup 122
+ice.jpg| Use volumetric ice scoop
+coffeeOrCremeFrapSyrup.jpg| Pump Coffee or Creme Frap Base 234
+coldCup.jpg| Blend on #1, and transfer to cold cup
+whippedCreamDispenser.jpg| Top with whipped cream
+chocolateCurl.jpg| Top with chocolate curls
+===
+PWMF | Peppermint White Chocolate Mocha Frappuccino
+coldCup.jpg| use cup to measure
+frapRoast.jpg| Pump Frap Roast into cup 234
+coldMilk.jpg| pour WHOLE milk to bottom line on cup
+blender.jpg| pour content into blender
+whiteChocolateSyrup.jpg| Pump White Mocha Sauce 122
+peppermintSyrup.jpg| Pump Peppermint Syrup 122
+ice.jpg| Use volumetric ice scoop
+coffeeOrCremeFrapSyrup.jpg| Pump Coffee or Creme Frap Base 234
+coldCup.jpg| Blend on #1, and transfer to cold cup
+whippedCreamDispenser.jpg| Top with whipped cream
+chocolateCurl.jpg| Top with chocolate curls
+===
+CBF | Caramel Brulee Frappuccino
+coldCup.jpg| use cup to measure
+frapRoast.jpg| Pump Frap Roast into cup 234
+coldMilk.jpg| pour WHOLE milk to bottom line on cup
+blender.jpg| pour content into blender
+caramelBruleeSyrup.jpg| Pump Caramel Brulee Syrup 122
+ice.jpg| Use volumetric ice scoop
+coffeeOrCremeFrapSyrup.jpg| Pump Coffee or Creme Frap Base 234
+coldCup.jpg| Blend on #1, and transfer to cold cup
+whippedCreamDispenser.jpg| Top with whipped cream
+===
+StCF | Strawberry & Cream Frappuccino
+coldCup.jpg| use cup to measure
+coldMilk.jpg| pour WHOLE milk to bottom line on cup
+blender.jpg| pour content into blender
+classicSyrup.jpg| Pump Classic Syrup 122
+ice.jpg| Use volumetric ice scoop
+cremeFrapSyrup.jpg| Pump Creme Frap Base 234
+blender.jpg| Blend on #1
+strawberryPuree.jpg| Pour strawberry puree to lowest ridge on bottom of cup
+coldCup.jpg| Pour blend into cup
+whippedCreamDispenser.jpg| Top with whipped cream.
+===
+SCAF | Sugar Cookie Almondmilk Frappuccino
+coldCup.jpg| use cup to measure
+frapRoast.jpg| Pump Frap Roast into cup 234
+coldMilk.jpg| pour ALMOND milk to bottom line on cup
+blender.jpg| pour content into blender
+sugarCookieSyrup.jpg| Add Sugar Cookie Syrup 122
+ice.jpg| Use volumetric ice scoop
+coffeeFrapSyrup.jpg| Add Coffee Frap base 234
+coldCup.jpg| Blend on #1, transfer to cup
+whippedCreamDispenser.jpg| Top with whipped cream
+redGreenSprinkle.jpg| Add red & green sprinkles
+===
+SCACF | Sugar Cookie Almondmilk Creme Frappuccino
+coldCup.jpg| use cup to measure
+coldMilk.jpg| pour ALMOND milk to bottom line on cup
+blender.jpg| pour content into blender
+sugarCookieSyrup.jpg| Add Sugar Cookie Syrup 122
+ice.jpg| Use volumetric ice scoop
+cremeFrapSyrup.jpg| Add Creme Frap base 234
+coldCup.jpg| Blend on #1, transfer to cup
+whippedCreamDispenser.jpg| Top with whipped cream
+redGreenSprinkle.jpg| Add red & green sprinkles
+===
+PF | Pistachio Frappuccino
+coldCup.jpg| use cup to measure
+frapRoast.jpg| Pump Frap Roast into cup 234
+coldMilk.jpg| pour ALMOND milk to bottom line on cup
+blender.jpg| pour content into blender
+pistachioSyrup.jpg| Pump Pistachio Syrup 122
+ice.jpg| Use volumetric ice scoop
+coffeeOrCremeFrapSyrup.jpg| Add Coffee or Creme Frap base 234
+coldCup.jpg| Blend on #1, transfer to cup
+whippedCreamDispenser.jpg| Top with whipped cream
+saltedBrownButterCookieTopping.jpg| Sprinkle with Salt Brown Butter Cookie Topping
