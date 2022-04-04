@@ -420,14 +420,6 @@ water.jpg| Add water to top line on cup
 ice.jpg| Fill cup with ice to 1" (2cm) below cup rim
 irishColdFoamCocoaPowder.jpg| Top with Irish Cream col foam and Add Barista cocoa powder in a strike down the center of foam.
 ===
-RE | Red Eye
-espressoDrip.jpg | Espresso shot 111
-coffeeUrn.jpg| Pour drip coffee
-===
-BE | Black Eye
-espressoDrip.jpg | Espresso shots 222
-coffeeUrn.jpg| Pour drip coffee
-===
 IC | Iced Coffee (room for milk)
 icedCoffee.jpg| Pour iced coffee to top (middle) line on cup
 classicSyrup.jpg| Pump Classic Syrup 3467

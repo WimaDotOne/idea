@@ -138,3 +138,11 @@ chocolateSyrup.jpg | Pump Mocha Sauce
 coffeeUrn.jpg| Fill cup half full with coffee
 milkPitcher.jpg | Pour milk to short line on pitcher. Steam
 whippedCreamDispenser.jpg| Add Whipped Cream (Optional)
+===
+RE | Red Eye
+espressoDrip.jpg | Espresso shot 111
+coffeeUrn.jpg| Pour drip coffee
+===
+BE | Black Eye
+espressoDrip.jpg | Espresso shots 222
+coffeeUrn.jpg| Pour drip coffee
