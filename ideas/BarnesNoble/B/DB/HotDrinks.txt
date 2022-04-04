@@ -129,3 +129,12 @@ classicSyrup.jpg| Pump classic syrup
 hotWater.jpg| Fill cup half full with HOT WATER
 coconutMilkPitcher.jpg| Pour coconut milk one line below usual line.
 ===
+AL | Cafe au Lait
+coffeeUrn.jpg| Fill cup half full with coffee
+milkPitcher.jpg| Pour milk to short line on pitcher. Steam
+===
+CC | Caffe & Cocoa
+chocolateSyrup.jpg | Pump Mocha Sauce
+coffeeUrn.jpg| Fill cup half full with coffee
+milkPitcher.jpg | Pour milk to short line on pitcher. Steam
+whippedCreamDispenser.jpg| Add Whipped Cream (Optional)

@@ -396,3 +396,45 @@ coffeeOrCremeFrapSyrup.jpg| Add Coffee or Creme Frap base 234
 coldCup.jpg| Blend on #1, transfer to cup
 whippedCreamDispenser.jpg| Top with whipped cream
 saltedBrownButterCookieTopping.jpg| Sprinkle with Salt Brown Butter Cookie Topping
+===
+VSCCB | Vanilla Sweet Cream Cold Brew Iced Coffee
+vanillaSyrup.jpg| Pump Vanilla Syrup 1234
+coldBrew.jpg| Pour cold brew concentrate to bottom line on cup
+water.jpg| Add water to top line on cup
+ice.jpg| Fill with ice
+sweetCream.jpg| Pour a SPLASH of Sweet Cream on top
+===
+VSCCF | Vanilla Sweet Cream Cold Foam Modifier
+coldFoamPitcher.jpg | Use cold foam pitcher to create cold foam
+vanillaSweetCream.jpg| Pour Vanilla Sweet Cream to 100-150 ml line on cold foam pitcher. Blend on #3
+coldCup.jpg| Leave 1" (2cm) room in the prepared beverage for the VSCCF
+===
+ICCB | Irish Cream Cold Brew
+coldFoamPitcher.jpg | Use cold foam pitcher to create cold foam
+irishCream.jpg| 2 pumps of Irish Cream Syrup in cold foam pitcher
+vanillaSweetCream.jpg| Pour Vanilla Sweet Cream to 100 ml line on cold foam pitcher. Blend on #3
+coldCup.jpg| Now use a cup
+irishCream.jpg| Pump Irish Cream syrup into cup 1234
+coldBrew.jpg| Pour cold brew to bottom line on cup
+water.jpg| Add water to top line on cup
+ice.jpg| Fill cup with ice to 1" (2cm) below cup rim
+irishColdFoamCocoaPowder.jpg| Top with Irish Cream col foam and Add Barista cocoa powder in a strike down the center of foam.
+===
+RE | Red Eye
+espressoDrip.jpg | Espresso shot 111
+coffeeUrn.jpg| Pour drip coffee
+===
+BE | Black Eye
+espressoDrip.jpg | Espresso shots 222
+coffeeUrn.jpg| Pour drip coffee
+===
+IC | Iced Coffee (room for milk)
+icedCoffee.jpg| Pour iced coffee to top (middle) line on cup
+classicSyrup.jpg| Pump Classic Syrup 3467
+ice.jpg| Add ice (room for milk)
+===
+CBIC | Cold Brew Iced Coffee (room for milk)
+coldBrew.jpg| Pour Cold Brew concentrate to bottom line on cup
+water.jpg| Add water to top (middle) line on cup
+classicSyrup.jpg| Pump Classic Syrup 3467
+ice.jpg| Add ice (room for milk)
