@@ -5,7 +5,7 @@ MEG: I know exactly who I wanna dance with.
 AMY: Who will you dance with, Jo?
 JO: I never dance.
 ---m2.jpg
-AMY: Why can't we all go? It's not fair.
+AMY: Why can't we all go to the party? It's not fair.
 JO: Just wear your regular shoes.
 MEG: These fit last winter.
 AMY: My nose simply will not look refined.
@@ -31,3 +31,80 @@ JO: Sorry.
 MEG: What have you done?
 JO: Sorry. You shouldn't have asked me to do it.
 MEG: Marmee! I can't go, I'm spoiled. My hair!
+===
+#At the party
+---m8.jpg
+MEG: Don't stare, don't put your hands behind your back, don't say "Christopher Columbus" or "capital."
+JO: All right.
+MEG: Don't shake hands. Don't whistle.
+---m9.jpg
+#Meg's friend Sallie leads her away
+SALLIE: Meg March, you look so pretty.
+JO: Meg.
+---m10.jpg
+#Later Jo leans on a door way with her arms folded. She glumly watches well-dressed people dance. Meg does elegant steps with a beared man, smiles as they cirle each other.
+---m11.jpg
+#Jo cranes her neck as her sister finishes her dancing. Jo guestures to leave. Meg shakes her head and turns to her partner. Jo rolls her eyes and sighs. Across the room, a tall man waves at her. Jo sneaks away.
+---m12.jpg
+#Jo moves behind a curturn and backs into Laurie's chair.
+JO: Ooh! Sorry. I didn't know anyone was here.
+---m13.jpg
+LAURIE: Not at all. Stay if you like.
+JO: I won't distrub you?
+---m14.jpg
+LAURIE: No. I don't know many people here. I felt rather strange at first, you know?
+JO: Mm-hm. So do I.
+---m15.jpg
+#They shake hands and smile warmly at each other.
+LAURIE: Miss March, isn't it?
+JO: Yes, Mr. Laurence, but I'm not Miss March. I'm only Jo.
+LAURIE: And I'm not Mr. Laurence, I'm only Laurie.
+---m16.jpg
+#Jo glaces towards the other room.
+JO: Don't you dance?
+LAURIE: I don't know how you do things here yet. I've spent most of my life in Europe.
+JO: Europe! Oh, that's capital! Shouldn't use words like that.
+LAURIE: Says who?
+JO: Oh, Meg. She's my older sister. Here.
+---m17.jpg
+#She parts the curturn and they peer through.
+JO: Oh, that's her. See? The girl in the violet dress.
+LAURIE: Oh, it's pretty.
+---m18.jpg
+#They sit
+JO: She reminds me to be good, so Father will be proud when he returns.
+LAURIE: Where is he?
+JO: He volunteered for the Union Army. I wanted to go fight with him. I can't get over my disappointment in being a girl.
+LAURIE: Jo, would you like to dance with me?
+JO: I can't because... Mm.
+LAURIE: Because of what?
+JO: You won't tell?
+LAURIE: Never.
+---m19.jpg
+JO: I scorched my dress. See? There. Meg told me to keep still, so no one would see it. You can laugh if you want to. It's funny, I know.
+LAURIE: I have an idea of how we can manage.
+===
+---m20.jpg
+#On the porch outside the ball room. Laurie offers his hand and Jo take it. 
+---m21.jpg
+#They stride quickly past the window and then stop. 
+---m22.jpg
+#She gives him a silly smile and they clumsily dance back. Jo bump into him.
+---m23.jpg
+#Now they walk by a window. Once out of view, they jump around wildly. They duck past another window and grip arms and step in cirles. They jump around again and continue on.
+---m24.jpg
+#Meg comes to the window.
+JO: What?
+MEG: My foot. I hurt my ankle.
+---m25.jpg
+MEG: How am I gonna get home?
+JO: I don't see what you can do, except get a carriage or stay here all night.
+MEG: Carriages are too expensive.
+LAURIE: Let me take you. It's right next door.
+MEG: Oh, no, thank you. We cannot accept.
+LAURIE: You must take mine, please?
+MEG: No. It's so early. You can't mean to leave yet.
+LAURIE: I always leave early. I do, truly.
+JO: What choice do you have, hm?
+===
+
