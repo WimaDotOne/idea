@@ -122,7 +122,7 @@ BOSE| Brown Sugar Oatmilk Shaken Espresso
 shaker.jpg| Use shaker
 brownSugarSyrup.jpg| Pump Brown Sugar syrup into shaker 123
 ice.jpg| Fill ice to Ice Line on shaker
-cinnamonPowder.jpg| Add 2 shakes of Cinnamon cinnamonPowder
+cinnamonPowder.jpg| Add 2 shakes of Cinnamon Powder
 tinyPitcher.jpg| Espresso shots into shaker 234
 coldCup.jpg| Shake, transfer into cold cup
 coldMilk.jpg| Fill with OATMILK
