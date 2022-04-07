@@ -372,6 +372,7 @@ ice.jpg| Use volumetric ice scoop
 coffeeOrCremeFrapSyrup.jpg| Pump Coffee or Creme Frap Base 234
 coldCup.jpg| Blend on #1, and transfer to cold cup
 whippedCreamDispenser.jpg| Top with whipped cream
+caramelBruleeTopping.jpg| Top with Caramel Brulee topping
 ===
 SCAF | Sugar Cookie Almondmilk Frappuccino
 coldCup.jpg| use cup to measure
