@@ -245,6 +245,29 @@ coldCup.jpg| Blend on #1, and transfer to cold cup.
 whippedCreamDispenser.jpg| Top with whipped cream
 cinnamonPowder.jpg| Sprinkle Cinnamon on top
 ===
+StCF | Strawberry & Cream Frappuccino
+coldCup.jpg| use cup to measure
+coldMilk.jpg| pour WHOLE milk to bottom line on cup
+blender.jpg| pour content into blender
+classicSyrup.jpg| Pump Classic Syrup 122
+ice.jpg| Use volumetric ice scoop
+cremeFrapSyrup.jpg| Pump Creme Frap Base 234
+blender.jpg| Blend on #1
+strawberryPuree.jpg| Pour strawberry puree to lowest ridge on bottom of cup
+coldCup.jpg| Pour blend into cup
+whippedCreamDispenser.jpg| Top with whipped cream.
+===
+SCACF | Sugar Cookie Almondmilk Creme Frappuccino
+coldCup.jpg| use cup to measure
+coldMilk.jpg| pour ALMOND milk to bottom line on cup
+blender.jpg| pour content into blender
+sugarCookieSyrup.jpg| Add Sugar Cookie Syrup 122
+ice.jpg| Use volumetric ice scoop
+cremeFrapSyrup.jpg| Add Creme Frap base 234
+coldCup.jpg| Blend on #1, transfer to cup
+whippedCreamDispenser.jpg| Top with whipped cream
+redGreenSprinkle.jpg| Add red & green sprinkles
+===
 CF| Coffee Frappuccino
 coldCup.jpg| use cup to measure
 frapRoast.jpg| Pump Frap Roast into cup 234
@@ -350,18 +373,6 @@ coffeeOrCremeFrapSyrup.jpg| Pump Coffee or Creme Frap Base 234
 coldCup.jpg| Blend on #1, and transfer to cold cup
 whippedCreamDispenser.jpg| Top with whipped cream
 ===
-StCF | Strawberry & Cream Frappuccino
-coldCup.jpg| use cup to measure
-coldMilk.jpg| pour WHOLE milk to bottom line on cup
-blender.jpg| pour content into blender
-classicSyrup.jpg| Pump Classic Syrup 122
-ice.jpg| Use volumetric ice scoop
-cremeFrapSyrup.jpg| Pump Creme Frap Base 234
-blender.jpg| Blend on #1
-strawberryPuree.jpg| Pour strawberry puree to lowest ridge on bottom of cup
-coldCup.jpg| Pour blend into cup
-whippedCreamDispenser.jpg| Top with whipped cream.
-===
 SCAF | Sugar Cookie Almondmilk Frappuccino
 coldCup.jpg| use cup to measure
 frapRoast.jpg| Pump Frap Roast into cup 234
@@ -370,17 +381,6 @@ blender.jpg| pour content into blender
 sugarCookieSyrup.jpg| Add Sugar Cookie Syrup 122
 ice.jpg| Use volumetric ice scoop
 coffeeFrapSyrup.jpg| Add Coffee Frap base 234
-coldCup.jpg| Blend on #1, transfer to cup
-whippedCreamDispenser.jpg| Top with whipped cream
-redGreenSprinkle.jpg| Add red & green sprinkles
-===
-SCACF | Sugar Cookie Almondmilk Creme Frappuccino
-coldCup.jpg| use cup to measure
-coldMilk.jpg| pour ALMOND milk to bottom line on cup
-blender.jpg| pour content into blender
-sugarCookieSyrup.jpg| Add Sugar Cookie Syrup 122
-ice.jpg| Use volumetric ice scoop
-cremeFrapSyrup.jpg| Add Creme Frap base 234
 coldCup.jpg| Blend on #1, transfer to cup
 whippedCreamDispenser.jpg| Top with whipped cream
 redGreenSprinkle.jpg| Add red & green sprinkles
