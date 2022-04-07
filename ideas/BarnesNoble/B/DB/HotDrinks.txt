@@ -27,15 +27,22 @@ milkPitcher.jpg| Steam milk
 espressoDrip.jpg| Espresso shots after milk
 caramelDrizzle.jpg| Top with caramel drizzle, crosshatch, double-cirle
 ===
+LM | Latte Macchiato | hot
+tinyPitcher.jpg| Pull espresso shots into 5 oz pitcher 233
+milkPitcher.jpg| Steam WHOLE milk
+latteMacchiatoPattern.jpg| Pour espresso to create espresso dot pattern.
+===
 FW | Flat White | hot
 espressoDrip.jpg | Ristretto shots 233
 milkPitcher.jpg| Steam WHOLE milk
 flatWhitePattern.jpg| Pour milk to create the dot foam pattern.
 ===
-LM | Latte Macchiato | hot
-tinyPitcher.jpg| Pull espresso shots into 5 oz pitcher 233
-milkPitcher.jpg| Steam WHOLE milk
-latteMacchiatoPattern.jpg| Pour espresso to create espresso dot pattern.
+CBL | Caramel Brulee Latte | hot
+caramelBruleeSyrup.jpg| Pump Caramel Brulee syrup
+espressoDrip.jpg| Espresso shots
+milkPitcher.jpg | Steam milk
+whippedCreamDispenser.jpg | Top with whipped cream
+caramelBruleeTopping.jpg | Add Caramel Brulee topping
 ===
 M | Mocha | hot
 chocolateSyrup.jpg | Pump chocolate syrup
@@ -48,13 +55,6 @@ whiteChocolateSyrup.jpg | Pump white cholocate syrup
 espressoDrip.jpg | Espresso shots
 milkPitcher.jpg | Steam milk
 whippedCreamDispenser.jpg | Top with whipped cream (Optional)
-===
-CBL | Caramel Brulee Latte | hot
-caramelBruleeSyrup.jpg| Pump Caramel Brulee syrup
-espressoDrip.jpg| Espresso shots
-milkPitcher.jpg | Steam milk
-whippedCreamDispenser.jpg | Top with whipped cream
-caramelBruleeTopping.jpg | Add Caramel Brulee topping
 ===
 PM | Pepermint Mocha | hot
 peppermintSyrup.jpg| Pump peppermint syrup 345

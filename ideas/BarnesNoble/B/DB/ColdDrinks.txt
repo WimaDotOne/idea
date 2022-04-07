@@ -9,20 +9,6 @@ coldMilk.jpg| Add cold milk to middle line on cup
 espressoDrip.jpg| Espresso shots
 ice.jpg| Fill with ice.
 ===
-M | Iced Mocha
-chocolateSyrup.jpg| Pump chocolate syrup
-espressoDrip.jpg| Add espresso shots and swirl
-coldMilk.jpg| Add cold milk to top line one cup
-ice.jpg| Fill with ice
-whippedCreamDispenser.jpg| Top with whipped cream
-===
-WCM | Iced White Chocolate Mocha
-whiteChocolateSyrup.jpg| Pump chocolate syrup
-espressoDrip.jpg| Add espresso shots and swirl
-coldMilk.jpg| Add cold milk to top line one cup
-ice.jpg| Fill with ice
-whippedCreamDispenser.jpg| Top with whipped cream
-===
 C | Iced Cappuccino
 syrupPump.jpg| Add flavored syrup (Optional)
 coldMilk.jpg| Add cold milk to bottom line on cup.
@@ -37,6 +23,38 @@ ice.jpg| Add ice
 espressoDrip.jpg| Espresso shots
 caramelDrizzle.jpg| Top with caramel drizzle
 ===
+LM | Iced Latte Macchiato
+coldMilk.jpg| Add WHOLE milk to middle line on cup
+ice.jpg| Add ice
+espressoDrip.jpg| Espresso shots 234
+===
+FW | Iced Flat White
+coldMilk.jpg| Add WHOLE milk to middle line on cup
+espressoDrip.jpg| Ristretto shots 234
+ice.jpg| Fill with ice
+===
+CBL | Iced Caramel Brulee Latte
+caramelBruleeSyrup.jpg| Pump Caramel Brulee syrup
+coldMilk.jpg| Add cold milk to middle line
+espressoDrip.jpg| Espresso shots
+ice.jpg | Fill with ice
+whippedCreamDispenser.jpg| Top with whipped cream.
+caramelBruleeTopping.jpg| Add Caramel Brulee topping
+===
+M | Iced Mocha
+chocolateSyrup.jpg| Pump chocolate syrup
+espressoDrip.jpg| Add espresso shots and swirl
+coldMilk.jpg| Add cold milk to top line one cup
+ice.jpg| Fill with ice
+whippedCreamDispenser.jpg| Top with whipped cream
+===
+WCM | Iced White Chocolate Mocha
+whiteChocolateSyrup.jpg| Pump chocolate syrup
+espressoDrip.jpg| Add espresso shots and swirl
+coldMilk.jpg| Add cold milk to top line one cup
+ice.jpg| Fill with ice
+whippedCreamDispenser.jpg| Top with whipped cream
+===
 PM | Iced Peppermint Mocha
 peppermintSyrup.jpg| Pump Peppermint syrup 346
 chocolateSyrup.jpg| Pump Chocolate syrup 346
@@ -45,6 +63,20 @@ coldMilk.jpg| Add cold milk to top line on cup
 ice.jpg| Fill with ice
 whippedCreamDispenser.jpg| Top with whipped cream (Optional)
 chocolateCurl.jpg|Sprinkle chocolate curls
+===
+SCAL | Iced Sugar Cookie Almondmilk Latte
+sugarCookieSyrup.jpg| Pump Sugar Cookie syrup
+coldMilk.jpg| Add cold ALMOND milk to middle line on cup
+espressoDrip.jpg| Espresso shots
+ice.jpg | Fill with ice
+redGreenSprinkle.jpg| Top with red & green sprinkles
+===
+PL | Pistachio Latte
+pistachioSyrup.jpg| Pump Pistachio Syrup
+coldMilk.jpg| Add cold milk to top line on cup
+espressoDrip.jpg| Espresso shots
+ice.jpg| Fill with ice
+saltedBrownButterCookieTopping.jpg| Top with Salted Brown Butter Cookie Topping
 ===
 SCM | Iced Salted Caramel Mocha
 toffeeNutSyrup.jpg| Pump Toffee Nut syrup 346
@@ -55,16 +87,6 @@ ice.jpg| Fill with ice
 whippedCreamDispenser.jpg| Top with whipped cream (Optional)
 caramelDrizzle.jpg | Add Caramel drizzle
 seaSalt.jpg| Sprinkle Sea Salt
-===
-FW | Iced Flat White
-coldMilk.jpg| Add WHOLE milk to middle line on cup
-espressoDrip.jpg| Ristretto shots 234
-ice.jpg| Fill with ice
-===
-LM | Iced Latte Macchiato
-coldMilk.jpg| Add WHOLE milk to middle line on cup
-ice.jpg| Add ice
-espressoDrip.jpg| Espresso shots 234
 ===
 CFC | Cold Foam Cappuccino
 ice.jpg| Fill with ice
@@ -79,21 +101,6 @@ ice.jpg| Fill with ice
 espressoDrip.jpg| Espresso shots
 caramelDrizzle.jpg | Add Caramel drizzle, crosshatch, double circle
 mochaDrizzle.jpg| Add Mocha drizzle, a cirlce.
-===
-CBL | Iced Caramel Brulee Latte
-caramelBruleeSyrup.jpg| Pump Caramel Brulee syrup
-coldMilk.jpg| Add cold milk to middle line
-espressoDrip.jpg| Espresso shots
-ice.jpg | Fill with ice
-whippedCreamDispenser.jpg| Top with whipped cream.
-caramelBruleeTopping.jpg| Add Caramel Brulee topping
-===
-SCAL | Iced Sugar Cookie Almondmilk Latte
-sugarCookieSyrup.jpg| Pump Sugar Cookie syrup
-coldMilk.jpg| Add cold ALMOND milk to middle line on cup
-espressoDrip.jpg| Espresso shots
-ice.jpg | Fill with ice
-redGreenSprinkle.jpg| Top with red & green sprinkles
 ===
 SD | Starbucks Doubleshot on Ice
 shaker.jpg| Use shaker
@@ -111,19 +118,12 @@ tinyPitcher.jpg| Espresso shots into shaker 234 (better do first)
 coldCup.jpg|Shake, transfer into cold cup
 coldMilk.jpg| fill with OATMILK
 ===
-PL | Pistachio Latte
-pistachioSyrup.jpg| Pump Pistachio Syrup
-coldMilk.jpg| Add cold milk to top line on cup
-espressoDrip.jpg| Espresso shots
-ice.jpg| Fill with ice
-saltedBrownButterCookieTopping.jpg| Top with Salted Brown Butter Cookie Topping
-===
 BOSE| Brown Sugar Oatmilk Shaken Espresso
 shaker.jpg| Use shaker
-brownSugarSyrup.jpg| Pump Brown Sugar syrup into shaker
+brownSugarSyrup.jpg| Pump Brown Sugar syrup into shaker 123
 ice.jpg| Fill ice to Ice Line on shaker
 cinnamonPowder.jpg| Add 2 shakes of Cinnamon cinnamonPowder
-tinyPitcher.jpg| Espresso shots into shaker
+tinyPitcher.jpg| Espresso shots into shaker 234
 coldCup.jpg| Shake, transfer into cold cup
 coldMilk.jpg| Fill with OATMILK
 ===
@@ -418,7 +418,7 @@ irishCream.jpg| Pump Irish Cream syrup into cup 1234
 coldBrew.jpg| Pour cold brew to bottom line on cup
 water.jpg| Add water to top line on cup
 ice.jpg| Fill cup with ice to 1" (2cm) below cup rim
-irishColdFoamCocoaPowder.jpg| Top with Irish Cream col foam and Add Barista cocoa powder in a strike down the center of foam.
+irishColdFoamCocoaPowder.jpg| Top with Irish Cream cold foam and Add Barista cocoa powder in a strike down the center of foam.
 ===
 IC | Iced Coffee (room for milk)
 icedCoffee.jpg| Pour iced coffee to top (middle) line on cup
