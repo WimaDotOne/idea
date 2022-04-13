@@ -5,8 +5,8 @@ ice.jpg| Fill with ice.
 ===
 L | Iced Latte
 syrupPump.jpg| Pump flavored syrup (Optional)
-coldMilk.jpg| Add cold milk to middle line on cup
-espressoDrip.jpg| Espresso shots
+espressoDrip.jpg| Espresso shots (if there's no syrup, pour milk to middle line before shots)
+coldMilk.jpg| Add cold milk to top line on cup
 ice.jpg| Fill with ice.
 ===
 C | Iced Cappuccino
@@ -43,17 +43,17 @@ caramelBruleeTopping.jpg| Add Caramel Brulee topping
 ===
 M | Iced Mocha
 chocolateSyrup.jpg| Pump chocolate syrup
-espressoDrip.jpg| Add espresso shots and swirl
+espressoDrip.jpg| Add espresso shots and stir
 coldMilk.jpg| Add cold milk to top line one cup
 ice.jpg| Fill with ice
-whippedCreamDispenser.jpg| Top with whipped cream
+whippedCreamDispenser.jpg| Top with whipped cream and dome lid (Optional)
 ===
 WCM | Iced White Chocolate Mocha
 whiteChocolateSyrup.jpg| Pump chocolate syrup
 espressoDrip.jpg| Add espresso shots and swirl
 coldMilk.jpg| Add cold milk to top line one cup
 ice.jpg| Fill with ice
-whippedCreamDispenser.jpg| Top with whipped cream
+whippedCreamDispenser.jpg| Top with whipped cream and dome lid (Optional)
 ===
 PM | Iced Peppermint Mocha
 peppermintSyrup.jpg| Pump Peppermint syrup 346
