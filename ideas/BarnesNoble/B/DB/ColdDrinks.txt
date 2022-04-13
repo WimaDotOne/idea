@@ -11,10 +11,10 @@ ice.jpg| Fill with ice.
 ===
 C | Iced Cappuccino
 syrupPump.jpg| Add flavored syrup (Optional)
-coldMilk.jpg| Add cold milk to bottom line on cup.
-espressoDrip.jpg| Espresso shots
+espressoDrip.jpg| Espresso shots (if there's no syrup, pour milk to bottom line)
+coldMilk.jpg| Add cold milk to middle line on cup.
 ice.jpg| 2cm to full
-milkPitcher.jpg| Pour milk to one line below original line. Steam for FOAM!
+milkPitcher.jpg| Pour milk to one line below original line (Or try short line). Steam for FOAM!
 ===
 CM | Iced Caramel Macchiato
 vanillaSyrup.jpg| Pump vanillaSyrup 235
@@ -22,6 +22,14 @@ coldMilk.jpg| Add cold milk to top line on cup
 ice.jpg| Add ice
 espressoDrip.jpg| Espresso shots
 caramelDrizzle.jpg| Top with caramel drizzle
+===
+CMM | Iced Coconutmilk Mocha Macchiato
+whiteChocolateSyrup.jpg| Pump white chocolate syrup 112
+coldMilk.jpg| Add COCONUTMILK to top line on cup
+ice.jpg| Fill with ice
+espressoDrip.jpg| Espresso shots
+caramelDrizzle.jpg | Add Caramel drizzle, crosshatch, double circle
+mochaDrizzle.jpg| We don't have mocha drizzle
 ===
 LM | Iced Latte Macchiato
 coldMilk.jpg| Add WHOLE milk to middle line on cup
@@ -32,14 +40,6 @@ FW | Iced Flat White
 coldMilk.jpg| Add WHOLE milk to middle line on cup
 espressoDrip.jpg| Ristretto shots 234
 ice.jpg| Fill with ice
-===
-CBL | Iced Caramel Brulee Latte
-caramelBruleeSyrup.jpg| Pump Caramel Brulee syrup
-coldMilk.jpg| Add cold milk to middle line
-espressoDrip.jpg| Espresso shots
-ice.jpg | Fill with ice
-whippedCreamDispenser.jpg| Top with whipped cream.
-caramelBruleeTopping.jpg| Add Caramel Brulee topping
 ===
 M | Iced Mocha
 chocolateSyrup.jpg| Pump chocolate syrup
@@ -64,20 +64,6 @@ ice.jpg| Fill with ice
 whippedCreamDispenser.jpg| Top with whipped cream (Optional)
 chocolateCurl.jpg|Sprinkle chocolate curls
 ===
-SCAL | Iced Sugar Cookie Almondmilk Latte
-sugarCookieSyrup.jpg| Pump Sugar Cookie syrup
-coldMilk.jpg| Add cold ALMOND milk to middle line on cup
-espressoDrip.jpg| Espresso shots
-ice.jpg | Fill with ice
-redGreenSprinkle.jpg| Top with red & green sprinkles
-===
-PL | Pistachio Latte
-pistachioSyrup.jpg| Pump Pistachio Syrup
-coldMilk.jpg| Add cold milk to top line on cup
-espressoDrip.jpg| Espresso shots
-ice.jpg| Fill with ice
-saltedBrownButterCookieTopping.jpg| Top with Salted Brown Butter Cookie Topping
-===
 SCM | Iced Salted Caramel Mocha
 toffeeNutSyrup.jpg| Pump Toffee Nut syrup 346
 chocolateSyrup.jpg| Pump Chocolate syrup 346
@@ -88,19 +74,33 @@ whippedCreamDispenser.jpg| Top with whipped cream (Optional)
 caramelDrizzle.jpg | Add Caramel drizzle
 seaSalt.jpg| Sprinkle Sea Salt
 ===
-CFC | Cold Foam Cappuccino
+CBL | Iced Caramel Brulee Latte
+caramelBruleeSyrup.jpg| Pump Caramel Brulee syrup
+espressoDrip.jpg| Espresso shots
+coldMilk.jpg| Add cold milk to middle line
+ice.jpg | Fill with ice
+whippedCreamDispenser.jpg| Top with whipped cream.
+caramelBruleeTopping.jpg| Add Caramel Brulee topping
+===
+SCAL | Iced Sugar Cookie Almondmilk Latte
+sugarCookieSyrup.jpg| Pump Sugar Cookie syrup
+espressoDrip.jpg| Espresso shots
+coldMilk.jpg| Add cold ALMOND milk to middle line on cup
+ice.jpg | Fill with ice
+redGreenSprinkle.jpg| We don't have red & green sprinkles
+===
+PL | Pistachio Latte
+pistachioSyrup.jpg| Pump Pistachio Syrup
+espressoDrip.jpg| Espresso shots
+coldMilk.jpg| Add cold milk to top line on cup
 ice.jpg| Fill with ice
+saltedBrownButterCookieTopping.jpg| Top with Salted Brown Butter Cookie Topping
+===
+CFC | Cold Foam Cappuccino
+ice.jpg| Use volumetric ice scoop. Fill cup with ice
 espressoDrip.jpg| Espresso shots
 coldMilk.jpg| Add NON-FAT milk to top line on cup
 coldFoam.jpg| 150ml NON-FAT milk blend on #3. Top with foam.
-===
-CMM | Iced Coconutmilk Mocha Macchiato
-whiteChocolateSyrup.jpg| Pump white chocolate syrup 112
-coldMilk.jpg| Add COCONUTMILK to top line on cup
-ice.jpg| Fill with ice
-espressoDrip.jpg| Espresso shots
-caramelDrizzle.jpg | Add Caramel drizzle, crosshatch, double circle
-mochaDrizzle.jpg| Add Mocha drizzle, a cirlce.
 ===
 SD | Starbucks Doubleshot on Ice
 shaker.jpg| Use shaker
